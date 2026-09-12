@@ -1,0 +1,1498 @@
+year,nationality,issued,new,renewal,refused,withdrawn,source_file
+2015,Afghanistan,1,1,0,0,0,data/raw/employment_permits/2015/permits-issued-by-nationality-2015.xlsx
+2015,Albania,7,6,1,3,0,data/raw/employment_permits/2015/permits-issued-by-nationality-2015.xlsx
+2015,Algeria,3,3,0,0,0,data/raw/employment_permits/2015/permits-issued-by-nationality-2015.xlsx
+2015,Andorra,2,2,0,0,0,data/raw/employment_permits/2015/permits-issued-by-nationality-2015.xlsx
+2015,Angola,2,1,1,0,0,data/raw/employment_permits/2015/permits-issued-by-nationality-2015.xlsx
+2015,Argentina,44,37,7,5,1,data/raw/employment_permits/2015/permits-issued-by-nationality-2015.xlsx
+2015,Armenia,4,4,0,0,0,data/raw/employment_permits/2015/permits-issued-by-nationality-2015.xlsx
+2015,Australia,86,73,13,17,6,data/raw/employment_permits/2015/permits-issued-by-nationality-2015.xlsx
+2015,Azerbaijan,4,4,0,0,1,data/raw/employment_permits/2015/permits-issued-by-nationality-2015.xlsx
+2015,Bahrain,5,4,1,1,0,data/raw/employment_permits/2015/permits-issued-by-nationality-2015.xlsx
+2015,Bangladesh,22,18,4,9,2,data/raw/employment_permits/2015/permits-issued-by-nationality-2015.xlsx
+2015,Belarus,13,12,1,0,1,data/raw/employment_permits/2015/permits-issued-by-nationality-2015.xlsx
+2015,Bolivia,3,3,0,0,0,data/raw/employment_permits/2015/permits-issued-by-nationality-2015.xlsx
+2015,Bosnia and Herzegovina,7,5,2,2,0,data/raw/employment_permits/2015/permits-issued-by-nationality-2015.xlsx
+2015,Botswana,11,7,4,0,0,data/raw/employment_permits/2015/permits-issued-by-nationality-2015.xlsx
+2015,Brazil,309,287,22,71,13,data/raw/employment_permits/2015/permits-issued-by-nationality-2015.xlsx
+2015,Cameroon,2,1,1,0,0,data/raw/employment_permits/2015/permits-issued-by-nationality-2015.xlsx
+2015,Canada,162,119,43,12,2,data/raw/employment_permits/2015/permits-issued-by-nationality-2015.xlsx
+2015,Chile,6,6,0,5,0,data/raw/employment_permits/2015/permits-issued-by-nationality-2015.xlsx
+2015,China,240,208,32,72,4,data/raw/employment_permits/2015/permits-issued-by-nationality-2015.xlsx
+2015,Colombia,7,6,1,1,1,data/raw/employment_permits/2015/permits-issued-by-nationality-2015.xlsx
+2015,Congo,0,0,0,0,1,data/raw/employment_permits/2015/permits-issued-by-nationality-2015.xlsx
+2015,"Congo, The Democratic Republic of the",1,0,1,0,0,data/raw/employment_permits/2015/permits-issued-by-nationality-2015.xlsx
+2015,Costa Rica,1,0,1,0,0,data/raw/employment_permits/2015/permits-issued-by-nationality-2015.xlsx
+2015,Cuba,1,1,0,0,0,data/raw/employment_permits/2015/permits-issued-by-nationality-2015.xlsx
+2015,Dominican Republic,3,3,0,0,0,data/raw/employment_permits/2015/permits-issued-by-nationality-2015.xlsx
+2015,Ecuador,3,3,0,0,0,data/raw/employment_permits/2015/permits-issued-by-nationality-2015.xlsx
+2015,Egypt,161,142,19,15,3,data/raw/employment_permits/2015/permits-issued-by-nationality-2015.xlsx
+2015,Eritrea,1,1,0,0,0,data/raw/employment_permits/2015/permits-issued-by-nationality-2015.xlsx
+2015,Ethiopia,2,2,0,1,0,data/raw/employment_permits/2015/permits-issued-by-nationality-2015.xlsx
+2015,Georgia,2,2,0,1,0,data/raw/employment_permits/2015/permits-issued-by-nationality-2015.xlsx
+2015,Ghana,8,8,0,2,0,data/raw/employment_permits/2015/permits-issued-by-nationality-2015.xlsx
+2015,Guatemala,3,2,1,0,0,data/raw/employment_permits/2015/permits-issued-by-nationality-2015.xlsx
+2015,Guyana,1,1,0,0,0,data/raw/employment_permits/2015/permits-issued-by-nationality-2015.xlsx
+2015,Honduras,1,1,0,0,0,data/raw/employment_permits/2015/permits-issued-by-nationality-2015.xlsx
+2015,Hong Kong,0,0,0,1,0,data/raw/employment_permits/2015/permits-issued-by-nationality-2015.xlsx
+2015,India,2112,1847,265,159,31,data/raw/employment_permits/2015/permits-issued-by-nationality-2015.xlsx
+2015,Indonesia,6,6,0,2,0,data/raw/employment_permits/2015/permits-issued-by-nationality-2015.xlsx
+2015,"Iran, Islamic Republic of",15,14,1,2,2,data/raw/employment_permits/2015/permits-issued-by-nationality-2015.xlsx
+2015,Iraq,29,18,11,3,1,data/raw/employment_permits/2015/permits-issued-by-nationality-2015.xlsx
+2015,Israel,228,213,15,0,9,data/raw/employment_permits/2015/permits-issued-by-nationality-2015.xlsx
+2015,Jamaica,2,2,0,1,0,data/raw/employment_permits/2015/permits-issued-by-nationality-2015.xlsx
+2015,Japan,107,81,26,9,2,data/raw/employment_permits/2015/permits-issued-by-nationality-2015.xlsx
+2015,Jordan,31,27,4,3,0,data/raw/employment_permits/2015/permits-issued-by-nationality-2015.xlsx
+2015,Kazakhstan,8,6,2,0,0,data/raw/employment_permits/2015/permits-issued-by-nationality-2015.xlsx
+2015,Kenya,8,8,0,0,1,data/raw/employment_permits/2015/permits-issued-by-nationality-2015.xlsx
+2015,Korea (Republic of (South)),1,1,0,0,0,data/raw/employment_permits/2015/permits-issued-by-nationality-2015.xlsx
+2015,"Korea, Republic of",27,26,1,7,1,data/raw/employment_permits/2015/permits-issued-by-nationality-2015.xlsx
+2015,Kosova,0,0,0,1,0,data/raw/employment_permits/2015/permits-issued-by-nationality-2015.xlsx
+2015,Kosovo,1,1,0,0,0,data/raw/employment_permits/2015/permits-issued-by-nationality-2015.xlsx
+2015,Kuwait,6,6,0,0,0,data/raw/employment_permits/2015/permits-issued-by-nationality-2015.xlsx
+2015,Latvia,1,0,1,0,0,data/raw/employment_permits/2015/permits-issued-by-nationality-2015.xlsx
+2015,Lebanon,36,24,12,2,0,data/raw/employment_permits/2015/permits-issued-by-nationality-2015.xlsx
+2015,Libya,5,4,1,0,0,data/raw/employment_permits/2015/permits-issued-by-nationality-2015.xlsx
+2015,Libyan Arab Jamahiriya,1,1,0,0,0,data/raw/employment_permits/2015/permits-issued-by-nationality-2015.xlsx
+2015,"Macedonia, The Former Yugoslav Republic of",5,4,1,7,0,data/raw/employment_permits/2015/permits-issued-by-nationality-2015.xlsx
+2015,Malawi,2,2,0,0,0,data/raw/employment_permits/2015/permits-issued-by-nationality-2015.xlsx
+2015,Malaysia,203,162,41,49,9,data/raw/employment_permits/2015/permits-issued-by-nationality-2015.xlsx
+2015,Mauritania,1,1,0,1,0,data/raw/employment_permits/2015/permits-issued-by-nationality-2015.xlsx
+2015,Mauritius,65,38,27,38,0,data/raw/employment_permits/2015/permits-issued-by-nationality-2015.xlsx
+2015,Mexico,18,16,2,10,1,data/raw/employment_permits/2015/permits-issued-by-nationality-2015.xlsx
+2015,"Moldova, Republic of",1,1,0,2,0,data/raw/employment_permits/2015/permits-issued-by-nationality-2015.xlsx
+2015,Mongolia,1,1,0,0,0,data/raw/employment_permits/2015/permits-issued-by-nationality-2015.xlsx
+2015,Morocco,8,7,1,0,0,data/raw/employment_permits/2015/permits-issued-by-nationality-2015.xlsx
+2015,Myanmar,1,1,0,0,0,data/raw/employment_permits/2015/permits-issued-by-nationality-2015.xlsx
+2015,Nepal,10,9,1,7,0,data/raw/employment_permits/2015/permits-issued-by-nationality-2015.xlsx
+2015,New Zealand,40,34,6,12,2,data/raw/employment_permits/2015/permits-issued-by-nationality-2015.xlsx
+2015,Nicaragua,0,0,0,1,0,data/raw/employment_permits/2015/permits-issued-by-nationality-2015.xlsx
+2015,Nigeria,141,96,45,9,3,data/raw/employment_permits/2015/permits-issued-by-nationality-2015.xlsx
+2015,Oman,2,2,0,0,0,data/raw/employment_permits/2015/permits-issued-by-nationality-2015.xlsx
+2015,Pakistan,952,724,228,51,19,data/raw/employment_permits/2015/permits-issued-by-nationality-2015.xlsx
+2015,Palestine,4,3,1,2,0,data/raw/employment_permits/2015/permits-issued-by-nationality-2015.xlsx
+2015,Panama,1,1,0,0,0,data/raw/employment_permits/2015/permits-issued-by-nationality-2015.xlsx
+2015,Papua New Guinea,1,1,0,0,0,data/raw/employment_permits/2015/permits-issued-by-nationality-2015.xlsx
+2015,Paraguay,0,0,0,1,0,data/raw/employment_permits/2015/permits-issued-by-nationality-2015.xlsx
+2015,Peru,6,5,1,1,0,data/raw/employment_permits/2015/permits-issued-by-nationality-2015.xlsx
+2015,Philippines,145,121,24,27,3,data/raw/employment_permits/2015/permits-issued-by-nationality-2015.xlsx
+2015,Republic of Serbia,8,6,2,0,0,data/raw/employment_permits/2015/permits-issued-by-nationality-2015.xlsx
+2015,Russian Federation,215,178,37,8,6,data/raw/employment_permits/2015/permits-issued-by-nationality-2015.xlsx
+2015,Rwanda,1,1,0,0,0,data/raw/employment_permits/2015/permits-issued-by-nationality-2015.xlsx
+2015,Saint Kitts and Nevis,2,2,0,0,0,data/raw/employment_permits/2015/permits-issued-by-nationality-2015.xlsx
+2015,Saudi Arabia,3,2,1,2,0,data/raw/employment_permits/2015/permits-issued-by-nationality-2015.xlsx
+2015,Senegal,0,0,0,1,0,data/raw/employment_permits/2015/permits-issued-by-nationality-2015.xlsx
+2015,Serbia,13,13,0,1,0,data/raw/employment_permits/2015/permits-issued-by-nationality-2015.xlsx
+2015,Serbia and Montenegro,6,5,1,1,0,data/raw/employment_permits/2015/permits-issued-by-nationality-2015.xlsx
+2015,Singapore,23,20,3,0,0,data/raw/employment_permits/2015/permits-issued-by-nationality-2015.xlsx
+2015,Somalia,2,0,2,0,0,data/raw/employment_permits/2015/permits-issued-by-nationality-2015.xlsx
+2015,South Africa,126,102,24,25,6,data/raw/employment_permits/2015/permits-issued-by-nationality-2015.xlsx
+2015,Sri Lanka,57,34,23,3,1,data/raw/employment_permits/2015/permits-issued-by-nationality-2015.xlsx
+2015,Sudan,268,204,64,16,6,data/raw/employment_permits/2015/permits-issued-by-nationality-2015.xlsx
+2015,Syrian Arab Republic,20,16,4,0,1,data/raw/employment_permits/2015/permits-issued-by-nationality-2015.xlsx
+2015,Taiwan,3,3,0,0,0,data/raw/employment_permits/2015/permits-issued-by-nationality-2015.xlsx
+2015,"Tanzania, United Republic of",2,1,1,0,0,data/raw/employment_permits/2015/permits-issued-by-nationality-2015.xlsx
+2015,Thailand,18,11,7,8,0,data/raw/employment_permits/2015/permits-issued-by-nationality-2015.xlsx
+2015,Trinidad and Tobago,13,12,1,0,1,data/raw/employment_permits/2015/permits-issued-by-nationality-2015.xlsx
+2015,Tunisia,7,7,0,0,0,data/raw/employment_permits/2015/permits-issued-by-nationality-2015.xlsx
+2015,Turkey,158,139,19,10,12,data/raw/employment_permits/2015/permits-issued-by-nationality-2015.xlsx
+2015,Turkmenistan,1,1,0,0,0,data/raw/employment_permits/2015/permits-issued-by-nationality-2015.xlsx
+2015,Uganda,4,2,2,0,0,data/raw/employment_permits/2015/permits-issued-by-nationality-2015.xlsx
+2015,Ukraine,140,126,14,11,2,data/raw/employment_permits/2015/permits-issued-by-nationality-2015.xlsx
+2015,United Arab Emirates,7,7,0,1,0,data/raw/employment_permits/2015/permits-issued-by-nationality-2015.xlsx
+2015,United Kingdom,0,0,0,1,0,data/raw/employment_permits/2015/permits-issued-by-nationality-2015.xlsx
+2015,United States Minor Outlying Islands,1,1,0,0,0,data/raw/employment_permits/2015/permits-issued-by-nationality-2015.xlsx
+2015,United States of America,714,618,96,60,11,data/raw/employment_permits/2015/permits-issued-by-nationality-2015.xlsx
+2015,Uzbekistan,5,4,1,0,0,data/raw/employment_permits/2015/permits-issued-by-nationality-2015.xlsx
+2015,Venezuela,55,52,3,19,1,data/raw/employment_permits/2015/permits-issued-by-nationality-2015.xlsx
+2015,Viet Nam,1,1,0,0,0,data/raw/employment_permits/2015/permits-issued-by-nationality-2015.xlsx
+2015,Vietnam,8,8,0,3,0,data/raw/employment_permits/2015/permits-issued-by-nationality-2015.xlsx
+2015,Yemen,1,1,0,0,0,data/raw/employment_permits/2015/permits-issued-by-nationality-2015.xlsx
+2015,Zambia,3,3,0,2,0,data/raw/employment_permits/2015/permits-issued-by-nationality-2015.xlsx
+2015,Zimbabwe,9,9,0,0,0,data/raw/employment_permits/2015/permits-issued-by-nationality-2015.xlsx
+2016,Afghanistan,4,2,2,0,0,data/raw/employment_permits/2016/permits-issued-by-nationality-2016.xlsx
+2016,Albania,11,11,0,0,0,data/raw/employment_permits/2016/permits-issued-by-nationality-2016.xlsx
+2016,Algeria,6,6,0,1,0,data/raw/employment_permits/2016/permits-issued-by-nationality-2016.xlsx
+2016,Angola,1,1,0,0,0,data/raw/employment_permits/2016/permits-issued-by-nationality-2016.xlsx
+2016,Argentina,37,34,3,11,0,data/raw/employment_permits/2016/permits-issued-by-nationality-2016.xlsx
+2016,Armenia,1,1,0,0,0,data/raw/employment_permits/2016/permits-issued-by-nationality-2016.xlsx
+2016,Australia,109,92,17,19,2,data/raw/employment_permits/2016/permits-issued-by-nationality-2016.xlsx
+2016,Azerbaijan,7,6,1,1,0,data/raw/employment_permits/2016/permits-issued-by-nationality-2016.xlsx
+2016,Bahrain,3,3,0,0,0,data/raw/employment_permits/2016/permits-issued-by-nationality-2016.xlsx
+2016,Bangladesh,32,24,8,15,0,data/raw/employment_permits/2016/permits-issued-by-nationality-2016.xlsx
+2016,Belarus,23,22,1,2,0,data/raw/employment_permits/2016/permits-issued-by-nationality-2016.xlsx
+2016,Belize,1,1,0,0,0,data/raw/employment_permits/2016/permits-issued-by-nationality-2016.xlsx
+2016,Benin,1,1,0,0,0,data/raw/employment_permits/2016/permits-issued-by-nationality-2016.xlsx
+2016,Bolivia,1,1,0,0,0,data/raw/employment_permits/2016/permits-issued-by-nationality-2016.xlsx
+2016,Bosnia and Herzegovina,5,5,0,1,1,data/raw/employment_permits/2016/permits-issued-by-nationality-2016.xlsx
+2016,Botswana,5,3,2,1,0,data/raw/employment_permits/2016/permits-issued-by-nationality-2016.xlsx
+2016,Brazil,561,536,25,144,10,data/raw/employment_permits/2016/permits-issued-by-nationality-2016.xlsx
+2016,Cameroon,3,2,1,1,0,data/raw/employment_permits/2016/permits-issued-by-nationality-2016.xlsx
+2016,Canada,158,124,34,32,3,data/raw/employment_permits/2016/permits-issued-by-nationality-2016.xlsx
+2016,Chile,8,5,3,1,0,data/raw/employment_permits/2016/permits-issued-by-nationality-2016.xlsx
+2016,China,322,284,38,77,10,data/raw/employment_permits/2016/permits-issued-by-nationality-2016.xlsx
+2016,Colombia,21,18,3,2,0,data/raw/employment_permits/2016/permits-issued-by-nationality-2016.xlsx
+2016,"Congo, The Democratic Republic of the",2,2,0,0,0,data/raw/employment_permits/2016/permits-issued-by-nationality-2016.xlsx
+2016,Costa Rica,12,10,2,0,0,data/raw/employment_permits/2016/permits-issued-by-nationality-2016.xlsx
+2016,Cuba,1,1,0,1,0,data/raw/employment_permits/2016/permits-issued-by-nationality-2016.xlsx
+2016,Dominican Republic,1,1,0,0,1,data/raw/employment_permits/2016/permits-issued-by-nationality-2016.xlsx
+2016,Ecuador,2,2,0,0,1,data/raw/employment_permits/2016/permits-issued-by-nationality-2016.xlsx
+2016,Egypt,257,209,48,19,5,data/raw/employment_permits/2016/permits-issued-by-nationality-2016.xlsx
+2016,El Salvador,1,1,0,0,0,data/raw/employment_permits/2016/permits-issued-by-nationality-2016.xlsx
+2016,Eritrea,1,0,1,0,0,data/raw/employment_permits/2016/permits-issued-by-nationality-2016.xlsx
+2016,Ethiopia,5,4,1,1,0,data/raw/employment_permits/2016/permits-issued-by-nationality-2016.xlsx
+2016,Fiji,1,1,0,0,0,data/raw/employment_permits/2016/permits-issued-by-nationality-2016.xlsx
+2016,Georgia,3,3,0,0,0,data/raw/employment_permits/2016/permits-issued-by-nationality-2016.xlsx
+2016,Ghana,5,4,1,3,0,data/raw/employment_permits/2016/permits-issued-by-nationality-2016.xlsx
+2016,Guatemala,1,1,0,0,0,data/raw/employment_permits/2016/permits-issued-by-nationality-2016.xlsx
+2016,Guyana,1,1,0,0,0,data/raw/employment_permits/2016/permits-issued-by-nationality-2016.xlsx
+2016,Haiti,2,2,0,0,0,data/raw/employment_permits/2016/permits-issued-by-nationality-2016.xlsx
+2016,Hong Kong,5,5,0,0,0,data/raw/employment_permits/2016/permits-issued-by-nationality-2016.xlsx
+2016,India,2990,2570,420,310,52,data/raw/employment_permits/2016/permits-issued-by-nationality-2016.xlsx
+2016,Indonesia,6,5,1,1,0,data/raw/employment_permits/2016/permits-issued-by-nationality-2016.xlsx
+2016,"Iran, Islamic Republic of",32,27,5,2,0,data/raw/employment_permits/2016/permits-issued-by-nationality-2016.xlsx
+2016,Iraq,30,19,11,3,0,data/raw/employment_permits/2016/permits-issued-by-nationality-2016.xlsx
+2016,Ireland,5,5,0,3,0,data/raw/employment_permits/2016/permits-issued-by-nationality-2016.xlsx
+2016,Israel,199,156,43,6,1,data/raw/employment_permits/2016/permits-issued-by-nationality-2016.xlsx
+2016,Ivory Coast,1,1,0,0,0,data/raw/employment_permits/2016/permits-issued-by-nationality-2016.xlsx
+2016,Jamaica,1,1,0,2,0,data/raw/employment_permits/2016/permits-issued-by-nationality-2016.xlsx
+2016,Japan,97,80,17,11,4,data/raw/employment_permits/2016/permits-issued-by-nationality-2016.xlsx
+2016,Jordan,20,14,6,3,1,data/raw/employment_permits/2016/permits-issued-by-nationality-2016.xlsx
+2016,Kazakhstan,9,7,2,1,0,data/raw/employment_permits/2016/permits-issued-by-nationality-2016.xlsx
+2016,Kenya,10,10,0,0,0,data/raw/employment_permits/2016/permits-issued-by-nationality-2016.xlsx
+2016,"Korea, Republic of",31,25,6,4,1,data/raw/employment_permits/2016/permits-issued-by-nationality-2016.xlsx
+2016,Kosova,0,0,0,1,0,data/raw/employment_permits/2016/permits-issued-by-nationality-2016.xlsx
+2016,Kuwait,4,2,2,0,0,data/raw/employment_permits/2016/permits-issued-by-nationality-2016.xlsx
+2016,Kyrgyzstan,1,1,0,0,0,data/raw/employment_permits/2016/permits-issued-by-nationality-2016.xlsx
+2016,Lebanon,29,21,8,2,0,data/raw/employment_permits/2016/permits-issued-by-nationality-2016.xlsx
+2016,Libya,5,5,0,1,0,data/raw/employment_permits/2016/permits-issued-by-nationality-2016.xlsx
+2016,"Macedonia, The Former Yugoslav Republic of",6,6,0,1,0,data/raw/employment_permits/2016/permits-issued-by-nationality-2016.xlsx
+2016,Malawi,3,2,1,2,1,data/raw/employment_permits/2016/permits-issued-by-nationality-2016.xlsx
+2016,Malaysia,242,168,74,70,8,data/raw/employment_permits/2016/permits-issued-by-nationality-2016.xlsx
+2016,Maldives,2,2,0,0,0,data/raw/employment_permits/2016/permits-issued-by-nationality-2016.xlsx
+2016,Mauritius,65,29,36,34,0,data/raw/employment_permits/2016/permits-issued-by-nationality-2016.xlsx
+2016,Mexico,39,37,2,18,1,data/raw/employment_permits/2016/permits-issued-by-nationality-2016.xlsx
+2016,"Moldova, Republic of",2,2,0,0,0,data/raw/employment_permits/2016/permits-issued-by-nationality-2016.xlsx
+2016,Montenegro,0,0,0,1,0,data/raw/employment_permits/2016/permits-issued-by-nationality-2016.xlsx
+2016,Morocco,14,12,2,3,0,data/raw/employment_permits/2016/permits-issued-by-nationality-2016.xlsx
+2016,Myanmar,0,0,0,1,0,data/raw/employment_permits/2016/permits-issued-by-nationality-2016.xlsx
+2016,Nepal,21,18,3,7,0,data/raw/employment_permits/2016/permits-issued-by-nationality-2016.xlsx
+2016,New Zealand,45,31,14,9,1,data/raw/employment_permits/2016/permits-issued-by-nationality-2016.xlsx
+2016,Nicaragua,0,0,0,1,0,data/raw/employment_permits/2016/permits-issued-by-nationality-2016.xlsx
+2016,Nigeria,179,116,63,18,2,data/raw/employment_permits/2016/permits-issued-by-nationality-2016.xlsx
+2016,Oman,2,2,0,0,0,data/raw/employment_permits/2016/permits-issued-by-nationality-2016.xlsx
+2016,Pakistan,1046,683,363,92,28,data/raw/employment_permits/2016/permits-issued-by-nationality-2016.xlsx
+2016,Palestine,6,6,0,1,0,data/raw/employment_permits/2016/permits-issued-by-nationality-2016.xlsx
+2016,Peru,9,7,2,0,0,data/raw/employment_permits/2016/permits-issued-by-nationality-2016.xlsx
+2016,Philippines,376,355,21,73,31,data/raw/employment_permits/2016/permits-issued-by-nationality-2016.xlsx
+2016,Republic of China,1,1,0,0,0,data/raw/employment_permits/2016/permits-issued-by-nationality-2016.xlsx
+2016,Republic of Serbia,6,4,2,2,0,data/raw/employment_permits/2016/permits-issued-by-nationality-2016.xlsx
+2016,Russian Federation,188,159,29,11,2,data/raw/employment_permits/2016/permits-issued-by-nationality-2016.xlsx
+2016,Rwanda,1,1,0,0,0,data/raw/employment_permits/2016/permits-issued-by-nationality-2016.xlsx
+2016,Saint Kitts and Nevis,1,1,0,0,0,data/raw/employment_permits/2016/permits-issued-by-nationality-2016.xlsx
+2016,Saudi Arabia,6,5,1,1,0,data/raw/employment_permits/2016/permits-issued-by-nationality-2016.xlsx
+2016,Senegal,1,1,0,0,0,data/raw/employment_permits/2016/permits-issued-by-nationality-2016.xlsx
+2016,Serbia,30,29,1,1,0,data/raw/employment_permits/2016/permits-issued-by-nationality-2016.xlsx
+2016,Serbia and Montenegro,2,1,1,0,0,data/raw/employment_permits/2016/permits-issued-by-nationality-2016.xlsx
+2016,Seychelles,1,1,0,0,0,data/raw/employment_permits/2016/permits-issued-by-nationality-2016.xlsx
+2016,Singapore,25,22,3,2,0,data/raw/employment_permits/2016/permits-issued-by-nationality-2016.xlsx
+2016,Somalia,1,1,0,0,0,data/raw/employment_permits/2016/permits-issued-by-nationality-2016.xlsx
+2016,South Africa,207,177,30,36,7,data/raw/employment_permits/2016/permits-issued-by-nationality-2016.xlsx
+2016,Sri Lanka,51,27,24,1,3,data/raw/employment_permits/2016/permits-issued-by-nationality-2016.xlsx
+2016,Sudan,357,221,136,12,9,data/raw/employment_permits/2016/permits-issued-by-nationality-2016.xlsx
+2016,Swaziland,1,1,0,0,0,data/raw/employment_permits/2016/permits-issued-by-nationality-2016.xlsx
+2016,Syrian Arab Republic,13,6,7,1,0,data/raw/employment_permits/2016/permits-issued-by-nationality-2016.xlsx
+2016,Taiwan,8,6,2,0,0,data/raw/employment_permits/2016/permits-issued-by-nationality-2016.xlsx
+2016,"Tanzania, United Republic of",2,1,1,0,0,data/raw/employment_permits/2016/permits-issued-by-nationality-2016.xlsx
+2016,Thailand,10,5,5,7,0,data/raw/employment_permits/2016/permits-issued-by-nationality-2016.xlsx
+2016,Tibet,1,1,0,0,0,data/raw/employment_permits/2016/permits-issued-by-nationality-2016.xlsx
+2016,Trinidad and Tobago,10,9,1,4,0,data/raw/employment_permits/2016/permits-issued-by-nationality-2016.xlsx
+2016,Tunisia,7,7,0,1,1,data/raw/employment_permits/2016/permits-issued-by-nationality-2016.xlsx
+2016,Turkey,157,142,15,13,1,data/raw/employment_permits/2016/permits-issued-by-nationality-2016.xlsx
+2016,Turkmenistan,1,0,1,0,0,data/raw/employment_permits/2016/permits-issued-by-nationality-2016.xlsx
+2016,Uganda,3,3,0,1,0,data/raw/employment_permits/2016/permits-issued-by-nationality-2016.xlsx
+2016,Ukraine,194,178,16,78,8,data/raw/employment_permits/2016/permits-issued-by-nationality-2016.xlsx
+2016,United Arab Emirates,1,1,0,1,0,data/raw/employment_permits/2016/permits-issued-by-nationality-2016.xlsx
+2016,United Kingdom,2,2,0,0,0,data/raw/employment_permits/2016/permits-issued-by-nationality-2016.xlsx
+2016,United States of America,835,728,107,105,8,data/raw/employment_permits/2016/permits-issued-by-nationality-2016.xlsx
+2016,Uruguay,1,1,0,1,0,data/raw/employment_permits/2016/permits-issued-by-nationality-2016.xlsx
+2016,Uzbekistan,4,4,0,0,0,data/raw/employment_permits/2016/permits-issued-by-nationality-2016.xlsx
+2016,Venezuela,65,61,4,17,2,data/raw/employment_permits/2016/permits-issued-by-nationality-2016.xlsx
+2016,Vietnam,13,11,2,5,0,data/raw/employment_permits/2016/permits-issued-by-nationality-2016.xlsx
+2016,Yemen,1,1,0,0,0,data/raw/employment_permits/2016/permits-issued-by-nationality-2016.xlsx
+2016,Zambia,2,2,0,1,0,data/raw/employment_permits/2016/permits-issued-by-nationality-2016.xlsx
+2016,Zimbabwe,17,16,1,7,1,data/raw/employment_permits/2016/permits-issued-by-nationality-2016.xlsx
+2017,Afghanistan,6,4,2,0,0,data/raw/employment_permits/2017/permits-issued-by-nationality-2017.xlsx
+2017,Albania,9,9,0,2,0,data/raw/employment_permits/2017/permits-issued-by-nationality-2017.xlsx
+2017,Algeria,7,6,1,0,0,data/raw/employment_permits/2017/permits-issued-by-nationality-2017.xlsx
+2017,Angola,2,1,1,0,0,data/raw/employment_permits/2017/permits-issued-by-nationality-2017.xlsx
+2017,Argentina,55,51,4,2,2,data/raw/employment_permits/2017/permits-issued-by-nationality-2017.xlsx
+2017,Armenia,4,3,1,0,0,data/raw/employment_permits/2017/permits-issued-by-nationality-2017.xlsx
+2017,Australia,106,98,8,26,6,data/raw/employment_permits/2017/permits-issued-by-nationality-2017.xlsx
+2017,Azerbaijan,7,3,4,0,1,data/raw/employment_permits/2017/permits-issued-by-nationality-2017.xlsx
+2017,Bahrain,2,2,0,0,0,data/raw/employment_permits/2017/permits-issued-by-nationality-2017.xlsx
+2017,Bangladesh,24,16,8,18,0,data/raw/employment_permits/2017/permits-issued-by-nationality-2017.xlsx
+2017,Belarus,22,17,5,5,0,data/raw/employment_permits/2017/permits-issued-by-nationality-2017.xlsx
+2017,Benin,0,0,0,2,0,data/raw/employment_permits/2017/permits-issued-by-nationality-2017.xlsx
+2017,Bermuda,0,0,0,1,0,data/raw/employment_permits/2017/permits-issued-by-nationality-2017.xlsx
+2017,Bolivia,5,5,0,2,0,data/raw/employment_permits/2017/permits-issued-by-nationality-2017.xlsx
+2017,Bosnia and Herzegovina,3,3,0,5,0,data/raw/employment_permits/2017/permits-issued-by-nationality-2017.xlsx
+2017,Botswana,3,3,0,1,0,data/raw/employment_permits/2017/permits-issued-by-nationality-2017.xlsx
+2017,Brazil,675,635,40,201,21,data/raw/employment_permits/2017/permits-issued-by-nationality-2017.xlsx
+2017,Cameroon,9,8,1,0,0,data/raw/employment_permits/2017/permits-issued-by-nationality-2017.xlsx
+2017,Canada,187,136,51,28,10,data/raw/employment_permits/2017/permits-issued-by-nationality-2017.xlsx
+2017,Chile,10,7,3,2,0,data/raw/employment_permits/2017/permits-issued-by-nationality-2017.xlsx
+2017,China,297,260,37,129,12,data/raw/employment_permits/2017/permits-issued-by-nationality-2017.xlsx
+2017,Colombia,14,11,3,1,0,data/raw/employment_permits/2017/permits-issued-by-nationality-2017.xlsx
+2017,"Congo, The Democratic Republic of the",1,0,1,0,0,data/raw/employment_permits/2017/permits-issued-by-nationality-2017.xlsx
+2017,Costa Rica,9,7,2,0,0,data/raw/employment_permits/2017/permits-issued-by-nationality-2017.xlsx
+2017,Cuba,6,5,1,0,0,data/raw/employment_permits/2017/permits-issued-by-nationality-2017.xlsx
+2017,Dominican Republic,1,1,0,1,0,data/raw/employment_permits/2017/permits-issued-by-nationality-2017.xlsx
+2017,Ecuador,6,6,0,1,1,data/raw/employment_permits/2017/permits-issued-by-nationality-2017.xlsx
+2017,Egypt,349,269,80,26,7,data/raw/employment_permits/2017/permits-issued-by-nationality-2017.xlsx
+2017,El Salvador,2,2,0,1,0,data/raw/employment_permits/2017/permits-issued-by-nationality-2017.xlsx
+2017,Ethiopia,6,3,3,1,0,data/raw/employment_permits/2017/permits-issued-by-nationality-2017.xlsx
+2017,Fiji,1,1,0,0,0,data/raw/employment_permits/2017/permits-issued-by-nationality-2017.xlsx
+2017,Georgia,1,1,0,2,0,data/raw/employment_permits/2017/permits-issued-by-nationality-2017.xlsx
+2017,Ghana,16,14,2,2,1,data/raw/employment_permits/2017/permits-issued-by-nationality-2017.xlsx
+2017,Guatemala,1,1,0,1,0,data/raw/employment_permits/2017/permits-issued-by-nationality-2017.xlsx
+2017,Honduras,1,1,0,0,0,data/raw/employment_permits/2017/permits-issued-by-nationality-2017.xlsx
+2017,Hong Kong,14,13,1,7,1,data/raw/employment_permits/2017/permits-issued-by-nationality-2017.xlsx
+2017,India,3827,3316,511,307,79,data/raw/employment_permits/2017/permits-issued-by-nationality-2017.xlsx
+2017,Indonesia,10,10,0,4,1,data/raw/employment_permits/2017/permits-issued-by-nationality-2017.xlsx
+2017,"Iran, Islamic Republic of",26,20,6,10,1,data/raw/employment_permits/2017/permits-issued-by-nationality-2017.xlsx
+2017,Iraq,44,26,18,3,1,data/raw/employment_permits/2017/permits-issued-by-nationality-2017.xlsx
+2017,Ireland,8,8,0,2,0,data/raw/employment_permits/2017/permits-issued-by-nationality-2017.xlsx
+2017,Israel,127,60,67,10,3,data/raw/employment_permits/2017/permits-issued-by-nationality-2017.xlsx
+2017,Ivory Coast,1,1,0,0,0,data/raw/employment_permits/2017/permits-issued-by-nationality-2017.xlsx
+2017,Jamaica,1,1,0,0,0,data/raw/employment_permits/2017/permits-issued-by-nationality-2017.xlsx
+2017,Japan,141,106,35,25,5,data/raw/employment_permits/2017/permits-issued-by-nationality-2017.xlsx
+2017,Jordan,39,34,5,3,1,data/raw/employment_permits/2017/permits-issued-by-nationality-2017.xlsx
+2017,Kazakhstan,8,7,1,2,0,data/raw/employment_permits/2017/permits-issued-by-nationality-2017.xlsx
+2017,Kenya,21,19,2,1,0,data/raw/employment_permits/2017/permits-issued-by-nationality-2017.xlsx
+2017,"Korea, Democratic People's Republic of",1,1,0,0,0,data/raw/employment_permits/2017/permits-issued-by-nationality-2017.xlsx
+2017,"Korea, Republic of",41,35,6,13,3,data/raw/employment_permits/2017/permits-issued-by-nationality-2017.xlsx
+2017,Kosova,1,1,0,0,0,data/raw/employment_permits/2017/permits-issued-by-nationality-2017.xlsx
+2017,Kuwait,3,2,1,0,0,data/raw/employment_permits/2017/permits-issued-by-nationality-2017.xlsx
+2017,Latvia,1,1,0,0,0,data/raw/employment_permits/2017/permits-issued-by-nationality-2017.xlsx
+2017,Lebanon,31,27,4,2,1,data/raw/employment_permits/2017/permits-issued-by-nationality-2017.xlsx
+2017,Lesotho,1,1,0,0,0,data/raw/employment_permits/2017/permits-issued-by-nationality-2017.xlsx
+2017,Libya,21,13,8,1,0,data/raw/employment_permits/2017/permits-issued-by-nationality-2017.xlsx
+2017,"Macedonia, The Former Yugoslav Republic of",5,5,0,2,0,data/raw/employment_permits/2017/permits-issued-by-nationality-2017.xlsx
+2017,Malawi,2,2,0,3,0,data/raw/employment_permits/2017/permits-issued-by-nationality-2017.xlsx
+2017,Malaysia,286,217,69,54,13,data/raw/employment_permits/2017/permits-issued-by-nationality-2017.xlsx
+2017,Maldives,1,1,0,0,0,data/raw/employment_permits/2017/permits-issued-by-nationality-2017.xlsx
+2017,Mauritius,66,42,24,16,1,data/raw/employment_permits/2017/permits-issued-by-nationality-2017.xlsx
+2017,Mexico,49,44,5,16,0,data/raw/employment_permits/2017/permits-issued-by-nationality-2017.xlsx
+2017,Moldova,1,1,0,1,0,data/raw/employment_permits/2017/permits-issued-by-nationality-2017.xlsx
+2017,"Moldova, Republic of",2,2,0,0,0,data/raw/employment_permits/2017/permits-issued-by-nationality-2017.xlsx
+2017,Montenegro,4,4,0,0,0,data/raw/employment_permits/2017/permits-issued-by-nationality-2017.xlsx
+2017,Morocco,19,17,2,3,0,data/raw/employment_permits/2017/permits-issued-by-nationality-2017.xlsx
+2017,Myanmar,3,2,1,0,0,data/raw/employment_permits/2017/permits-issued-by-nationality-2017.xlsx
+2017,Nepal,30,29,1,22,1,data/raw/employment_permits/2017/permits-issued-by-nationality-2017.xlsx
+2017,New Zealand,51,36,15,10,2,data/raw/employment_permits/2017/permits-issued-by-nationality-2017.xlsx
+2017,Nicaragua,1,1,0,0,0,data/raw/employment_permits/2017/permits-issued-by-nationality-2017.xlsx
+2017,Nigeria,237,173,64,31,8,data/raw/employment_permits/2017/permits-issued-by-nationality-2017.xlsx
+2017,Oman,2,1,1,0,0,data/raw/employment_permits/2017/permits-issued-by-nationality-2017.xlsx
+2017,Pakistan,1008,644,364,84,40,data/raw/employment_permits/2017/permits-issued-by-nationality-2017.xlsx
+2017,Palestine,9,8,1,2,0,data/raw/employment_permits/2017/permits-issued-by-nationality-2017.xlsx
+2017,"Palestinian Territory,Occupied",1,0,1,0,0,data/raw/employment_permits/2017/permits-issued-by-nationality-2017.xlsx
+2017,Panama,1,1,0,0,0,data/raw/employment_permits/2017/permits-issued-by-nationality-2017.xlsx
+2017,Paraguay,0,0,0,1,0,data/raw/employment_permits/2017/permits-issued-by-nationality-2017.xlsx
+2017,Peru,3,3,0,0,0,data/raw/employment_permits/2017/permits-issued-by-nationality-2017.xlsx
+2017,Philippines,768,752,16,64,12,data/raw/employment_permits/2017/permits-issued-by-nationality-2017.xlsx
+2017,Puerto Rico,1,1,0,1,0,data/raw/employment_permits/2017/permits-issued-by-nationality-2017.xlsx
+2017,Republic of China,1,1,0,0,0,data/raw/employment_permits/2017/permits-issued-by-nationality-2017.xlsx
+2017,Republic of Serbia,5,4,1,0,0,data/raw/employment_permits/2017/permits-issued-by-nationality-2017.xlsx
+2017,Russian Federation,213,186,27,18,4,data/raw/employment_permits/2017/permits-issued-by-nationality-2017.xlsx
+2017,Saint Kitts and Nevis,2,1,1,0,0,data/raw/employment_permits/2017/permits-issued-by-nationality-2017.xlsx
+2017,Saudi Arabia,12,12,0,1,1,data/raw/employment_permits/2017/permits-issued-by-nationality-2017.xlsx
+2017,Senegal,2,1,1,0,0,data/raw/employment_permits/2017/permits-issued-by-nationality-2017.xlsx
+2017,Serbia,19,18,1,10,3,data/raw/employment_permits/2017/permits-issued-by-nationality-2017.xlsx
+2017,Serbia and Montenegro,1,1,0,0,0,data/raw/employment_permits/2017/permits-issued-by-nationality-2017.xlsx
+2017,Seychelles,1,1,0,0,0,data/raw/employment_permits/2017/permits-issued-by-nationality-2017.xlsx
+2017,Singapore,29,27,2,2,2,data/raw/employment_permits/2017/permits-issued-by-nationality-2017.xlsx
+2017,Somalia,2,2,0,0,0,data/raw/employment_permits/2017/permits-issued-by-nationality-2017.xlsx
+2017,South Africa,329,293,36,56,13,data/raw/employment_permits/2017/permits-issued-by-nationality-2017.xlsx
+2017,Sri Lanka,57,36,21,7,3,data/raw/employment_permits/2017/permits-issued-by-nationality-2017.xlsx
+2017,Sudan,469,280,189,7,25,data/raw/employment_permits/2017/permits-issued-by-nationality-2017.xlsx
+2017,Swaziland,0,0,0,1,0,data/raw/employment_permits/2017/permits-issued-by-nationality-2017.xlsx
+2017,Syrian Arab Republic,25,16,9,3,2,data/raw/employment_permits/2017/permits-issued-by-nationality-2017.xlsx
+2017,Taiwan,15,15,0,5,0,data/raw/employment_permits/2017/permits-issued-by-nationality-2017.xlsx
+2017,"Tanzania, United Republic of",2,1,1,0,0,data/raw/employment_permits/2017/permits-issued-by-nationality-2017.xlsx
+2017,Thailand,10,10,0,11,0,data/raw/employment_permits/2017/permits-issued-by-nationality-2017.xlsx
+2017,Tibet,0,0,0,1,0,data/raw/employment_permits/2017/permits-issued-by-nationality-2017.xlsx
+2017,Trinidad and Tobago,25,22,3,2,0,data/raw/employment_permits/2017/permits-issued-by-nationality-2017.xlsx
+2017,Tunisia,7,7,0,5,0,data/raw/employment_permits/2017/permits-issued-by-nationality-2017.xlsx
+2017,Turkey,217,187,30,20,1,data/raw/employment_permits/2017/permits-issued-by-nationality-2017.xlsx
+2017,Turkmenistan,1,1,0,0,0,data/raw/employment_permits/2017/permits-issued-by-nationality-2017.xlsx
+2017,Uganda,4,4,0,0,0,data/raw/employment_permits/2017/permits-issued-by-nationality-2017.xlsx
+2017,Ukraine,165,146,19,24,2,data/raw/employment_permits/2017/permits-issued-by-nationality-2017.xlsx
+2017,United Arab Emirates,1,1,0,0,0,data/raw/employment_permits/2017/permits-issued-by-nationality-2017.xlsx
+2017,United States of America,843,724,119,97,25,data/raw/employment_permits/2017/permits-issued-by-nationality-2017.xlsx
+2017,Uruguay,2,2,0,1,0,data/raw/employment_permits/2017/permits-issued-by-nationality-2017.xlsx
+2017,Uzbekistan,3,3,0,0,0,data/raw/employment_permits/2017/permits-issued-by-nationality-2017.xlsx
+2017,Venezuela,48,43,5,20,2,data/raw/employment_permits/2017/permits-issued-by-nationality-2017.xlsx
+2017,Vietnam,23,21,2,2,0,data/raw/employment_permits/2017/permits-issued-by-nationality-2017.xlsx
+2017,Yemen,8,5,3,0,0,data/raw/employment_permits/2017/permits-issued-by-nationality-2017.xlsx
+2017,Zambia,8,5,3,0,0,data/raw/employment_permits/2017/permits-issued-by-nationality-2017.xlsx
+2017,Zimbabwe,48,48,0,5,2,data/raw/employment_permits/2017/permits-issued-by-nationality-2017.xlsx
+2018,Afghanistan,6,2,4,0,0,data/raw/employment_permits/2018/permits-by-nationality-2018.xlsx
+2018,Albania,12,9,3,3,0,data/raw/employment_permits/2018/permits-by-nationality-2018.xlsx
+2018,Algeria,11,11,0,3,0,data/raw/employment_permits/2018/permits-by-nationality-2018.xlsx
+2018,Angola,2,2,0,0,0,data/raw/employment_permits/2018/permits-by-nationality-2018.xlsx
+2018,Argentina,55,48,7,6,0,data/raw/employment_permits/2018/permits-by-nationality-2018.xlsx
+2018,Armenia,13,13,0,0,1,data/raw/employment_permits/2018/permits-by-nationality-2018.xlsx
+2018,Australia,132,115,17,20,8,data/raw/employment_permits/2018/permits-by-nationality-2018.xlsx
+2018,Azerbaijan,5,5,0,0,0,data/raw/employment_permits/2018/permits-by-nationality-2018.xlsx
+2018,Bahrain,3,2,1,0,0,data/raw/employment_permits/2018/permits-by-nationality-2018.xlsx
+2018,Bangladesh,41,34,7,23,3,data/raw/employment_permits/2018/permits-by-nationality-2018.xlsx
+2018,Barbados,0,0,0,1,0,data/raw/employment_permits/2018/permits-by-nationality-2018.xlsx
+2018,Belarus,17,15,2,5,0,data/raw/employment_permits/2018/permits-by-nationality-2018.xlsx
+2018,Benin,1,1,0,0,0,data/raw/employment_permits/2018/permits-by-nationality-2018.xlsx
+2018,Bolivia,0,0,0,1,0,data/raw/employment_permits/2018/permits-by-nationality-2018.xlsx
+2018,Bosnia and Herzegovina,7,7,0,0,0,data/raw/employment_permits/2018/permits-by-nationality-2018.xlsx
+2018,Botswana,5,5,0,3,1,data/raw/employment_permits/2018/permits-by-nationality-2018.xlsx
+2018,Brazil,1426,1290,136,197,57,data/raw/employment_permits/2018/permits-by-nationality-2018.xlsx
+2018,Cameroon,7,5,2,1,0,data/raw/employment_permits/2018/permits-by-nationality-2018.xlsx
+2018,Canada,181,139,42,21,14,data/raw/employment_permits/2018/permits-by-nationality-2018.xlsx
+2018,Chile,9,8,1,3,4,data/raw/employment_permits/2018/permits-by-nationality-2018.xlsx
+2018,China,370,320,50,104,14,data/raw/employment_permits/2018/permits-by-nationality-2018.xlsx
+2018,Colombia,14,13,1,4,3,data/raw/employment_permits/2018/permits-by-nationality-2018.xlsx
+2018,"Congo, The Democratic Republic of the",1,0,1,0,0,data/raw/employment_permits/2018/permits-by-nationality-2018.xlsx
+2018,Costa Rica,8,8,0,1,0,data/raw/employment_permits/2018/permits-by-nationality-2018.xlsx
+2018,Cuba,2,0,2,0,0,data/raw/employment_permits/2018/permits-by-nationality-2018.xlsx
+2018,Dominican Republic,2,2,0,0,1,data/raw/employment_permits/2018/permits-by-nationality-2018.xlsx
+2018,Ecuador,5,4,1,1,0,data/raw/employment_permits/2018/permits-by-nationality-2018.xlsx
+2018,Egypt,347,264,83,20,25,data/raw/employment_permits/2018/permits-by-nationality-2018.xlsx
+2018,El Salvador,3,3,0,0,0,data/raw/employment_permits/2018/permits-by-nationality-2018.xlsx
+2018,Ethiopia,3,3,0,2,0,data/raw/employment_permits/2018/permits-by-nationality-2018.xlsx
+2018,Fiji,0,0,0,1,0,data/raw/employment_permits/2018/permits-by-nationality-2018.xlsx
+2018,Gambia,0,0,0,0,1,data/raw/employment_permits/2018/permits-by-nationality-2018.xlsx
+2018,Georgia,9,9,0,4,1,data/raw/employment_permits/2018/permits-by-nationality-2018.xlsx
+2018,Ghana,16,15,1,0,1,data/raw/employment_permits/2018/permits-by-nationality-2018.xlsx
+2018,Guatemala,2,2,0,0,0,data/raw/employment_permits/2018/permits-by-nationality-2018.xlsx
+2018,Haiti,1,1,0,0,0,data/raw/employment_permits/2018/permits-by-nationality-2018.xlsx
+2018,Honduras,5,4,1,0,0,data/raw/employment_permits/2018/permits-by-nationality-2018.xlsx
+2018,Hong Kong,14,13,1,5,1,data/raw/employment_permits/2018/permits-by-nationality-2018.xlsx
+2018,India,4313,3806,507,250,131,data/raw/employment_permits/2018/permits-by-nationality-2018.xlsx
+2018,Indonesia,16,15,1,1,0,data/raw/employment_permits/2018/permits-by-nationality-2018.xlsx
+2018,"Iran, Islamic Republic of",43,37,6,5,2,data/raw/employment_permits/2018/permits-by-nationality-2018.xlsx
+2018,Iraq,34,21,13,1,3,data/raw/employment_permits/2018/permits-by-nationality-2018.xlsx
+2018,Ireland,12,12,0,4,0,data/raw/employment_permits/2018/permits-by-nationality-2018.xlsx
+2018,Israel,94,85,9,4,1,data/raw/employment_permits/2018/permits-by-nationality-2018.xlsx
+2018,Ivory Coast,2,2,0,0,1,data/raw/employment_permits/2018/permits-by-nationality-2018.xlsx
+2018,Japan,137,106,31,7,5,data/raw/employment_permits/2018/permits-by-nationality-2018.xlsx
+2018,Jordan,39,30,9,1,1,data/raw/employment_permits/2018/permits-by-nationality-2018.xlsx
+2018,Kazakhstan,15,14,1,0,0,data/raw/employment_permits/2018/permits-by-nationality-2018.xlsx
+2018,Kenya,13,13,0,0,0,data/raw/employment_permits/2018/permits-by-nationality-2018.xlsx
+2018,"Korea, Republic of",37,31,6,10,1,data/raw/employment_permits/2018/permits-by-nationality-2018.xlsx
+2018,Kuwait,3,2,1,0,0,data/raw/employment_permits/2018/permits-by-nationality-2018.xlsx
+2018,Kyrgyzstan,1,1,0,1,0,data/raw/employment_permits/2018/permits-by-nationality-2018.xlsx
+2018,Lebanon,39,33,6,1,0,data/raw/employment_permits/2018/permits-by-nationality-2018.xlsx
+2018,Lesotho,1,1,0,0,0,data/raw/employment_permits/2018/permits-by-nationality-2018.xlsx
+2018,Libya,34,19,15,0,1,data/raw/employment_permits/2018/permits-by-nationality-2018.xlsx
+2018,"Macedonia, The Former Yugoslav Republic of",8,7,1,1,0,data/raw/employment_permits/2018/permits-by-nationality-2018.xlsx
+2018,Madagascar,0,0,0,1,1,data/raw/employment_permits/2018/permits-by-nationality-2018.xlsx
+2018,Malawi,6,6,0,3,0,data/raw/employment_permits/2018/permits-by-nationality-2018.xlsx
+2018,Malaysia,308,218,90,33,11,data/raw/employment_permits/2018/permits-by-nationality-2018.xlsx
+2018,Mauritius,57,37,20,23,3,data/raw/employment_permits/2018/permits-by-nationality-2018.xlsx
+2018,Mexico,59,53,6,14,2,data/raw/employment_permits/2018/permits-by-nationality-2018.xlsx
+2018,"Moldova, Republic of",4,4,0,1,0,data/raw/employment_permits/2018/permits-by-nationality-2018.xlsx
+2018,Mongolia,1,1,0,0,0,data/raw/employment_permits/2018/permits-by-nationality-2018.xlsx
+2018,Morocco,24,23,1,5,0,data/raw/employment_permits/2018/permits-by-nationality-2018.xlsx
+2018,Myanmar,6,5,1,0,0,data/raw/employment_permits/2018/permits-by-nationality-2018.xlsx
+2018,Namibia,1,1,0,0,0,data/raw/employment_permits/2018/permits-by-nationality-2018.xlsx
+2018,Nepal,62,50,12,22,1,data/raw/employment_permits/2018/permits-by-nationality-2018.xlsx
+2018,New Zealand,56,47,9,4,9,data/raw/employment_permits/2018/permits-by-nationality-2018.xlsx
+2018,Nigeria,223,152,71,22,19,data/raw/employment_permits/2018/permits-by-nationality-2018.xlsx
+2018,Oman,1,1,0,2,0,data/raw/employment_permits/2018/permits-by-nationality-2018.xlsx
+2018,Pakistan,1026,696,330,56,58,data/raw/employment_permits/2018/permits-by-nationality-2018.xlsx
+2018,Palestine,13,7,6,0,0,data/raw/employment_permits/2018/permits-by-nationality-2018.xlsx
+2018,Panama,0,0,0,1,0,data/raw/employment_permits/2018/permits-by-nationality-2018.xlsx
+2018,Peru,7,6,1,1,1,data/raw/employment_permits/2018/permits-by-nationality-2018.xlsx
+2018,Philippines,802,771,31,63,15,data/raw/employment_permits/2018/permits-by-nationality-2018.xlsx
+2018,Puerto Rico,1,1,0,0,0,data/raw/employment_permits/2018/permits-by-nationality-2018.xlsx
+2018,Republic of Serbia,1,1,0,0,0,data/raw/employment_permits/2018/permits-by-nationality-2018.xlsx
+2018,Russian Federation,211,186,25,7,4,data/raw/employment_permits/2018/permits-by-nationality-2018.xlsx
+2018,Saint Vincent and the Grenadines,1,1,0,1,0,data/raw/employment_permits/2018/permits-by-nationality-2018.xlsx
+2018,Samoa,1,1,0,0,0,data/raw/employment_permits/2018/permits-by-nationality-2018.xlsx
+2018,Saudi Arabia,21,17,4,4,1,data/raw/employment_permits/2018/permits-by-nationality-2018.xlsx
+2018,Serbia,28,26,2,4,1,data/raw/employment_permits/2018/permits-by-nationality-2018.xlsx
+2018,Seychelles,1,0,1,0,0,data/raw/employment_permits/2018/permits-by-nationality-2018.xlsx
+2018,Singapore,25,22,3,2,3,data/raw/employment_permits/2018/permits-by-nationality-2018.xlsx
+2018,South Africa,435,371,64,68,20,data/raw/employment_permits/2018/permits-by-nationality-2018.xlsx
+2018,Sri Lanka,61,43,18,4,3,data/raw/employment_permits/2018/permits-by-nationality-2018.xlsx
+2018,Sudan,515,309,206,9,24,data/raw/employment_permits/2018/permits-by-nationality-2018.xlsx
+2018,Swaziland,1,1,0,0,0,data/raw/employment_permits/2018/permits-by-nationality-2018.xlsx
+2018,Syrian Arab Republic,23,20,3,1,0,data/raw/employment_permits/2018/permits-by-nationality-2018.xlsx
+2018,Taiwan,29,28,1,2,1,data/raw/employment_permits/2018/permits-by-nationality-2018.xlsx
+2018,Thailand,28,24,4,8,5,data/raw/employment_permits/2018/permits-by-nationality-2018.xlsx
+2018,Tibet,0,0,0,0,1,data/raw/employment_permits/2018/permits-by-nationality-2018.xlsx
+2018,Trinidad and Tobago,24,20,4,1,1,data/raw/employment_permits/2018/permits-by-nationality-2018.xlsx
+2018,Tunisia,19,17,2,6,0,data/raw/employment_permits/2018/permits-by-nationality-2018.xlsx
+2018,Turkey,272,251,21,16,8,data/raw/employment_permits/2018/permits-by-nationality-2018.xlsx
+2018,Turkmenistan,1,1,0,0,0,data/raw/employment_permits/2018/permits-by-nationality-2018.xlsx
+2018,Uganda,4,4,0,0,0,data/raw/employment_permits/2018/permits-by-nationality-2018.xlsx
+2018,Ukraine,317,266,51,19,10,data/raw/employment_permits/2018/permits-by-nationality-2018.xlsx
+2018,United States of America,957,833,124,89,47,data/raw/employment_permits/2018/permits-by-nationality-2018.xlsx
+2018,Uruguay,2,2,0,1,0,data/raw/employment_permits/2018/permits-by-nationality-2018.xlsx
+2018,Uzbekistan,1,1,0,0,1,data/raw/employment_permits/2018/permits-by-nationality-2018.xlsx
+2018,Vanuatu,1,1,0,0,0,data/raw/employment_permits/2018/permits-by-nationality-2018.xlsx
+2018,Venezuela,58,48,10,10,3,data/raw/employment_permits/2018/permits-by-nationality-2018.xlsx
+2018,Vietnam,20,20,0,1,1,data/raw/employment_permits/2018/permits-by-nationality-2018.xlsx
+2018,Yemen,6,5,1,0,0,data/raw/employment_permits/2018/permits-by-nationality-2018.xlsx
+2018,Zambia,6,5,1,0,0,data/raw/employment_permits/2018/permits-by-nationality-2018.xlsx
+2018,Zimbabwe,96,95,1,28,7,data/raw/employment_permits/2018/permits-by-nationality-2018.xlsx
+2019,Afghanistan,6,3,3,0,0,data/raw/employment_permits/2019/permits-by-nationality-2019.xlsx
+2019,Albania,20,19,1,7,2,data/raw/employment_permits/2019/permits-by-nationality-2019.xlsx
+2019,Algeria,10,8,2,1,2,data/raw/employment_permits/2019/permits-by-nationality-2019.xlsx
+2019,Angola,1,0,1,0,0,data/raw/employment_permits/2019/permits-by-nationality-2019.xlsx
+2019,Argentina,61,58,3,8,2,data/raw/employment_permits/2019/permits-by-nationality-2019.xlsx
+2019,Armenia,3,2,1,0,0,data/raw/employment_permits/2019/permits-by-nationality-2019.xlsx
+2019,Australia,150,136,14,7,10,data/raw/employment_permits/2019/permits-by-nationality-2019.xlsx
+2019,Azerbaijan,6,5,1,0,0,data/raw/employment_permits/2019/permits-by-nationality-2019.xlsx
+2019,Bahamas,1,1,0,0,0,data/raw/employment_permits/2019/permits-by-nationality-2019.xlsx
+2019,Bahrain,4,4,0,0,0,data/raw/employment_permits/2019/permits-by-nationality-2019.xlsx
+2019,Bangladesh,70,62,8,21,4,data/raw/employment_permits/2019/permits-by-nationality-2019.xlsx
+2019,Barbados,1,1,0,0,0,data/raw/employment_permits/2019/permits-by-nationality-2019.xlsx
+2019,Belarus,19,18,1,3,1,data/raw/employment_permits/2019/permits-by-nationality-2019.xlsx
+2019,Bolivia,5,5,0,2,0,data/raw/employment_permits/2019/permits-by-nationality-2019.xlsx
+2019,Bosnia and Herzegovina,8,8,0,3,0,data/raw/employment_permits/2019/permits-by-nationality-2019.xlsx
+2019,Botswana,8,6,2,3,0,data/raw/employment_permits/2019/permits-by-nationality-2019.xlsx
+2019,Brazil,1565,1400,165,326,159,data/raw/employment_permits/2019/permits-by-nationality-2019.xlsx
+2019,British Indian Ocean Territory,1,1,0,0,0,data/raw/employment_permits/2019/permits-by-nationality-2019.xlsx
+2019,Brunei Darussalam,1,1,0,0,0,data/raw/employment_permits/2019/permits-by-nationality-2019.xlsx
+2019,Bulgaria,1,1,0,0,0,data/raw/employment_permits/2019/permits-by-nationality-2019.xlsx
+2019,Cambodia,1,1,0,0,0,data/raw/employment_permits/2019/permits-by-nationality-2019.xlsx
+2019,Cameroon,5,3,2,1,1,data/raw/employment_permits/2019/permits-by-nationality-2019.xlsx
+2019,Canada,234,204,30,12,6,data/raw/employment_permits/2019/permits-by-nationality-2019.xlsx
+2019,Chile,22,22,0,4,1,data/raw/employment_permits/2019/permits-by-nationality-2019.xlsx
+2019,China,661,614,47,91,18,data/raw/employment_permits/2019/permits-by-nationality-2019.xlsx
+2019,Colombia,30,30,0,1,0,data/raw/employment_permits/2019/permits-by-nationality-2019.xlsx
+2019,Congo,1,1,0,0,0,data/raw/employment_permits/2019/permits-by-nationality-2019.xlsx
+2019,"Congo, The Democratic Republic of the",4,4,0,1,0,data/raw/employment_permits/2019/permits-by-nationality-2019.xlsx
+2019,Costa Rica,22,22,0,3,1,data/raw/employment_permits/2019/permits-by-nationality-2019.xlsx
+2019,Cuba,5,3,2,0,0,data/raw/employment_permits/2019/permits-by-nationality-2019.xlsx
+2019,Cyprus,1,1,0,0,0,data/raw/employment_permits/2019/permits-by-nationality-2019.xlsx
+2019,Dominica,1,1,0,0,0,data/raw/employment_permits/2019/permits-by-nationality-2019.xlsx
+2019,Dominican Republic,14,14,0,0,0,data/raw/employment_permits/2019/permits-by-nationality-2019.xlsx
+2019,Ecuador,4,3,1,0,0,data/raw/employment_permits/2019/permits-by-nationality-2019.xlsx
+2019,Egypt,363,297,66,11,10,data/raw/employment_permits/2019/permits-by-nationality-2019.xlsx
+2019,El Salvador,5,5,0,1,0,data/raw/employment_permits/2019/permits-by-nationality-2019.xlsx
+2019,Eritrea,1,1,0,0,0,data/raw/employment_permits/2019/permits-by-nationality-2019.xlsx
+2019,Ethiopia,10,6,4,1,0,data/raw/employment_permits/2019/permits-by-nationality-2019.xlsx
+2019,Fiji,3,3,0,0,0,data/raw/employment_permits/2019/permits-by-nationality-2019.xlsx
+2019,Georgia,8,7,1,7,0,data/raw/employment_permits/2019/permits-by-nationality-2019.xlsx
+2019,Ghana,17,16,1,1,0,data/raw/employment_permits/2019/permits-by-nationality-2019.xlsx
+2019,Guatemala,2,2,0,0,0,data/raw/employment_permits/2019/permits-by-nationality-2019.xlsx
+2019,Guyana,2,2,0,0,0,data/raw/employment_permits/2019/permits-by-nationality-2019.xlsx
+2019,Haiti,3,3,0,0,0,data/raw/employment_permits/2019/permits-by-nationality-2019.xlsx
+2019,Honduras,2,1,1,0,0,data/raw/employment_permits/2019/permits-by-nationality-2019.xlsx
+2019,Hong Kong,30,22,8,3,3,data/raw/employment_permits/2019/permits-by-nationality-2019.xlsx
+2019,India,5373,4888,485,256,259,data/raw/employment_permits/2019/permits-by-nationality-2019.xlsx
+2019,Indonesia,38,36,2,5,2,data/raw/employment_permits/2019/permits-by-nationality-2019.xlsx
+2019,"Iran, Islamic Republic of",47,38,9,3,1,data/raw/employment_permits/2019/permits-by-nationality-2019.xlsx
+2019,Iraq,43,33,10,1,2,data/raw/employment_permits/2019/permits-by-nationality-2019.xlsx
+2019,Ireland,27,26,1,2,2,data/raw/employment_permits/2019/permits-by-nationality-2019.xlsx
+2019,Israel,87,77,10,1,2,data/raw/employment_permits/2019/permits-by-nationality-2019.xlsx
+2019,Jamaica,3,2,1,0,0,data/raw/employment_permits/2019/permits-by-nationality-2019.xlsx
+2019,Japan,136,103,33,5,3,data/raw/employment_permits/2019/permits-by-nationality-2019.xlsx
+2019,Jordan,47,38,9,3,1,data/raw/employment_permits/2019/permits-by-nationality-2019.xlsx
+2019,Kazakhstan,18,17,1,0,0,data/raw/employment_permits/2019/permits-by-nationality-2019.xlsx
+2019,Kenya,27,26,1,3,1,data/raw/employment_permits/2019/permits-by-nationality-2019.xlsx
+2019,"Korea, Republic of",52,42,10,3,3,data/raw/employment_permits/2019/permits-by-nationality-2019.xlsx
+2019,Kosova,83,83,0,4,1,data/raw/employment_permits/2019/permits-by-nationality-2019.xlsx
+2019,Kyrgyzstan,2,2,0,0,0,data/raw/employment_permits/2019/permits-by-nationality-2019.xlsx
+2019,Latvia,1,1,0,0,0,data/raw/employment_permits/2019/permits-by-nationality-2019.xlsx
+2019,Lebanon,39,37,2,1,0,data/raw/employment_permits/2019/permits-by-nationality-2019.xlsx
+2019,Lesotho,1,0,1,0,0,data/raw/employment_permits/2019/permits-by-nationality-2019.xlsx
+2019,Libya,33,20,13,0,1,data/raw/employment_permits/2019/permits-by-nationality-2019.xlsx
+2019,"Macedonia, The Former Yugoslav Republic of",9,7,2,0,0,data/raw/employment_permits/2019/permits-by-nationality-2019.xlsx
+2019,Malawi,8,8,0,7,1,data/raw/employment_permits/2019/permits-by-nationality-2019.xlsx
+2019,Malaysia,386,282,104,34,21,data/raw/employment_permits/2019/permits-by-nationality-2019.xlsx
+2019,Mali,1,1,0,0,0,data/raw/employment_permits/2019/permits-by-nationality-2019.xlsx
+2019,Mauritius,44,30,14,4,4,data/raw/employment_permits/2019/permits-by-nationality-2019.xlsx
+2019,Mexico,100,88,12,20,3,data/raw/employment_permits/2019/permits-by-nationality-2019.xlsx
+2019,Moldova,0,0,0,1,1,data/raw/employment_permits/2019/permits-by-nationality-2019.xlsx
+2019,"Moldova, Republic of",9,9,0,2,0,data/raw/employment_permits/2019/permits-by-nationality-2019.xlsx
+2019,Mongolia,1,1,0,0,0,data/raw/employment_permits/2019/permits-by-nationality-2019.xlsx
+2019,Montenegro,3,2,1,0,0,data/raw/employment_permits/2019/permits-by-nationality-2019.xlsx
+2019,Morocco,29,27,2,5,0,data/raw/employment_permits/2019/permits-by-nationality-2019.xlsx
+2019,Myanmar,8,7,1,1,0,data/raw/employment_permits/2019/permits-by-nationality-2019.xlsx
+2019,Namibia,5,5,0,0,0,data/raw/employment_permits/2019/permits-by-nationality-2019.xlsx
+2019,Nepal,81,71,10,17,6,data/raw/employment_permits/2019/permits-by-nationality-2019.xlsx
+2019,New Zealand,75,60,15,10,6,data/raw/employment_permits/2019/permits-by-nationality-2019.xlsx
+2019,Nicaragua,2,2,0,0,0,data/raw/employment_permits/2019/permits-by-nationality-2019.xlsx
+2019,Niger,2,2,0,0,0,data/raw/employment_permits/2019/permits-by-nationality-2019.xlsx
+2019,Nigeria,260,193,67,20,17,data/raw/employment_permits/2019/permits-by-nationality-2019.xlsx
+2019,Oman,6,6,0,1,0,data/raw/employment_permits/2019/permits-by-nationality-2019.xlsx
+2019,Pakistan,983,649,334,60,40,data/raw/employment_permits/2019/permits-by-nationality-2019.xlsx
+2019,Palestine,15,12,3,1,0,data/raw/employment_permits/2019/permits-by-nationality-2019.xlsx
+2019,Panama,3,3,0,1,1,data/raw/employment_permits/2019/permits-by-nationality-2019.xlsx
+2019,Paraguay,2,2,0,0,0,data/raw/employment_permits/2019/permits-by-nationality-2019.xlsx
+2019,Peru,8,6,2,0,0,data/raw/employment_permits/2019/permits-by-nationality-2019.xlsx
+2019,Philippines,783,754,29,53,41,data/raw/employment_permits/2019/permits-by-nationality-2019.xlsx
+2019,Republic of Serbia,2,2,0,1,0,data/raw/employment_permits/2019/permits-by-nationality-2019.xlsx
+2019,Russian Federation,263,248,15,11,10,data/raw/employment_permits/2019/permits-by-nationality-2019.xlsx
+2019,Saint Kitts and Nevis,1,1,0,0,0,data/raw/employment_permits/2019/permits-by-nationality-2019.xlsx
+2019,San Marino,1,1,0,0,0,data/raw/employment_permits/2019/permits-by-nationality-2019.xlsx
+2019,Saudi Arabia,16,12,4,1,1,data/raw/employment_permits/2019/permits-by-nationality-2019.xlsx
+2019,Senegal,2,2,0,0,0,data/raw/employment_permits/2019/permits-by-nationality-2019.xlsx
+2019,Serbia,20,16,4,2,3,data/raw/employment_permits/2019/permits-by-nationality-2019.xlsx
+2019,Singapore,32,29,3,2,1,data/raw/employment_permits/2019/permits-by-nationality-2019.xlsx
+2019,Somalia,5,3,2,0,0,data/raw/employment_permits/2019/permits-by-nationality-2019.xlsx
+2019,South Africa,659,566,93,107,34,data/raw/employment_permits/2019/permits-by-nationality-2019.xlsx
+2019,Sri Lanka,67,52,15,12,3,data/raw/employment_permits/2019/permits-by-nationality-2019.xlsx
+2019,Sudan,625,372,253,5,23,data/raw/employment_permits/2019/permits-by-nationality-2019.xlsx
+2019,Swaziland,3,3,0,0,0,data/raw/employment_permits/2019/permits-by-nationality-2019.xlsx
+2019,Syrian Arab Republic,19,16,3,1,3,data/raw/employment_permits/2019/permits-by-nationality-2019.xlsx
+2019,Taiwan,31,29,2,3,0,data/raw/employment_permits/2019/permits-by-nationality-2019.xlsx
+2019,"Tanzania, United Republic of",3,2,1,0,0,data/raw/employment_permits/2019/permits-by-nationality-2019.xlsx
+2019,Thailand,232,230,2,28,25,data/raw/employment_permits/2019/permits-by-nationality-2019.xlsx
+2019,Tibet,1,1,0,0,0,data/raw/employment_permits/2019/permits-by-nationality-2019.xlsx
+2019,Togo,1,1,0,0,0,data/raw/employment_permits/2019/permits-by-nationality-2019.xlsx
+2019,Trinidad and Tobago,23,19,4,3,1,data/raw/employment_permits/2019/permits-by-nationality-2019.xlsx
+2019,Tunisia,14,13,1,2,1,data/raw/employment_permits/2019/permits-by-nationality-2019.xlsx
+2019,Turkey,260,229,31,11,14,data/raw/employment_permits/2019/permits-by-nationality-2019.xlsx
+2019,Uganda,15,15,0,1,0,data/raw/employment_permits/2019/permits-by-nationality-2019.xlsx
+2019,Ukraine,479,424,55,39,37,data/raw/employment_permits/2019/permits-by-nationality-2019.xlsx
+2019,United States,2,2,0,0,0,data/raw/employment_permits/2019/permits-by-nationality-2019.xlsx
+2019,United States of America,1038,886,152,54,35,data/raw/employment_permits/2019/permits-by-nationality-2019.xlsx
+2019,Uruguay,13,13,0,4,0,data/raw/employment_permits/2019/permits-by-nationality-2019.xlsx
+2019,Uzbekistan,1,1,0,0,0,data/raw/employment_permits/2019/permits-by-nationality-2019.xlsx
+2019,Venezuela,50,46,4,13,8,data/raw/employment_permits/2019/permits-by-nationality-2019.xlsx
+2019,Vietnam,98,93,5,13,3,data/raw/employment_permits/2019/permits-by-nationality-2019.xlsx
+2019,Yemen,6,4,2,0,1,data/raw/employment_permits/2019/permits-by-nationality-2019.xlsx
+2019,Zambia,6,2,4,1,0,data/raw/employment_permits/2019/permits-by-nationality-2019.xlsx
+2019,Zimbabwe,123,107,16,8,6,data/raw/employment_permits/2019/permits-by-nationality-2019.xlsx
+2020,India,5565,,,189,172,data/raw/employment_permits/2020/permits-by-nationality-2020.xlsx
+2020,Brazil,1799,,,226,80,data/raw/employment_permits/2020/permits-by-nationality-2020.xlsx
+2020,Pakistan,978,,,34,38,data/raw/employment_permits/2020/permits-by-nationality-2020.xlsx
+2020,United States of America,871,,,43,42,data/raw/employment_permits/2020/permits-by-nationality-2020.xlsx
+2020,China,833,,,71,41,data/raw/employment_permits/2020/permits-by-nationality-2020.xlsx
+2020,Philippines,684,,,52,29,data/raw/employment_permits/2020/permits-by-nationality-2020.xlsx
+2020,Sudan,654,,,4,24,data/raw/employment_permits/2020/permits-by-nationality-2020.xlsx
+2020,South Africa,525,,,42,41,data/raw/employment_permits/2020/permits-by-nationality-2020.xlsx
+2020,Malaysia,483,,,27,16,data/raw/employment_permits/2020/permits-by-nationality-2020.xlsx
+2020,Ukraine,353,,,19,10,data/raw/employment_permits/2020/permits-by-nationality-2020.xlsx
+2020,Nigeria,300,,,26,23,data/raw/employment_permits/2020/permits-by-nationality-2020.xlsx
+2020,Canada,282,,,6,7,data/raw/employment_permits/2020/permits-by-nationality-2020.xlsx
+2020,Egypt,282,,,14,24,data/raw/employment_permits/2020/permits-by-nationality-2020.xlsx
+2020,Turkey,271,,,8,9,data/raw/employment_permits/2020/permits-by-nationality-2020.xlsx
+2020,Russian Federation,205,,,9,3,data/raw/employment_permits/2020/permits-by-nationality-2020.xlsx
+2020,Zimbabwe,165,,,4,9,data/raw/employment_permits/2020/permits-by-nationality-2020.xlsx
+2020,Vietnam,155,,,7,3,data/raw/employment_permits/2020/permits-by-nationality-2020.xlsx
+2020,Kosova,129,,,,2,data/raw/employment_permits/2020/permits-by-nationality-2020.xlsx
+2020,Japan,114,,,4,,data/raw/employment_permits/2020/permits-by-nationality-2020.xlsx
+2020,Australia,98,,,12,10,data/raw/employment_permits/2020/permits-by-nationality-2020.xlsx
+2020,Nepal,95,,,10,8,data/raw/employment_permits/2020/permits-by-nationality-2020.xlsx
+2020,Mexico,86,,,23,6,data/raw/employment_permits/2020/permits-by-nationality-2020.xlsx
+2020,Israel,83,,,1,3,data/raw/employment_permits/2020/permits-by-nationality-2020.xlsx
+2020,Sri Lanka,68,,,7,3,data/raw/employment_permits/2020/permits-by-nationality-2020.xlsx
+2020,Argentina,61,,,4,,data/raw/employment_permits/2020/permits-by-nationality-2020.xlsx
+2020,New Zealand,60,,,6,5,data/raw/employment_permits/2020/permits-by-nationality-2020.xlsx
+2020,Lebanon,52,,,1,1,data/raw/employment_permits/2020/permits-by-nationality-2020.xlsx
+2020,Iraq,51,,,2,3,data/raw/employment_permits/2020/permits-by-nationality-2020.xlsx
+2020,Bangladesh,51,,,9,3,data/raw/employment_permits/2020/permits-by-nationality-2020.xlsx
+2020,"Korea, Republic of",49,,,7,2,data/raw/employment_permits/2020/permits-by-nationality-2020.xlsx
+2020,Jordan,42,,,1,,data/raw/employment_permits/2020/permits-by-nationality-2020.xlsx
+2020,"Moldova, Republic of",41,,,1,1,data/raw/employment_permits/2020/permits-by-nationality-2020.xlsx
+2020,"Iran, Islamic Republic of",39,,,3,1,data/raw/employment_permits/2020/permits-by-nationality-2020.xlsx
+2020,Taiwan,37,,,6,3,data/raw/employment_permits/2020/permits-by-nationality-2020.xlsx
+2020,Venezuela,37,,,5,,data/raw/employment_permits/2020/permits-by-nationality-2020.xlsx
+2020,Hong Kong,36,,,3,3,data/raw/employment_permits/2020/permits-by-nationality-2020.xlsx
+2020,Libya,36,,,3,,data/raw/employment_permits/2020/permits-by-nationality-2020.xlsx
+2020,"Macedonia, The Former Yugoslav Republic of",35,,,,,data/raw/employment_permits/2020/permits-by-nationality-2020.xlsx
+2020,Saudi Arabia,35,,,1,1,data/raw/employment_permits/2020/permits-by-nationality-2020.xlsx
+2020,Indonesia,34,,,2,1,data/raw/employment_permits/2020/permits-by-nationality-2020.xlsx
+2020,Trinidad and Tobago,33,,,2,1,data/raw/employment_permits/2020/permits-by-nationality-2020.xlsx
+2020,Singapore,32,,,2,3,data/raw/employment_permits/2020/permits-by-nationality-2020.xlsx
+2020,Morocco,31,,,1,1,data/raw/employment_permits/2020/permits-by-nationality-2020.xlsx
+2020,Syrian Arab Republic,30,,,,1,data/raw/employment_permits/2020/permits-by-nationality-2020.xlsx
+2020,Albania,29,,,1,1,data/raw/employment_permits/2020/permits-by-nationality-2020.xlsx
+2020,Mauritius,29,,,11,,data/raw/employment_permits/2020/permits-by-nationality-2020.xlsx
+2020,Thailand,25,,,3,4,data/raw/employment_permits/2020/permits-by-nationality-2020.xlsx
+2020,Colombia,24,,,1,,data/raw/employment_permits/2020/permits-by-nationality-2020.xlsx
+2020,Belarus,23,,,1,,data/raw/employment_permits/2020/permits-by-nationality-2020.xlsx
+2020,Kenya,23,,,,,data/raw/employment_permits/2020/permits-by-nationality-2020.xlsx
+2020,Ghana,22,,,2,4,data/raw/employment_permits/2020/permits-by-nationality-2020.xlsx
+2020,Serbia,22,,,3,2,data/raw/employment_permits/2020/permits-by-nationality-2020.xlsx
+2020,Chile,21,,,3,,data/raw/employment_permits/2020/permits-by-nationality-2020.xlsx
+2020,Costa Rica,17,,,3,,data/raw/employment_permits/2020/permits-by-nationality-2020.xlsx
+2020,Kazakhstan,16,,,2,1,data/raw/employment_permits/2020/permits-by-nationality-2020.xlsx
+2020,Tunisia,16,,,,,data/raw/employment_permits/2020/permits-by-nationality-2020.xlsx
+2020,Bosnia and Herzegovina,15,,,2,,data/raw/employment_permits/2020/permits-by-nationality-2020.xlsx
+2020,Afghanistan,14,,,,1,data/raw/employment_permits/2020/permits-by-nationality-2020.xlsx
+2020,Algeria,13,,,,1,data/raw/employment_permits/2020/permits-by-nationality-2020.xlsx
+2020,Armenia,13,,,,1,data/raw/employment_permits/2020/permits-by-nationality-2020.xlsx
+2020,Palestine,12,,,,,data/raw/employment_permits/2020/permits-by-nationality-2020.xlsx
+2020,Bolivia,11,,,1,,data/raw/employment_permits/2020/permits-by-nationality-2020.xlsx
+2020,Peru,11,,,,,data/raw/employment_permits/2020/permits-by-nationality-2020.xlsx
+2020,Oman,9,,,2,,data/raw/employment_permits/2020/permits-by-nationality-2020.xlsx
+2020,Uruguay,8,,,2,,data/raw/employment_permits/2020/permits-by-nationality-2020.xlsx
+2020,Azerbaijan,7,,,,,data/raw/employment_permits/2020/permits-by-nationality-2020.xlsx
+2020,Botswana,7,,,,2,data/raw/employment_permits/2020/permits-by-nationality-2020.xlsx
+2020,Yemen,7,,,,,data/raw/employment_permits/2020/permits-by-nationality-2020.xlsx
+2020,Brunei Darussalam,6,,,,,data/raw/employment_permits/2020/permits-by-nationality-2020.xlsx
+2020,Namibia,6,,,,,data/raw/employment_permits/2020/permits-by-nationality-2020.xlsx
+2020,Zambia,6,,,,,data/raw/employment_permits/2020/permits-by-nationality-2020.xlsx
+2020,Cameroon,5,,,1,,data/raw/employment_permits/2020/permits-by-nationality-2020.xlsx
+2020,Honduras,5,,,1,,data/raw/employment_permits/2020/permits-by-nationality-2020.xlsx
+2020,Swaziland,5,,,1,,data/raw/employment_permits/2020/permits-by-nationality-2020.xlsx
+2020,Uganda,5,,,1,,data/raw/employment_permits/2020/permits-by-nationality-2020.xlsx
+2020,"Congo, The Democratic Republic of the",4,,,,1,data/raw/employment_permits/2020/permits-by-nationality-2020.xlsx
+2020,Ecuador,4,,,,,data/raw/employment_permits/2020/permits-by-nationality-2020.xlsx
+2020,Georgia,4,,,,,data/raw/employment_permits/2020/permits-by-nationality-2020.xlsx
+2020,Haiti,4,,,,,data/raw/employment_permits/2020/permits-by-nationality-2020.xlsx
+2020,Jamaica,4,,,6,2,data/raw/employment_permits/2020/permits-by-nationality-2020.xlsx
+2020,Malawi,4,,,,,data/raw/employment_permits/2020/permits-by-nationality-2020.xlsx
+2020,Myanmar,4,,,,,data/raw/employment_permits/2020/permits-by-nationality-2020.xlsx
+2020,Panama,4,,,,,data/raw/employment_permits/2020/permits-by-nationality-2020.xlsx
+2020,Senegal,4,,,3,1,data/raw/employment_permits/2020/permits-by-nationality-2020.xlsx
+2020,Cuba,3,,,,1,data/raw/employment_permits/2020/permits-by-nationality-2020.xlsx
+2020,Dominican Republic,3,,,,,data/raw/employment_permits/2020/permits-by-nationality-2020.xlsx
+2020,Ethiopia,3,,,,,data/raw/employment_permits/2020/permits-by-nationality-2020.xlsx
+2020,Somalia,3,,,,1,data/raw/employment_permits/2020/permits-by-nationality-2020.xlsx
+2020,United Arab Emirates,3,,,,,data/raw/employment_permits/2020/permits-by-nationality-2020.xlsx
+2020,Bahrain,2,,,,,data/raw/employment_permits/2020/permits-by-nationality-2020.xlsx
+2020,Barbados,2,,,1,,data/raw/employment_permits/2020/permits-by-nationality-2020.xlsx
+2020,Kosovo,2,,,1,,data/raw/employment_permits/2020/permits-by-nationality-2020.xlsx
+2020,"Tanzania, United Republic of",2,,,,,data/raw/employment_permits/2020/permits-by-nationality-2020.xlsx
+2020,Uzbekistan,2,,,,,data/raw/employment_permits/2020/permits-by-nationality-2020.xlsx
+2020,Angola,1,,,,,data/raw/employment_permits/2020/permits-by-nationality-2020.xlsx
+2020,Bahamas,1,,,,,data/raw/employment_permits/2020/permits-by-nationality-2020.xlsx
+2020,Cambodia,1,,,,1,data/raw/employment_permits/2020/permits-by-nationality-2020.xlsx
+2020,Channel Islands,1,,,1,,data/raw/employment_permits/2020/permits-by-nationality-2020.xlsx
+2020,Congo,1,,,,,data/raw/employment_permits/2020/permits-by-nationality-2020.xlsx
+2020,Dominica,1,,,,,data/raw/employment_permits/2020/permits-by-nationality-2020.xlsx
+2020,El Salvador,1,,,1,,data/raw/employment_permits/2020/permits-by-nationality-2020.xlsx
+2020,Equatorial Guinea,1,,,,,data/raw/employment_permits/2020/permits-by-nationality-2020.xlsx
+2020,Eritrea,1,,,,,data/raw/employment_permits/2020/permits-by-nationality-2020.xlsx
+2020,Gambia,1,,,,,data/raw/employment_permits/2020/permits-by-nationality-2020.xlsx
+2020,Greece,1,,,,,data/raw/employment_permits/2020/permits-by-nationality-2020.xlsx
+2020,Guatemala,1,,,,1,data/raw/employment_permits/2020/permits-by-nationality-2020.xlsx
+2020,Ivory Coast,1,,,,,data/raw/employment_permits/2020/permits-by-nationality-2020.xlsx
+2020,Kuwait,1,,,,,data/raw/employment_permits/2020/permits-by-nationality-2020.xlsx
+2020,Kyrgyzstan,1,,,,,data/raw/employment_permits/2020/permits-by-nationality-2020.xlsx
+2020,Lesotho,1,,,,,data/raw/employment_permits/2020/permits-by-nationality-2020.xlsx
+2020,Lithuania,1,,,,,data/raw/employment_permits/2020/permits-by-nationality-2020.xlsx
+2020,Mongolia,1,,,2,,data/raw/employment_permits/2020/permits-by-nationality-2020.xlsx
+2020,Montenegro,1,,,,,data/raw/employment_permits/2020/permits-by-nationality-2020.xlsx
+2020,Mozambique,1,,,,,data/raw/employment_permits/2020/permits-by-nationality-2020.xlsx
+2020,Nicaragua,1,,,,,data/raw/employment_permits/2020/permits-by-nationality-2020.xlsx
+2020,Republic of Serbia,1,,,,1,data/raw/employment_permits/2020/permits-by-nationality-2020.xlsx
+2020,Saint Kitts and Nevis,1,,,,,data/raw/employment_permits/2020/permits-by-nationality-2020.xlsx
+2020,Saint Vincent and the Grenadines,1,,,,,data/raw/employment_permits/2020/permits-by-nationality-2020.xlsx
+2020,Tajikistan,1,,,,,data/raw/employment_permits/2020/permits-by-nationality-2020.xlsx
+2020,Tibet,1,,,,,data/raw/employment_permits/2020/permits-by-nationality-2020.xlsx
+2020,Paraguay,,,,1,,data/raw/employment_permits/2020/permits-by-nationality-2020.xlsx
+2020,Qatar,,,,1,1,data/raw/employment_permits/2020/permits-by-nationality-2020.xlsx
+2020,Seychelles,,,,1,,data/raw/employment_permits/2020/permits-by-nationality-2020.xlsx
+2021,Afghanistan,11,,,,1,data/raw/employment_permits/2021/permits-by-nationality-2021.xlsx
+2021,Albania,22,,,1,,data/raw/employment_permits/2021/permits-by-nationality-2021.xlsx
+2021,Algeria,16,,,,2,data/raw/employment_permits/2021/permits-by-nationality-2021.xlsx
+2021,Angola,1,,,,,data/raw/employment_permits/2021/permits-by-nationality-2021.xlsx
+2021,Argentina,58,,,8,5,data/raw/employment_permits/2021/permits-by-nationality-2021.xlsx
+2021,Armenia,13,,,,,data/raw/employment_permits/2021/permits-by-nationality-2021.xlsx
+2021,Australia,71,,,7,4,data/raw/employment_permits/2021/permits-by-nationality-2021.xlsx
+2021,Azerbaijan,8,,,,1,data/raw/employment_permits/2021/permits-by-nationality-2021.xlsx
+2021,Bahrain,3,,,,,data/raw/employment_permits/2021/permits-by-nationality-2021.xlsx
+2021,Bangladesh,53,,,10,1,data/raw/employment_permits/2021/permits-by-nationality-2021.xlsx
+2021,Barbados,1,,,1,,data/raw/employment_permits/2021/permits-by-nationality-2021.xlsx
+2021,Belarus,28,,,,,data/raw/employment_permits/2021/permits-by-nationality-2021.xlsx
+2021,Bhutan,1,,,,,data/raw/employment_permits/2021/permits-by-nationality-2021.xlsx
+2021,Bolivia,6,,,1,2,data/raw/employment_permits/2021/permits-by-nationality-2021.xlsx
+2021,Bosnia and Herzegovina,4,,,2,2,data/raw/employment_permits/2021/permits-by-nationality-2021.xlsx
+2021,Botswana,6,,,2,,data/raw/employment_permits/2021/permits-by-nationality-2021.xlsx
+2021,Brazil,1098,,,178,73,data/raw/employment_permits/2021/permits-by-nationality-2021.xlsx
+2021,Brunei Darussalam,6,,,,1,data/raw/employment_permits/2021/permits-by-nationality-2021.xlsx
+2021,Burkina Faso,1,,,1,,data/raw/employment_permits/2021/permits-by-nationality-2021.xlsx
+2021,Burundi,2,,,,,data/raw/employment_permits/2021/permits-by-nationality-2021.xlsx
+2021,Cameroon,4,,,,,data/raw/employment_permits/2021/permits-by-nationality-2021.xlsx
+2021,Canada,240,,,8,14,data/raw/employment_permits/2021/permits-by-nationality-2021.xlsx
+2021,Chile,25,,,1,,data/raw/employment_permits/2021/permits-by-nationality-2021.xlsx
+2021,China,642,,,63,22,data/raw/employment_permits/2021/permits-by-nationality-2021.xlsx
+2021,Colombia,28,,,2,1,data/raw/employment_permits/2021/permits-by-nationality-2021.xlsx
+2021,Congo,2,,,,,data/raw/employment_permits/2021/permits-by-nationality-2021.xlsx
+2021,"Congo, The Democratic Republic of the",1,,,,,data/raw/employment_permits/2021/permits-by-nationality-2021.xlsx
+2021,Costa Rica,16,,,2,,data/raw/employment_permits/2021/permits-by-nationality-2021.xlsx
+2021,Cote d'Ivoire,2,,,1,,data/raw/employment_permits/2021/permits-by-nationality-2021.xlsx
+2021,Cuba,2,,,,,data/raw/employment_permits/2021/permits-by-nationality-2021.xlsx
+2021,Dominica,2,,,,,data/raw/employment_permits/2021/permits-by-nationality-2021.xlsx
+2021,Dominican Republic,7,,,,,data/raw/employment_permits/2021/permits-by-nationality-2021.xlsx
+2021,Ecuador,4,,,,,data/raw/employment_permits/2021/permits-by-nationality-2021.xlsx
+2021,Egypt,248,,,3,15,data/raw/employment_permits/2021/permits-by-nationality-2021.xlsx
+2021,El Salvador,9,,,1,5,data/raw/employment_permits/2021/permits-by-nationality-2021.xlsx
+2021,Equatorial Guinea,1,,,,,data/raw/employment_permits/2021/permits-by-nationality-2021.xlsx
+2021,Ethiopia,9,,,,,data/raw/employment_permits/2021/permits-by-nationality-2021.xlsx
+2021,Georgia,7,,,,1,data/raw/employment_permits/2021/permits-by-nationality-2021.xlsx
+2021,Ghana,34,,,3,6,data/raw/employment_permits/2021/permits-by-nationality-2021.xlsx
+2021,Guatemala,4,,,,,data/raw/employment_permits/2021/permits-by-nationality-2021.xlsx
+2021,Guinea,2,,,,,data/raw/employment_permits/2021/permits-by-nationality-2021.xlsx
+2021,Honduras,4,,,,,data/raw/employment_permits/2021/permits-by-nationality-2021.xlsx
+2021,Hong Kong,27,,,3,1,data/raw/employment_permits/2021/permits-by-nationality-2021.xlsx
+2021,India,6445,,,210,242,data/raw/employment_permits/2021/permits-by-nationality-2021.xlsx
+2021,Indonesia,52,,,10,1,data/raw/employment_permits/2021/permits-by-nationality-2021.xlsx
+2021,"Iran, Islamic Republic of",45,,,3,2,data/raw/employment_permits/2021/permits-by-nationality-2021.xlsx
+2021,Iraq,46,,,1,2,data/raw/employment_permits/2021/permits-by-nationality-2021.xlsx
+2021,Israel,71,,,,7,data/raw/employment_permits/2021/permits-by-nationality-2021.xlsx
+2021,Jamaica,5,,,,1,data/raw/employment_permits/2021/permits-by-nationality-2021.xlsx
+2021,Japan,99,,,3,2,data/raw/employment_permits/2021/permits-by-nationality-2021.xlsx
+2021,Jordan,54,,,2,2,data/raw/employment_permits/2021/permits-by-nationality-2021.xlsx
+2021,Kazakhstan,14,,,,1,data/raw/employment_permits/2021/permits-by-nationality-2021.xlsx
+2021,Kenya,36,,,1,3,data/raw/employment_permits/2021/permits-by-nationality-2021.xlsx
+2021,"Korea, Democratic People's Republic of",1,,,,,data/raw/employment_permits/2021/permits-by-nationality-2021.xlsx
+2021,"Korea, Republic of",46,,,6,4,data/raw/employment_permits/2021/permits-by-nationality-2021.xlsx
+2021,Kosova,23,,,1,,data/raw/employment_permits/2021/permits-by-nationality-2021.xlsx
+2021,Kosovo,4,,,,,data/raw/employment_permits/2021/permits-by-nationality-2021.xlsx
+2021,Kuwait,3,,,,,data/raw/employment_permits/2021/permits-by-nationality-2021.xlsx
+2021,Kyrgyzstan,3,,,,,data/raw/employment_permits/2021/permits-by-nationality-2021.xlsx
+2021,Lebanon,63,,,2,3,data/raw/employment_permits/2021/permits-by-nationality-2021.xlsx
+2021,Lesotho,2,,,,,data/raw/employment_permits/2021/permits-by-nationality-2021.xlsx
+2021,Libya,20,,,1,2,data/raw/employment_permits/2021/permits-by-nationality-2021.xlsx
+2021,Libyan Arab Jamahiriya,1,,,,,data/raw/employment_permits/2021/permits-by-nationality-2021.xlsx
+2021,"Macedonia, The Former Yugoslav Republic of",5,,,1,,data/raw/employment_permits/2021/permits-by-nationality-2021.xlsx
+2021,Malawi,13,,,3,,data/raw/employment_permits/2021/permits-by-nationality-2021.xlsx
+2021,Malaysia,404,,,22,16,data/raw/employment_permits/2021/permits-by-nationality-2021.xlsx
+2021,Maldives,1,,,,,data/raw/employment_permits/2021/permits-by-nationality-2021.xlsx
+2021,Mali,1,,,,,data/raw/employment_permits/2021/permits-by-nationality-2021.xlsx
+2021,Mauritius,34,,,4,4,data/raw/employment_permits/2021/permits-by-nationality-2021.xlsx
+2021,Mexico,131,,,16,6,data/raw/employment_permits/2021/permits-by-nationality-2021.xlsx
+2021,"Moldova, Republic of",46,,,2,,data/raw/employment_permits/2021/permits-by-nationality-2021.xlsx
+2021,Mongolia,3,,,1,,data/raw/employment_permits/2021/permits-by-nationality-2021.xlsx
+2021,Montenegro,1,,,,,data/raw/employment_permits/2021/permits-by-nationality-2021.xlsx
+2021,Morocco,40,,,1,1,data/raw/employment_permits/2021/permits-by-nationality-2021.xlsx
+2021,Myanmar,4,,,,,data/raw/employment_permits/2021/permits-by-nationality-2021.xlsx
+2021,Namibia,1,,,2,,data/raw/employment_permits/2021/permits-by-nationality-2021.xlsx
+2021,Nepal,95,,,7,1,data/raw/employment_permits/2021/permits-by-nationality-2021.xlsx
+2021,New Zealand,51,,,2,2,data/raw/employment_permits/2021/permits-by-nationality-2021.xlsx
+2021,Nicaragua,1,,,,,data/raw/employment_permits/2021/permits-by-nationality-2021.xlsx
+2021,Nigeria,351,,,38,20,data/raw/employment_permits/2021/permits-by-nationality-2021.xlsx
+2021,Oman,15,,,,,data/raw/employment_permits/2021/permits-by-nationality-2021.xlsx
+2021,Pakistan,1026,,,30,42,data/raw/employment_permits/2021/permits-by-nationality-2021.xlsx
+2021,Palestine,19,,,,2,data/raw/employment_permits/2021/permits-by-nationality-2021.xlsx
+2021,Panama,2,,,,,data/raw/employment_permits/2021/permits-by-nationality-2021.xlsx
+2021,Paraguay,1,,,,,data/raw/employment_permits/2021/permits-by-nationality-2021.xlsx
+2021,Peru,9,,,,,data/raw/employment_permits/2021/permits-by-nationality-2021.xlsx
+2021,Philippines,734,,,57,22,data/raw/employment_permits/2021/permits-by-nationality-2021.xlsx
+2021,Qatar,1,,,,,data/raw/employment_permits/2021/permits-by-nationality-2021.xlsx
+2021,Russian Federation,191,,,3,4,data/raw/employment_permits/2021/permits-by-nationality-2021.xlsx
+2021,Saint Kitts and Nevis,1,,,,,data/raw/employment_permits/2021/permits-by-nationality-2021.xlsx
+2021,Samoa,1,,,,,data/raw/employment_permits/2021/permits-by-nationality-2021.xlsx
+2021,Saudi Arabia,32,,,,2,data/raw/employment_permits/2021/permits-by-nationality-2021.xlsx
+2021,Senegal,1,,,,,data/raw/employment_permits/2021/permits-by-nationality-2021.xlsx
+2021,Serbia,19,,,2,,data/raw/employment_permits/2021/permits-by-nationality-2021.xlsx
+2021,Sierra Leone,,,,2,,data/raw/employment_permits/2021/permits-by-nationality-2021.xlsx
+2021,Singapore,37,,,3,,data/raw/employment_permits/2021/permits-by-nationality-2021.xlsx
+2021,Somalia,3,,,,1,data/raw/employment_permits/2021/permits-by-nationality-2021.xlsx
+2021,South Africa,616,,,71,44,data/raw/employment_permits/2021/permits-by-nationality-2021.xlsx
+2021,Sri Lanka,86,,,17,7,data/raw/employment_permits/2021/permits-by-nationality-2021.xlsx
+2021,Sudan,652,,,5,33,data/raw/employment_permits/2021/permits-by-nationality-2021.xlsx
+2021,Swaziland,4,,,,,data/raw/employment_permits/2021/permits-by-nationality-2021.xlsx
+2021,Syrian Arab Republic,14,,,1,,data/raw/employment_permits/2021/permits-by-nationality-2021.xlsx
+2021,Taiwan,40,,,1,4,data/raw/employment_permits/2021/permits-by-nationality-2021.xlsx
+2021,Tajikistan,2,,,,1,data/raw/employment_permits/2021/permits-by-nationality-2021.xlsx
+2021,"Tanzania, United Republic of",9,,,1,1,data/raw/employment_permits/2021/permits-by-nationality-2021.xlsx
+2021,Thailand,115,,,8,9,data/raw/employment_permits/2021/permits-by-nationality-2021.xlsx
+2021,Togo,1,,,,,data/raw/employment_permits/2021/permits-by-nationality-2021.xlsx
+2021,Tonga,1,,,,,data/raw/employment_permits/2021/permits-by-nationality-2021.xlsx
+2021,Trinidad and Tobago,35,,,1,1,data/raw/employment_permits/2021/permits-by-nationality-2021.xlsx
+2021,Tunisia,39,,,5,,data/raw/employment_permits/2021/permits-by-nationality-2021.xlsx
+2021,Turkey,236,,,13,16,data/raw/employment_permits/2021/permits-by-nationality-2021.xlsx
+2021,Uganda,14,,,4,,data/raw/employment_permits/2021/permits-by-nationality-2021.xlsx
+2021,Ukraine,294,,,31,8,data/raw/employment_permits/2021/permits-by-nationality-2021.xlsx
+2021,United Arab Emirates,4,,,,,data/raw/employment_permits/2021/permits-by-nationality-2021.xlsx
+2021,United Kingdom,1,,,,,data/raw/employment_permits/2021/permits-by-nationality-2021.xlsx
+2021,United States of America,693,,,29,45,data/raw/employment_permits/2021/permits-by-nationality-2021.xlsx
+2021,Uruguay,5,,,1,,data/raw/employment_permits/2021/permits-by-nationality-2021.xlsx
+2021,Uzbekistan,4,,,,,data/raw/employment_permits/2021/permits-by-nationality-2021.xlsx
+2021,Vanuatu,6,,,,,data/raw/employment_permits/2021/permits-by-nationality-2021.xlsx
+2021,Venezuela,34,,,3,1,data/raw/employment_permits/2021/permits-by-nationality-2021.xlsx
+2021,Vietnam,101,,,15,,data/raw/employment_permits/2021/permits-by-nationality-2021.xlsx
+2021,Yemen,5,,,,,data/raw/employment_permits/2021/permits-by-nationality-2021.xlsx
+2021,Zambia,8,,,,,data/raw/employment_permits/2021/permits-by-nationality-2021.xlsx
+2021,Zimbabwe,220,,,17,13,data/raw/employment_permits/2021/permits-by-nationality-2021.xlsx
+2022,Afghanistan,48,,,,,data/raw/employment_permits/2022/permits-by-nationality-2022.xlsx
+2022,Albania,37,,,23,6,data/raw/employment_permits/2022/permits-by-nationality-2022.xlsx
+2022,Algeria,35,,,1,3,data/raw/employment_permits/2022/permits-by-nationality-2022.xlsx
+2022,Angola,2,,,,,data/raw/employment_permits/2022/permits-by-nationality-2022.xlsx
+2022,Argentina,120,,,31,7,data/raw/employment_permits/2022/permits-by-nationality-2022.xlsx
+2022,Armenia,22,,,,,data/raw/employment_permits/2022/permits-by-nationality-2022.xlsx
+2022,Australia,95,,,9,5,data/raw/employment_permits/2022/permits-by-nationality-2022.xlsx
+2022,Azerbaijan,17,,,1,,data/raw/employment_permits/2022/permits-by-nationality-2022.xlsx
+2022,Bahamas,1,,,,,data/raw/employment_permits/2022/permits-by-nationality-2022.xlsx
+2022,Bahrain,6,,,,1,data/raw/employment_permits/2022/permits-by-nationality-2022.xlsx
+2022,Bangladesh,157,,,50,5,data/raw/employment_permits/2022/permits-by-nationality-2022.xlsx
+2022,Barbados,2,,,,,data/raw/employment_permits/2022/permits-by-nationality-2022.xlsx
+2022,Belarus,83,,,9,4,data/raw/employment_permits/2022/permits-by-nationality-2022.xlsx
+2022,Belize,1,,,4,,data/raw/employment_permits/2022/permits-by-nationality-2022.xlsx
+2022,Benin,1,,,,,data/raw/employment_permits/2022/permits-by-nationality-2022.xlsx
+2022,Bhutan,,,,1,,data/raw/employment_permits/2022/permits-by-nationality-2022.xlsx
+2022,Bolivia,34,,,5,1,data/raw/employment_permits/2022/permits-by-nationality-2022.xlsx
+2022,Bosnia and Herzegovina,40,,,3,2,data/raw/employment_permits/2022/permits-by-nationality-2022.xlsx
+2022,Botswana,33,,,5,4,data/raw/employment_permits/2022/permits-by-nationality-2022.xlsx
+2022,Brazil,4304,,,451,365,data/raw/employment_permits/2022/permits-by-nationality-2022.xlsx
+2022,Brunei Darussalam,7,,,,2,data/raw/employment_permits/2022/permits-by-nationality-2022.xlsx
+2022,Bulgaria,1,,,,,data/raw/employment_permits/2022/permits-by-nationality-2022.xlsx
+2022,Burkina Faso,1,,,,,data/raw/employment_permits/2022/permits-by-nationality-2022.xlsx
+2022,Cambodia,72,,,,,data/raw/employment_permits/2022/permits-by-nationality-2022.xlsx
+2022,Cameroon,35,,,21,4,data/raw/employment_permits/2022/permits-by-nationality-2022.xlsx
+2022,Canada,285,,,19,21,data/raw/employment_permits/2022/permits-by-nationality-2022.xlsx
+2022,Central African Republic,1,,,,,data/raw/employment_permits/2022/permits-by-nationality-2022.xlsx
+2022,Chad,1,,,,,data/raw/employment_permits/2022/permits-by-nationality-2022.xlsx
+2022,Chile,77,,,17,3,data/raw/employment_permits/2022/permits-by-nationality-2022.xlsx
+2022,China,1497,,,127,33,data/raw/employment_permits/2022/permits-by-nationality-2022.xlsx
+2022,Colombia,100,,,3,,data/raw/employment_permits/2022/permits-by-nationality-2022.xlsx
+2022,"Congo, The Democratic Republic of the",7,,,1,,data/raw/employment_permits/2022/permits-by-nationality-2022.xlsx
+2022,Costa Rica,41,,,2,1,data/raw/employment_permits/2022/permits-by-nationality-2022.xlsx
+2022,Cote d'Ivoire,2,,,1,,data/raw/employment_permits/2022/permits-by-nationality-2022.xlsx
+2022,Cuba,5,,,3,,data/raw/employment_permits/2022/permits-by-nationality-2022.xlsx
+2022,Djibouti,1,,,,,data/raw/employment_permits/2022/permits-by-nationality-2022.xlsx
+2022,Dominica,5,,,,,data/raw/employment_permits/2022/permits-by-nationality-2022.xlsx
+2022,Dominican Republic,7,,,,1,data/raw/employment_permits/2022/permits-by-nationality-2022.xlsx
+2022,Ecuador,7,,,1,,data/raw/employment_permits/2022/permits-by-nationality-2022.xlsx
+2022,Egypt,419,,,6,15,data/raw/employment_permits/2022/permits-by-nationality-2022.xlsx
+2022,El Salvador,23,,,5,,data/raw/employment_permits/2022/permits-by-nationality-2022.xlsx
+2022,Equatorial Guinea,3,,,,,data/raw/employment_permits/2022/permits-by-nationality-2022.xlsx
+2022,Eritrea,1,,,,,data/raw/employment_permits/2022/permits-by-nationality-2022.xlsx
+2022,Ethiopia,10,,,1,1,data/raw/employment_permits/2022/permits-by-nationality-2022.xlsx
+2022,Fiji,3,,,3,,data/raw/employment_permits/2022/permits-by-nationality-2022.xlsx
+2022,Gambia,2,,,,,data/raw/employment_permits/2022/permits-by-nationality-2022.xlsx
+2022,Georgia,16,,,4,1,data/raw/employment_permits/2022/permits-by-nationality-2022.xlsx
+2022,Ghana,138,,,18,,data/raw/employment_permits/2022/permits-by-nationality-2022.xlsx
+2022,Grenada,2,,,,,data/raw/employment_permits/2022/permits-by-nationality-2022.xlsx
+2022,Guatemala,9,,,2,,data/raw/employment_permits/2022/permits-by-nationality-2022.xlsx
+2022,Guinea,2,,,,,data/raw/employment_permits/2022/permits-by-nationality-2022.xlsx
+2022,Guyana,,,,2,,data/raw/employment_permits/2022/permits-by-nationality-2022.xlsx
+2022,Haiti,2,,,2,,data/raw/employment_permits/2022/permits-by-nationality-2022.xlsx
+2022,Honduras,20,,,4,1,data/raw/employment_permits/2022/permits-by-nationality-2022.xlsx
+2022,Hong Kong,40,,,4,2,data/raw/employment_permits/2022/permits-by-nationality-2022.xlsx
+2022,India,15695,,,1116,400,data/raw/employment_permits/2022/permits-by-nationality-2022.xlsx
+2022,Indonesia,74,,,5,10,data/raw/employment_permits/2022/permits-by-nationality-2022.xlsx
+2022,"Iran, Islamic Republic of",115,,,9,5,data/raw/employment_permits/2022/permits-by-nationality-2022.xlsx
+2022,Iraq,45,,,3,2,data/raw/employment_permits/2022/permits-by-nationality-2022.xlsx
+2022,Israel,375,,,7,8,data/raw/employment_permits/2022/permits-by-nationality-2022.xlsx
+2022,Ivory Coast,4,,,,,data/raw/employment_permits/2022/permits-by-nationality-2022.xlsx
+2022,Jamaica,5,,,1,,data/raw/employment_permits/2022/permits-by-nationality-2022.xlsx
+2022,Japan,279,,,12,2,data/raw/employment_permits/2022/permits-by-nationality-2022.xlsx
+2022,Jordan,74,,,3,2,data/raw/employment_permits/2022/permits-by-nationality-2022.xlsx
+2022,Kazakhstan,45,,,2,3,data/raw/employment_permits/2022/permits-by-nationality-2022.xlsx
+2022,Kenya,128,,,8,6,data/raw/employment_permits/2022/permits-by-nationality-2022.xlsx
+2022,"Korea, Democratic People's Republic of",1,,,,,data/raw/employment_permits/2022/permits-by-nationality-2022.xlsx
+2022,"Korea, Republic of",147,,,5,2,data/raw/employment_permits/2022/permits-by-nationality-2022.xlsx
+2022,Kosova,47,,,5,1,data/raw/employment_permits/2022/permits-by-nationality-2022.xlsx
+2022,Kosovo,11,,,,,data/raw/employment_permits/2022/permits-by-nationality-2022.xlsx
+2022,Kuwait,2,,,,,data/raw/employment_permits/2022/permits-by-nationality-2022.xlsx
+2022,Kyrgyzstan,17,,,1,,data/raw/employment_permits/2022/permits-by-nationality-2022.xlsx
+2022,Lao People's Democratic Republic,2,,,,,data/raw/employment_permits/2022/permits-by-nationality-2022.xlsx
+2022,Latvia,1,,,,,data/raw/employment_permits/2022/permits-by-nationality-2022.xlsx
+2022,Lebanon,126,,,8,5,data/raw/employment_permits/2022/permits-by-nationality-2022.xlsx
+2022,Lesotho,6,,,,,data/raw/employment_permits/2022/permits-by-nationality-2022.xlsx
+2022,Libya,19,,,,1,data/raw/employment_permits/2022/permits-by-nationality-2022.xlsx
+2022,Macao,1,,,,,data/raw/employment_permits/2022/permits-by-nationality-2022.xlsx
+2022,"Macedonia, The Former Yugoslav Republic of",12,,,1,1,data/raw/employment_permits/2022/permits-by-nationality-2022.xlsx
+2022,Malawi,31,,,6,3,data/raw/employment_permits/2022/permits-by-nationality-2022.xlsx
+2022,Malaysia,726,,,60,33,data/raw/employment_permits/2022/permits-by-nationality-2022.xlsx
+2022,Maldives,2,,,,,data/raw/employment_permits/2022/permits-by-nationality-2022.xlsx
+2022,Mali,2,,,,,data/raw/employment_permits/2022/permits-by-nationality-2022.xlsx
+2022,Malta,1,,,,,data/raw/employment_permits/2022/permits-by-nationality-2022.xlsx
+2022,Mauritius,54,,,9,2,data/raw/employment_permits/2022/permits-by-nationality-2022.xlsx
+2022,Mexico,317,,,52,11,data/raw/employment_permits/2022/permits-by-nationality-2022.xlsx
+2022,"Moldova, Republic of",86,,,9,2,data/raw/employment_permits/2022/permits-by-nationality-2022.xlsx
+2022,Mongolia,11,,,11,,data/raw/employment_permits/2022/permits-by-nationality-2022.xlsx
+2022,Montenegro,,,,2,,data/raw/employment_permits/2022/permits-by-nationality-2022.xlsx
+2022,Morocco,99,,,8,2,data/raw/employment_permits/2022/permits-by-nationality-2022.xlsx
+2022,Myanmar,5,,,5,,data/raw/employment_permits/2022/permits-by-nationality-2022.xlsx
+2022,Namibia,6,,,,,data/raw/employment_permits/2022/permits-by-nationality-2022.xlsx
+2022,Nepal,262,,,36,10,data/raw/employment_permits/2022/permits-by-nationality-2022.xlsx
+2022,New Zealand,57,,,6,3,data/raw/employment_permits/2022/permits-by-nationality-2022.xlsx
+2022,Nicaragua,7,,,,,data/raw/employment_permits/2022/permits-by-nationality-2022.xlsx
+2022,Niger,1,,,,,data/raw/employment_permits/2022/permits-by-nationality-2022.xlsx
+2022,Nigeria,1121,,,167,56,data/raw/employment_permits/2022/permits-by-nationality-2022.xlsx
+2022,North Macedonia,3,,,2,,data/raw/employment_permits/2022/permits-by-nationality-2022.xlsx
+2022,Oman,22,,,,4,data/raw/employment_permits/2022/permits-by-nationality-2022.xlsx
+2022,Pakistan,1757,,,128,101,data/raw/employment_permits/2022/permits-by-nationality-2022.xlsx
+2022,Palestine,24,,,2,,data/raw/employment_permits/2022/permits-by-nationality-2022.xlsx
+2022,Panama,11,,,1,,data/raw/employment_permits/2022/permits-by-nationality-2022.xlsx
+2022,Papua New Guinea,1,,,,,data/raw/employment_permits/2022/permits-by-nationality-2022.xlsx
+2022,Paraguay,10,,,1,,data/raw/employment_permits/2022/permits-by-nationality-2022.xlsx
+2022,Peru,25,,,1,2,data/raw/employment_permits/2022/permits-by-nationality-2022.xlsx
+2022,Philippines,2203,,,300,98,data/raw/employment_permits/2022/permits-by-nationality-2022.xlsx
+2022,Qatar,1,,,,,data/raw/employment_permits/2022/permits-by-nationality-2022.xlsx
+2022,Republic of China,1,,,,,data/raw/employment_permits/2022/permits-by-nationality-2022.xlsx
+2022,Republic of Serbia,1,,,,,data/raw/employment_permits/2022/permits-by-nationality-2022.xlsx
+2022,Russian Federation,727,,,12,10,data/raw/employment_permits/2022/permits-by-nationality-2022.xlsx
+2022,Rwanda,1,,,,,data/raw/employment_permits/2022/permits-by-nationality-2022.xlsx
+2022,Saint Kitts and Nevis,2,,,1,,data/raw/employment_permits/2022/permits-by-nationality-2022.xlsx
+2022,Saint Lucia,,,,2,,data/raw/employment_permits/2022/permits-by-nationality-2022.xlsx
+2022,Saudi Arabia,38,,,,4,data/raw/employment_permits/2022/permits-by-nationality-2022.xlsx
+2022,Senegal,10,,,1,,data/raw/employment_permits/2022/permits-by-nationality-2022.xlsx
+2022,Serbia,44,,,4,,data/raw/employment_permits/2022/permits-by-nationality-2022.xlsx
+2022,Seychelles,,,,1,,data/raw/employment_permits/2022/permits-by-nationality-2022.xlsx
+2022,Sierra Leone,1,,,,,data/raw/employment_permits/2022/permits-by-nationality-2022.xlsx
+2022,Singapore,52,,,4,2,data/raw/employment_permits/2022/permits-by-nationality-2022.xlsx
+2022,Somalia,6,,,,,data/raw/employment_permits/2022/permits-by-nationality-2022.xlsx
+2022,South Africa,1317,,,195,80,data/raw/employment_permits/2022/permits-by-nationality-2022.xlsx
+2022,Sri Lanka,423,,,51,8,data/raw/employment_permits/2022/permits-by-nationality-2022.xlsx
+2022,Sudan,607,,,14,44,data/raw/employment_permits/2022/permits-by-nationality-2022.xlsx
+2022,Swaziland,4,,,,,data/raw/employment_permits/2022/permits-by-nationality-2022.xlsx
+2022,Syrian Arab Republic,23,,,2,2,data/raw/employment_permits/2022/permits-by-nationality-2022.xlsx
+2022,Taiwan,130,,,4,2,data/raw/employment_permits/2022/permits-by-nationality-2022.xlsx
+2022,Tajikistan,4,,,,,data/raw/employment_permits/2022/permits-by-nationality-2022.xlsx
+2022,"Tanzania, United Republic of",19,,,3,,data/raw/employment_permits/2022/permits-by-nationality-2022.xlsx
+2022,Thailand,504,,,84,8,data/raw/employment_permits/2022/permits-by-nationality-2022.xlsx
+2022,Tibet,1,,,,,data/raw/employment_permits/2022/permits-by-nationality-2022.xlsx
+2022,Togo,3,,,,,data/raw/employment_permits/2022/permits-by-nationality-2022.xlsx
+2022,Tonga,2,,,,,data/raw/employment_permits/2022/permits-by-nationality-2022.xlsx
+2022,Trinidad and Tobago,22,,,3,4,data/raw/employment_permits/2022/permits-by-nationality-2022.xlsx
+2022,Tunisia,94,,,5,1,data/raw/employment_permits/2022/permits-by-nationality-2022.xlsx
+2022,Turkey,637,,,53,17,data/raw/employment_permits/2022/permits-by-nationality-2022.xlsx
+2022,Uganda,54,,,23,3,data/raw/employment_permits/2022/permits-by-nationality-2022.xlsx
+2022,Ukraine,593,,,42,46,data/raw/employment_permits/2022/permits-by-nationality-2022.xlsx
+2022,United Arab Emirates,3,,,,,data/raw/employment_permits/2022/permits-by-nationality-2022.xlsx
+2022,United Kingdom,1,,,,,data/raw/employment_permits/2022/permits-by-nationality-2022.xlsx
+2022,United States of America,1216,,,65,45,data/raw/employment_permits/2022/permits-by-nationality-2022.xlsx
+2022,Uruguay,11,,,2,1,data/raw/employment_permits/2022/permits-by-nationality-2022.xlsx
+2022,Uzbekistan,5,,,,,data/raw/employment_permits/2022/permits-by-nationality-2022.xlsx
+2022,Vanuatu,4,,,,,data/raw/employment_permits/2022/permits-by-nationality-2022.xlsx
+2022,Venezuela,46,,,6,3,data/raw/employment_permits/2022/permits-by-nationality-2022.xlsx
+2022,Vietnam,779,,,18,16,data/raw/employment_permits/2022/permits-by-nationality-2022.xlsx
+2022,Yemen,4,,,,,data/raw/employment_permits/2022/permits-by-nationality-2022.xlsx
+2022,Zambia,25,,,2,2,data/raw/employment_permits/2022/permits-by-nationality-2022.xlsx
+2022,Zimbabwe,585,,,48,144,data/raw/employment_permits/2022/permits-by-nationality-2022.xlsx
+2023,Afghanistan,11,,,3,1,data/raw/employment_permits/2023/permits-by-nationality-2023.xlsx
+2023,Albania,30,,,5,1,data/raw/employment_permits/2023/permits-by-nationality-2023.xlsx
+2023,Algeria,17,,,3,,data/raw/employment_permits/2023/permits-by-nationality-2023.xlsx
+2023,Angola,1,,,,,data/raw/employment_permits/2023/permits-by-nationality-2023.xlsx
+2023,Argentina,82,,,11,1,data/raw/employment_permits/2023/permits-by-nationality-2023.xlsx
+2023,Armenia,6,,,,,data/raw/employment_permits/2023/permits-by-nationality-2023.xlsx
+2023,Australia,114,,,7,3,data/raw/employment_permits/2023/permits-by-nationality-2023.xlsx
+2023,Azerbaijan,4,,,,,data/raw/employment_permits/2023/permits-by-nationality-2023.xlsx
+2023,Bahamas,2,,,1,,data/raw/employment_permits/2023/permits-by-nationality-2023.xlsx
+2023,Bahrain,2,,,,,data/raw/employment_permits/2023/permits-by-nationality-2023.xlsx
+2023,Bangladesh,158,,,11,5,data/raw/employment_permits/2023/permits-by-nationality-2023.xlsx
+2023,Barbados,3,,,,,data/raw/employment_permits/2023/permits-by-nationality-2023.xlsx
+2023,Belarus,39,,,,,data/raw/employment_permits/2023/permits-by-nationality-2023.xlsx
+2023,Belize,9,,,3,,data/raw/employment_permits/2023/permits-by-nationality-2023.xlsx
+2023,Bolivia,67,,,6,,data/raw/employment_permits/2023/permits-by-nationality-2023.xlsx
+2023,Bosnia and Herzegovina,9,,,,,data/raw/employment_permits/2023/permits-by-nationality-2023.xlsx
+2023,Botswana,54,,,5,1,data/raw/employment_permits/2023/permits-by-nationality-2023.xlsx
+2023,Brazil,2632,,,253,40,data/raw/employment_permits/2023/permits-by-nationality-2023.xlsx
+2023,Brunei Darussalam,11,,,,1,data/raw/employment_permits/2023/permits-by-nationality-2023.xlsx
+2023,Burkina Faso,1,,,,,data/raw/employment_permits/2023/permits-by-nationality-2023.xlsx
+2023,Burundi,1,,,,,data/raw/employment_permits/2023/permits-by-nationality-2023.xlsx
+2023,Cambodia,1,,,1,,data/raw/employment_permits/2023/permits-by-nationality-2023.xlsx
+2023,Cameroon,51,,,,,data/raw/employment_permits/2023/permits-by-nationality-2023.xlsx
+2023,Canada,226,,,9,10,data/raw/employment_permits/2023/permits-by-nationality-2023.xlsx
+2023,Cayman Islands,1,,,,,data/raw/employment_permits/2023/permits-by-nationality-2023.xlsx
+2023,Chile,100,,,17,2,data/raw/employment_permits/2023/permits-by-nationality-2023.xlsx
+2023,China,1488,,,61,11,data/raw/employment_permits/2023/permits-by-nationality-2023.xlsx
+2023,Colombia,76,,,3,,data/raw/employment_permits/2023/permits-by-nationality-2023.xlsx
+2023,Congo,6,,,1,,data/raw/employment_permits/2023/permits-by-nationality-2023.xlsx
+2023,"Congo, The Democratic Republic of the",12,,,,,data/raw/employment_permits/2023/permits-by-nationality-2023.xlsx
+2023,Costa Rica,42,,,2,1,data/raw/employment_permits/2023/permits-by-nationality-2023.xlsx
+2023,Cote d'Ivoire,1,,,,,data/raw/employment_permits/2023/permits-by-nationality-2023.xlsx
+2023,Cuba,2,,,,,data/raw/employment_permits/2023/permits-by-nationality-2023.xlsx
+2023,Dominica,1,,,,,data/raw/employment_permits/2023/permits-by-nationality-2023.xlsx
+2023,Dominican Republic,4,,,,,data/raw/employment_permits/2023/permits-by-nationality-2023.xlsx
+2023,Ecuador,15,,,,,data/raw/employment_permits/2023/permits-by-nationality-2023.xlsx
+2023,Egypt,234,,,2,2,data/raw/employment_permits/2023/permits-by-nationality-2023.xlsx
+2023,El Salvador,26,,,4,,data/raw/employment_permits/2023/permits-by-nationality-2023.xlsx
+2023,Eritrea,,,,1,,data/raw/employment_permits/2023/permits-by-nationality-2023.xlsx
+2023,Ethiopia,7,,,,,data/raw/employment_permits/2023/permits-by-nationality-2023.xlsx
+2023,Fiji,3,,,,,data/raw/employment_permits/2023/permits-by-nationality-2023.xlsx
+2023,Gabon,1,,,1,,data/raw/employment_permits/2023/permits-by-nationality-2023.xlsx
+2023,Gambia,6,,,,,data/raw/employment_permits/2023/permits-by-nationality-2023.xlsx
+2023,Georgia,11,,,1,,data/raw/employment_permits/2023/permits-by-nationality-2023.xlsx
+2023,Ghana,264,,,10,2,data/raw/employment_permits/2023/permits-by-nationality-2023.xlsx
+2023,Grenada,1,,,,,data/raw/employment_permits/2023/permits-by-nationality-2023.xlsx
+2023,Guatemala,7,,,1,,data/raw/employment_permits/2023/permits-by-nationality-2023.xlsx
+2023,Guinea,1,,,,,data/raw/employment_permits/2023/permits-by-nationality-2023.xlsx
+2023,Guyana,2,,,,,data/raw/employment_permits/2023/permits-by-nationality-2023.xlsx
+2023,Honduras,27,,,3,,data/raw/employment_permits/2023/permits-by-nationality-2023.xlsx
+2023,Hong Kong,39,,,2,,data/raw/employment_permits/2023/permits-by-nationality-2023.xlsx
+2023,India,11893,,,390,194,data/raw/employment_permits/2023/permits-by-nationality-2023.xlsx
+2023,Indonesia,66,,,2,1,data/raw/employment_permits/2023/permits-by-nationality-2023.xlsx
+2023,"Iran, Islamic Republic of",85,,,3,,data/raw/employment_permits/2023/permits-by-nationality-2023.xlsx
+2023,Iraq,12,,,1,2,data/raw/employment_permits/2023/permits-by-nationality-2023.xlsx
+2023,Israel,269,,,4,16,data/raw/employment_permits/2023/permits-by-nationality-2023.xlsx
+2023,Jamaica,3,,,7,,data/raw/employment_permits/2023/permits-by-nationality-2023.xlsx
+2023,Japan,235,,,7,2,data/raw/employment_permits/2023/permits-by-nationality-2023.xlsx
+2023,Jordan,57,,,,3,data/raw/employment_permits/2023/permits-by-nationality-2023.xlsx
+2023,Kazakhstan,21,,,1,1,data/raw/employment_permits/2023/permits-by-nationality-2023.xlsx
+2023,Kenya,120,,,6,3,data/raw/employment_permits/2023/permits-by-nationality-2023.xlsx
+2023,"Korea, Democratic People's Republic of",1,,,,,data/raw/employment_permits/2023/permits-by-nationality-2023.xlsx
+2023,"Korea, Republic of",106,,,4,1,data/raw/employment_permits/2023/permits-by-nationality-2023.xlsx
+2023,Kosova,7,,,1,1,data/raw/employment_permits/2023/permits-by-nationality-2023.xlsx
+2023,Kosovo,7,,,2,,data/raw/employment_permits/2023/permits-by-nationality-2023.xlsx
+2023,Kuwait,6,,,,,data/raw/employment_permits/2023/permits-by-nationality-2023.xlsx
+2023,Kyrgyzstan,10,,,,1,data/raw/employment_permits/2023/permits-by-nationality-2023.xlsx
+2023,Lebanon,63,,,2,3,data/raw/employment_permits/2023/permits-by-nationality-2023.xlsx
+2023,Lesotho,14,,,,,data/raw/employment_permits/2023/permits-by-nationality-2023.xlsx
+2023,Libya,12,,,,1,data/raw/employment_permits/2023/permits-by-nationality-2023.xlsx
+2023,Macao,1,,,,,data/raw/employment_permits/2023/permits-by-nationality-2023.xlsx
+2023,"Macedonia, The Former Yugoslav Republic of",3,,,,,data/raw/employment_permits/2023/permits-by-nationality-2023.xlsx
+2023,Madagascar,1,,,,,data/raw/employment_permits/2023/permits-by-nationality-2023.xlsx
+2023,Malawi,15,,,1,,data/raw/employment_permits/2023/permits-by-nationality-2023.xlsx
+2023,Malaysia,598,,,30,9,data/raw/employment_permits/2023/permits-by-nationality-2023.xlsx
+2023,Maldives,1,,,,,data/raw/employment_permits/2023/permits-by-nationality-2023.xlsx
+2023,Malta,1,,,,,data/raw/employment_permits/2023/permits-by-nationality-2023.xlsx
+2023,Mauritius,44,,,8,1,data/raw/employment_permits/2023/permits-by-nationality-2023.xlsx
+2023,Mexico,332,,,41,5,data/raw/employment_permits/2023/permits-by-nationality-2023.xlsx
+2023,"Moldova, Republic of",28,,,1,1,data/raw/employment_permits/2023/permits-by-nationality-2023.xlsx
+2023,Mongolia,53,,,7,,data/raw/employment_permits/2023/permits-by-nationality-2023.xlsx
+2023,Montenegro,3,,,,1,data/raw/employment_permits/2023/permits-by-nationality-2023.xlsx
+2023,Morocco,83,,,6,2,data/raw/employment_permits/2023/permits-by-nationality-2023.xlsx
+2023,Mozambique,1,,,,,data/raw/employment_permits/2023/permits-by-nationality-2023.xlsx
+2023,Myanmar,16,,,,,data/raw/employment_permits/2023/permits-by-nationality-2023.xlsx
+2023,Namibia,2,,,,,data/raw/employment_permits/2023/permits-by-nationality-2023.xlsx
+2023,Nepal,228,,,14,8,data/raw/employment_permits/2023/permits-by-nationality-2023.xlsx
+2023,New Zealand,52,,,4,,data/raw/employment_permits/2023/permits-by-nationality-2023.xlsx
+2023,Nicaragua,3,,,2,,data/raw/employment_permits/2023/permits-by-nationality-2023.xlsx
+2023,Nigeria,1005,,,83,19,data/raw/employment_permits/2023/permits-by-nationality-2023.xlsx
+2023,North Macedonia,5,,,1,,data/raw/employment_permits/2023/permits-by-nationality-2023.xlsx
+2023,Oman,18,,,,1,data/raw/employment_permits/2023/permits-by-nationality-2023.xlsx
+2023,Pakistan,1533,,,93,48,data/raw/employment_permits/2023/permits-by-nationality-2023.xlsx
+2023,Palestine,14,,,,,data/raw/employment_permits/2023/permits-by-nationality-2023.xlsx
+2023,Panama,8,,,2,,data/raw/employment_permits/2023/permits-by-nationality-2023.xlsx
+2023,Paraguay,14,,,,1,data/raw/employment_permits/2023/permits-by-nationality-2023.xlsx
+2023,Peru,10,,,,,data/raw/employment_permits/2023/permits-by-nationality-2023.xlsx
+2023,Philippines,2634,,,85,36,data/raw/employment_permits/2023/permits-by-nationality-2023.xlsx
+2023,Republic of Serbia,2,,,,,data/raw/employment_permits/2023/permits-by-nationality-2023.xlsx
+2023,Russian Federation,224,,,8,2,data/raw/employment_permits/2023/permits-by-nationality-2023.xlsx
+2023,Rwanda,3,,,,,data/raw/employment_permits/2023/permits-by-nationality-2023.xlsx
+2023,Saint Kitts and Nevis,2,,,,,data/raw/employment_permits/2023/permits-by-nationality-2023.xlsx
+2023,Saudi Arabia,30,,,1,1,data/raw/employment_permits/2023/permits-by-nationality-2023.xlsx
+2023,Senegal,3,,,1,,data/raw/employment_permits/2023/permits-by-nationality-2023.xlsx
+2023,Serbia,16,,,2,,data/raw/employment_permits/2023/permits-by-nationality-2023.xlsx
+2023,Seychelles,3,,,2,,data/raw/employment_permits/2023/permits-by-nationality-2023.xlsx
+2023,Sierra Leone,1,,,,,data/raw/employment_permits/2023/permits-by-nationality-2023.xlsx
+2023,Singapore,74,,,2,3,data/raw/employment_permits/2023/permits-by-nationality-2023.xlsx
+2023,Somalia,1,,,,,data/raw/employment_permits/2023/permits-by-nationality-2023.xlsx
+2023,South Africa,1346,,,91,53,data/raw/employment_permits/2023/permits-by-nationality-2023.xlsx
+2023,Sri Lanka,468,,,37,14,data/raw/employment_permits/2023/permits-by-nationality-2023.xlsx
+2023,Sudan,303,,,9,38,data/raw/employment_permits/2023/permits-by-nationality-2023.xlsx
+2023,Swaziland,9,,,,,data/raw/employment_permits/2023/permits-by-nationality-2023.xlsx
+2023,Syrian Arab Republic,23,,,,2,data/raw/employment_permits/2023/permits-by-nationality-2023.xlsx
+2023,Taiwan,118,,,7,4,data/raw/employment_permits/2023/permits-by-nationality-2023.xlsx
+2023,"Tanzania, United Republic of",15,,,3,1,data/raw/employment_permits/2023/permits-by-nationality-2023.xlsx
+2023,Thailand,216,,,39,10,data/raw/employment_permits/2023/permits-by-nationality-2023.xlsx
+2023,Tibet,1,,,,,data/raw/employment_permits/2023/permits-by-nationality-2023.xlsx
+2023,Togo,2,,,,,data/raw/employment_permits/2023/permits-by-nationality-2023.xlsx
+2023,Trinidad and Tobago,18,,,,1,data/raw/employment_permits/2023/permits-by-nationality-2023.xlsx
+2023,Tunisia,47,,,2,,data/raw/employment_permits/2023/permits-by-nationality-2023.xlsx
+2023,Türkiye,429,,,29,5,data/raw/employment_permits/2023/permits-by-nationality-2023.xlsx
+2023,Turkmenistan,1,,,,,data/raw/employment_permits/2023/permits-by-nationality-2023.xlsx
+2023,Uganda,40,,,,1,data/raw/employment_permits/2023/permits-by-nationality-2023.xlsx
+2023,Ukraine,166,,,6,3,data/raw/employment_permits/2023/permits-by-nationality-2023.xlsx
+2023,United Arab Emirates,3,,,1,,data/raw/employment_permits/2023/permits-by-nationality-2023.xlsx
+2023,United States of America,1020,,,33,11,data/raw/employment_permits/2023/permits-by-nationality-2023.xlsx
+2023,Uruguay,15,,,7,,data/raw/employment_permits/2023/permits-by-nationality-2023.xlsx
+2023,Uzbekistan,9,,,,,data/raw/employment_permits/2023/permits-by-nationality-2023.xlsx
+2023,Vanuatu,5,,,,,data/raw/employment_permits/2023/permits-by-nationality-2023.xlsx
+2023,Venezuela,33,,,1,,data/raw/employment_permits/2023/permits-by-nationality-2023.xlsx
+2023,Vietnam,130,,,18,38,data/raw/employment_permits/2023/permits-by-nationality-2023.xlsx
+2023,Zambia,25,,,3,2,data/raw/employment_permits/2023/permits-by-nationality-2023.xlsx
+2023,Zimbabwe,579,,,38,9,data/raw/employment_permits/2023/permits-by-nationality-2023.xlsx
+2024,Afghanistan,16,,,,1,data/raw/employment_permits/2024/permits-by-nationality-2024.xlsx
+2024,Albania,38,,,5,,data/raw/employment_permits/2024/permits-by-nationality-2024.xlsx
+2024,Algeria,35,,,6,,data/raw/employment_permits/2024/permits-by-nationality-2024.xlsx
+2024,Angola,3,,,,,data/raw/employment_permits/2024/permits-by-nationality-2024.xlsx
+2024,Antigua and Barbuda,2,,,,,data/raw/employment_permits/2024/permits-by-nationality-2024.xlsx
+2024,Argentina,123,,,16,6,data/raw/employment_permits/2024/permits-by-nationality-2024.xlsx
+2024,Armenia,12,,,1,1,data/raw/employment_permits/2024/permits-by-nationality-2024.xlsx
+2024,Australia,141,,,3,9,data/raw/employment_permits/2024/permits-by-nationality-2024.xlsx
+2024,Azerbaijan,7,,,,1,data/raw/employment_permits/2024/permits-by-nationality-2024.xlsx
+2024,Bahamas,,,,1,,data/raw/employment_permits/2024/permits-by-nationality-2024.xlsx
+2024,Bahrain,5,,,,1,data/raw/employment_permits/2024/permits-by-nationality-2024.xlsx
+2024,Bangladesh,210,,,35,6,data/raw/employment_permits/2024/permits-by-nationality-2024.xlsx
+2024,Barbados,1,,,,,data/raw/employment_permits/2024/permits-by-nationality-2024.xlsx
+2024,Belarus,33,,,3,,data/raw/employment_permits/2024/permits-by-nationality-2024.xlsx
+2024,Belize,1,,,,,data/raw/employment_permits/2024/permits-by-nationality-2024.xlsx
+2024,Bolivia,94,,,18,2,data/raw/employment_permits/2024/permits-by-nationality-2024.xlsx
+2024,Bosnia and Herzegovina,12,,,5,1,data/raw/employment_permits/2024/permits-by-nationality-2024.xlsx
+2024,Botswana,118,,,9,1,data/raw/employment_permits/2024/permits-by-nationality-2024.xlsx
+2024,Bouvet Island,1,,,,,data/raw/employment_permits/2024/permits-by-nationality-2024.xlsx
+2024,Brazil,4553,,,618,108,data/raw/employment_permits/2024/permits-by-nationality-2024.xlsx
+2024,Brunei Darussalam,9,,,,1,data/raw/employment_permits/2024/permits-by-nationality-2024.xlsx
+2024,Burkina Faso,1,,,,,data/raw/employment_permits/2024/permits-by-nationality-2024.xlsx
+2024,Burundi,1,,,,,data/raw/employment_permits/2024/permits-by-nationality-2024.xlsx
+2024,Cambodia,33,,,,,data/raw/employment_permits/2024/permits-by-nationality-2024.xlsx
+2024,Cameroon,26,,,2,,data/raw/employment_permits/2024/permits-by-nationality-2024.xlsx
+2024,Canada,248,,,11,9,data/raw/employment_permits/2024/permits-by-nationality-2024.xlsx
+2024,Chile,159,,,27,4,data/raw/employment_permits/2024/permits-by-nationality-2024.xlsx
+2024,China,1962,,,91,34,data/raw/employment_permits/2024/permits-by-nationality-2024.xlsx
+2024,Colombia,107,,,4,5,data/raw/employment_permits/2024/permits-by-nationality-2024.xlsx
+2024,Comoros,1,,,,,data/raw/employment_permits/2024/permits-by-nationality-2024.xlsx
+2024,Congo,10,,,,,data/raw/employment_permits/2024/permits-by-nationality-2024.xlsx
+2024,"Congo, The Democratic Republic of the",9,,,,1,data/raw/employment_permits/2024/permits-by-nationality-2024.xlsx
+2024,Costa Rica,52,,,8,1,data/raw/employment_permits/2024/permits-by-nationality-2024.xlsx
+2024,Cote d'Ivoire,3,,,,,data/raw/employment_permits/2024/permits-by-nationality-2024.xlsx
+2024,Cuba,5,,,,,data/raw/employment_permits/2024/permits-by-nationality-2024.xlsx
+2024,Dominica,1,,,,,data/raw/employment_permits/2024/permits-by-nationality-2024.xlsx
+2024,Dominican Republic,5,,,1,,data/raw/employment_permits/2024/permits-by-nationality-2024.xlsx
+2024,Ecuador,12,,,,,data/raw/employment_permits/2024/permits-by-nationality-2024.xlsx
+2024,Egypt,314,,,11,5,data/raw/employment_permits/2024/permits-by-nationality-2024.xlsx
+2024,El Salvador,44,,,7,2,data/raw/employment_permits/2024/permits-by-nationality-2024.xlsx
+2024,Equatorial Guinea,1,,,,,data/raw/employment_permits/2024/permits-by-nationality-2024.xlsx
+2024,Eritrea,1,,,,,data/raw/employment_permits/2024/permits-by-nationality-2024.xlsx
+2024,Ethiopia,14,,,1,,data/raw/employment_permits/2024/permits-by-nationality-2024.xlsx
+2024,Fiji,2,,,,,data/raw/employment_permits/2024/permits-by-nationality-2024.xlsx
+2024,Gabon,1,,,,,data/raw/employment_permits/2024/permits-by-nationality-2024.xlsx
+2024,Gambia,3,,,,,data/raw/employment_permits/2024/permits-by-nationality-2024.xlsx
+2024,Georgia,15,,,4,,data/raw/employment_permits/2024/permits-by-nationality-2024.xlsx
+2024,Ghana,352,,,19,6,data/raw/employment_permits/2024/permits-by-nationality-2024.xlsx
+2024,Grenada,2,,,,,data/raw/employment_permits/2024/permits-by-nationality-2024.xlsx
+2024,Guatemala,11,,,1,,data/raw/employment_permits/2024/permits-by-nationality-2024.xlsx
+2024,Guinea,3,,,,,data/raw/employment_permits/2024/permits-by-nationality-2024.xlsx
+2024,Guyana,14,,,4,,data/raw/employment_permits/2024/permits-by-nationality-2024.xlsx
+2024,Haiti,1,,,,,data/raw/employment_permits/2024/permits-by-nationality-2024.xlsx
+2024,Honduras,27,,,5,,data/raw/employment_permits/2024/permits-by-nationality-2024.xlsx
+2024,Hong Kong,31,,,3,,data/raw/employment_permits/2024/permits-by-nationality-2024.xlsx
+2024,India,13566,,,493,340,data/raw/employment_permits/2024/permits-by-nationality-2024.xlsx
+2024,Indonesia,91,,,9,4,data/raw/employment_permits/2024/permits-by-nationality-2024.xlsx
+2024,"Iran, Islamic Republic of",103,,,4,3,data/raw/employment_permits/2024/permits-by-nationality-2024.xlsx
+2024,Iraq,14,,,,,data/raw/employment_permits/2024/permits-by-nationality-2024.xlsx
+2024,Israel,321,,,,7,data/raw/employment_permits/2024/permits-by-nationality-2024.xlsx
+2024,Ivory Coast,1,,,,,data/raw/employment_permits/2024/permits-by-nationality-2024.xlsx
+2024,Jamaica,6,,,,,data/raw/employment_permits/2024/permits-by-nationality-2024.xlsx
+2024,Japan,199,,,3,6,data/raw/employment_permits/2024/permits-by-nationality-2024.xlsx
+2024,Jordan,50,,,2,4,data/raw/employment_permits/2024/permits-by-nationality-2024.xlsx
+2024,Kazakhstan,27,,,2,,data/raw/employment_permits/2024/permits-by-nationality-2024.xlsx
+2024,Kenya,198,,,12,2,data/raw/employment_permits/2024/permits-by-nationality-2024.xlsx
+2024,"Korea, Democratic People's Republic of",1,,,,1,data/raw/employment_permits/2024/permits-by-nationality-2024.xlsx
+2024,"Korea, Republic of",169,,,2,2,data/raw/employment_permits/2024/permits-by-nationality-2024.xlsx
+2024,Kosova,8,,,4,1,data/raw/employment_permits/2024/permits-by-nationality-2024.xlsx
+2024,Kosovo,17,,,8,,data/raw/employment_permits/2024/permits-by-nationality-2024.xlsx
+2024,Kuwait,3,,,1,,data/raw/employment_permits/2024/permits-by-nationality-2024.xlsx
+2024,Kyrgyzstan,9,,,1,1,data/raw/employment_permits/2024/permits-by-nationality-2024.xlsx
+2024,Lao People's Democratic Republic,1,,,,,data/raw/employment_permits/2024/permits-by-nationality-2024.xlsx
+2024,Latvia,1,,,,,data/raw/employment_permits/2024/permits-by-nationality-2024.xlsx
+2024,Lebanon,65,,,3,1,data/raw/employment_permits/2024/permits-by-nationality-2024.xlsx
+2024,Lesotho,12,,,1,1,data/raw/employment_permits/2024/permits-by-nationality-2024.xlsx
+2024,Libya,9,,,,2,data/raw/employment_permits/2024/permits-by-nationality-2024.xlsx
+2024,"Macedonia, The Former Yugoslav Republic of",6,,,,,data/raw/employment_permits/2024/permits-by-nationality-2024.xlsx
+2024,Malawi,33,,,,1,data/raw/employment_permits/2024/permits-by-nationality-2024.xlsx
+2024,Malaysia,662,,,31,20,data/raw/employment_permits/2024/permits-by-nationality-2024.xlsx
+2024,Maldives,1,,,,,data/raw/employment_permits/2024/permits-by-nationality-2024.xlsx
+2024,Mali,2,,,,,data/raw/employment_permits/2024/permits-by-nationality-2024.xlsx
+2024,Mauritius,38,,,4,3,data/raw/employment_permits/2024/permits-by-nationality-2024.xlsx
+2024,Mexico,427,,,50,8,data/raw/employment_permits/2024/permits-by-nationality-2024.xlsx
+2024,"Moldova, Republic of",37,,,4,3,data/raw/employment_permits/2024/permits-by-nationality-2024.xlsx
+2024,Mongolia,72,,,9,,data/raw/employment_permits/2024/permits-by-nationality-2024.xlsx
+2024,Morocco,88,,,6,2,data/raw/employment_permits/2024/permits-by-nationality-2024.xlsx
+2024,Mozambique,5,,,,,data/raw/employment_permits/2024/permits-by-nationality-2024.xlsx
+2024,Myanmar,15,,,,2,data/raw/employment_permits/2024/permits-by-nationality-2024.xlsx
+2024,Namibia,10,,,,,data/raw/employment_permits/2024/permits-by-nationality-2024.xlsx
+2024,Nepal,357,,,34,6,data/raw/employment_permits/2024/permits-by-nationality-2024.xlsx
+2024,New Zealand,90,,,8,2,data/raw/employment_permits/2024/permits-by-nationality-2024.xlsx
+2024,Nicaragua,3,,,1,,data/raw/employment_permits/2024/permits-by-nationality-2024.xlsx
+2024,Nigeria,974,,,95,34,data/raw/employment_permits/2024/permits-by-nationality-2024.xlsx
+2024,North Macedonia,7,,,,1,data/raw/employment_permits/2024/permits-by-nationality-2024.xlsx
+2024,Oman,16,,,1,,data/raw/employment_permits/2024/permits-by-nationality-2024.xlsx
+2024,Pakistan,1742,,,115,82,data/raw/employment_permits/2024/permits-by-nationality-2024.xlsx
+2024,Palestine,28,,,,,data/raw/employment_permits/2024/permits-by-nationality-2024.xlsx
+2024,Panama,14,,,4,,data/raw/employment_permits/2024/permits-by-nationality-2024.xlsx
+2024,Paraguay,24,,,2,,data/raw/employment_permits/2024/permits-by-nationality-2024.xlsx
+2024,Peru,20,,,1,1,data/raw/employment_permits/2024/permits-by-nationality-2024.xlsx
+2024,Philippines,4049,,,167,71,data/raw/employment_permits/2024/permits-by-nationality-2024.xlsx
+2024,Russian Federation,362,,,7,10,data/raw/employment_permits/2024/permits-by-nationality-2024.xlsx
+2024,Rwanda,4,,,,,data/raw/employment_permits/2024/permits-by-nationality-2024.xlsx
+2024,Saint Kitts and Nevis,2,,,,,data/raw/employment_permits/2024/permits-by-nationality-2024.xlsx
+2024,Saudi Arabia,19,,,2,2,data/raw/employment_permits/2024/permits-by-nationality-2024.xlsx
+2024,Senegal,4,,,,,data/raw/employment_permits/2024/permits-by-nationality-2024.xlsx
+2024,Serbia,24,,,1,1,data/raw/employment_permits/2024/permits-by-nationality-2024.xlsx
+2024,Seychelles,3,,,1,,data/raw/employment_permits/2024/permits-by-nationality-2024.xlsx
+2024,Sierra Leone,5,,,,,data/raw/employment_permits/2024/permits-by-nationality-2024.xlsx
+2024,Singapore,71,,,2,2,data/raw/employment_permits/2024/permits-by-nationality-2024.xlsx
+2024,Somalia,4,,,,,data/raw/employment_permits/2024/permits-by-nationality-2024.xlsx
+2024,South Africa,1631,,,133,53,data/raw/employment_permits/2024/permits-by-nationality-2024.xlsx
+2024,Sri Lanka,633,,,38,23,data/raw/employment_permits/2024/permits-by-nationality-2024.xlsx
+2024,Sudan,332,,,8,38,data/raw/employment_permits/2024/permits-by-nationality-2024.xlsx
+2024,Swaziland,10,,,1,,data/raw/employment_permits/2024/permits-by-nationality-2024.xlsx
+2024,Syrian Arab Republic,18,,,2,2,data/raw/employment_permits/2024/permits-by-nationality-2024.xlsx
+2024,Taiwan,139,,,5,4,data/raw/employment_permits/2024/permits-by-nationality-2024.xlsx
+2024,"Tanzania, United Republic of",25,,,,2,data/raw/employment_permits/2024/permits-by-nationality-2024.xlsx
+2024,Thailand,472,,,39,3,data/raw/employment_permits/2024/permits-by-nationality-2024.xlsx
+2024,Tibet,1,,,,,data/raw/employment_permits/2024/permits-by-nationality-2024.xlsx
+2024,Togo,1,,,,,data/raw/employment_permits/2024/permits-by-nationality-2024.xlsx
+2024,Trinidad and Tobago,20,,,,1,data/raw/employment_permits/2024/permits-by-nationality-2024.xlsx
+2024,Tunisia,61,,,1,,data/raw/employment_permits/2024/permits-by-nationality-2024.xlsx
+2024,Türkiye,430,,,26,9,data/raw/employment_permits/2024/permits-by-nationality-2024.xlsx
+2024,Turkmenistan,2,,,,,data/raw/employment_permits/2024/permits-by-nationality-2024.xlsx
+2024,Turks and Caicos Islands,1,,,1,,data/raw/employment_permits/2024/permits-by-nationality-2024.xlsx
+2024,Uganda,72,,,4,,data/raw/employment_permits/2024/permits-by-nationality-2024.xlsx
+2024,Ukraine,141,,,19,8,data/raw/employment_permits/2024/permits-by-nationality-2024.xlsx
+2024,United Arab Emirates,2,,,,,data/raw/employment_permits/2024/permits-by-nationality-2024.xlsx
+2024,United States of America,1119,,,52,38,data/raw/employment_permits/2024/permits-by-nationality-2024.xlsx
+2024,Uruguay,20,,,5,,data/raw/employment_permits/2024/permits-by-nationality-2024.xlsx
+2024,Uzbekistan,4,,,,,data/raw/employment_permits/2024/permits-by-nationality-2024.xlsx
+2024,Vanuatu,12,,,1,,data/raw/employment_permits/2024/permits-by-nationality-2024.xlsx
+2024,Venezuela,23,,,1,2,data/raw/employment_permits/2024/permits-by-nationality-2024.xlsx
+2024,Vietnam,252,,,17,13,data/raw/employment_permits/2024/permits-by-nationality-2024.xlsx
+2024,Yemen,4,,,,,data/raw/employment_permits/2024/permits-by-nationality-2024.xlsx
+2024,Zambia,20,,,,,data/raw/employment_permits/2024/permits-by-nationality-2024.xlsx
+2024,Zimbabwe,971,,,94,36,data/raw/employment_permits/2024/permits-by-nationality-2024.xlsx
+2025,No Country Entered,,,,2,,data/raw/employment_permits/2025/permits-by-nationality-2025.xlsx
+2025,Afghanistan,6,,,5,,data/raw/employment_permits/2025/permits-by-nationality-2025.xlsx
+2025,Albania,21,,,8,,data/raw/employment_permits/2025/permits-by-nationality-2025.xlsx
+2025,Algeria,29,,,8,,data/raw/employment_permits/2025/permits-by-nationality-2025.xlsx
+2025,Angola,1,,,,,data/raw/employment_permits/2025/permits-by-nationality-2025.xlsx
+2025,Argentina,98,,,21,,data/raw/employment_permits/2025/permits-by-nationality-2025.xlsx
+2025,Armenia,4,,,,,data/raw/employment_permits/2025/permits-by-nationality-2025.xlsx
+2025,Australia,120,,,9,,data/raw/employment_permits/2025/permits-by-nationality-2025.xlsx
+2025,Azerbaijan,5,,,,,data/raw/employment_permits/2025/permits-by-nationality-2025.xlsx
+2025,Bahamas,2,,,1,,data/raw/employment_permits/2025/permits-by-nationality-2025.xlsx
+2025,Bahrain,6,,,,,data/raw/employment_permits/2025/permits-by-nationality-2025.xlsx
+2025,Bangladesh,203,,,37,,data/raw/employment_permits/2025/permits-by-nationality-2025.xlsx
+2025,Belarus,18,,,2,,data/raw/employment_permits/2025/permits-by-nationality-2025.xlsx
+2025,Belize,2,,,,,data/raw/employment_permits/2025/permits-by-nationality-2025.xlsx
+2025,Benin,1,,,,,data/raw/employment_permits/2025/permits-by-nationality-2025.xlsx
+2025,Bhutan,,,,1,,data/raw/employment_permits/2025/permits-by-nationality-2025.xlsx
+2025,Bolivia,136,,,27,,data/raw/employment_permits/2025/permits-by-nationality-2025.xlsx
+2025,Bosnia and Herzegovina,2,,,,,data/raw/employment_permits/2025/permits-by-nationality-2025.xlsx
+2025,Botswana,130,,,29,,data/raw/employment_permits/2025/permits-by-nationality-2025.xlsx
+2025,Brazil,3381,,,522,,data/raw/employment_permits/2025/permits-by-nationality-2025.xlsx
+2025,Brunei Darussalam,3,,,,,data/raw/employment_permits/2025/permits-by-nationality-2025.xlsx
+2025,Burundi,1,,,,,data/raw/employment_permits/2025/permits-by-nationality-2025.xlsx
+2025,Cambodia,1,,,,,data/raw/employment_permits/2025/permits-by-nationality-2025.xlsx
+2025,Cameroon,20,,,7,,data/raw/employment_permits/2025/permits-by-nationality-2025.xlsx
+2025,Canada,232,,,19,,data/raw/employment_permits/2025/permits-by-nationality-2025.xlsx
+2025,Chad,1,,,,,data/raw/employment_permits/2025/permits-by-nationality-2025.xlsx
+2025,Chile,185,,,36,,data/raw/employment_permits/2025/permits-by-nationality-2025.xlsx
+2025,China,1922,,,215,,data/raw/employment_permits/2025/permits-by-nationality-2025.xlsx
+2025,Colombia,121,,,15,,data/raw/employment_permits/2025/permits-by-nationality-2025.xlsx
+2025,Congo,2,,,,,data/raw/employment_permits/2025/permits-by-nationality-2025.xlsx
+2025,"Congo, The Democratic Republic of the",10,,,,,data/raw/employment_permits/2025/permits-by-nationality-2025.xlsx
+2025,Costa Rica,77,,,9,,data/raw/employment_permits/2025/permits-by-nationality-2025.xlsx
+2025,Cuba,9,,,,,data/raw/employment_permits/2025/permits-by-nationality-2025.xlsx
+2025,Dominica,2,,,,,data/raw/employment_permits/2025/permits-by-nationality-2025.xlsx
+2025,Dominican Republic,1,,,,,data/raw/employment_permits/2025/permits-by-nationality-2025.xlsx
+2025,Ecuador,8,,,2,,data/raw/employment_permits/2025/permits-by-nationality-2025.xlsx
+2025,Egypt,206,,,20,,data/raw/employment_permits/2025/permits-by-nationality-2025.xlsx
+2025,El Salvador,37,,,1,,data/raw/employment_permits/2025/permits-by-nationality-2025.xlsx
+2025,Eritrea,2,,,,,data/raw/employment_permits/2025/permits-by-nationality-2025.xlsx
+2025,Ethiopia,13,,,,,data/raw/employment_permits/2025/permits-by-nationality-2025.xlsx
+2025,Fiji,2,,,,,data/raw/employment_permits/2025/permits-by-nationality-2025.xlsx
+2025,Gambia,,,,2,,data/raw/employment_permits/2025/permits-by-nationality-2025.xlsx
+2025,Georgia,24,,,8,,data/raw/employment_permits/2025/permits-by-nationality-2025.xlsx
+2025,Ghana,153,,,29,,data/raw/employment_permits/2025/permits-by-nationality-2025.xlsx
+2025,Grenada,4,,,1,,data/raw/employment_permits/2025/permits-by-nationality-2025.xlsx
+2025,Guatemala,19,,,3,,data/raw/employment_permits/2025/permits-by-nationality-2025.xlsx
+2025,Guinea,1,,,,,data/raw/employment_permits/2025/permits-by-nationality-2025.xlsx
+2025,Guyana,2,,,,,data/raw/employment_permits/2025/permits-by-nationality-2025.xlsx
+2025,Honduras,23,,,3,,data/raw/employment_permits/2025/permits-by-nationality-2025.xlsx
+2025,Hong Kong,22,,,,,data/raw/employment_permits/2025/permits-by-nationality-2025.xlsx
+2025,India,9947,,,807,,data/raw/employment_permits/2025/permits-by-nationality-2025.xlsx
+2025,Indonesia,43,,,11,,data/raw/employment_permits/2025/permits-by-nationality-2025.xlsx
+2025,"Iran, Islamic Republic of",87,,,1,,data/raw/employment_permits/2025/permits-by-nationality-2025.xlsx
+2025,Iraq,12,,,,,data/raw/employment_permits/2025/permits-by-nationality-2025.xlsx
+2025,Ireland,6,,,1,,data/raw/employment_permits/2025/permits-by-nationality-2025.xlsx
+2025,Israel,156,,,6,,data/raw/employment_permits/2025/permits-by-nationality-2025.xlsx
+2025,Ivory Coast,1,,,,,data/raw/employment_permits/2025/permits-by-nationality-2025.xlsx
+2025,Jamaica,4,,,,,data/raw/employment_permits/2025/permits-by-nationality-2025.xlsx
+2025,Japan,123,,,5,,data/raw/employment_permits/2025/permits-by-nationality-2025.xlsx
+2025,Jordan,43,,,1,,data/raw/employment_permits/2025/permits-by-nationality-2025.xlsx
+2025,Kazakhstan,31,,,,,data/raw/employment_permits/2025/permits-by-nationality-2025.xlsx
+2025,Kenya,172,,,21,,data/raw/employment_permits/2025/permits-by-nationality-2025.xlsx
+2025,"Korea, Republic of",87,,,7,,data/raw/employment_permits/2025/permits-by-nationality-2025.xlsx
+2025,Kosova,27,,,6,,data/raw/employment_permits/2025/permits-by-nationality-2025.xlsx
+2025,Kuwait,3,,,,,data/raw/employment_permits/2025/permits-by-nationality-2025.xlsx
+2025,Kyrgyzstan,19,,,,,data/raw/employment_permits/2025/permits-by-nationality-2025.xlsx
+2025,Lebanon,44,,,1,,data/raw/employment_permits/2025/permits-by-nationality-2025.xlsx
+2025,Lesotho,9,,,3,,data/raw/employment_permits/2025/permits-by-nationality-2025.xlsx
+2025,Libya,5,,,1,,data/raw/employment_permits/2025/permits-by-nationality-2025.xlsx
+2025,Macao,2,,,,,data/raw/employment_permits/2025/permits-by-nationality-2025.xlsx
+2025,"Macedonia, The Former Yugoslav Republic of",4,,,,,data/raw/employment_permits/2025/permits-by-nationality-2025.xlsx
+2025,Malawi,22,,,1,,data/raw/employment_permits/2025/permits-by-nationality-2025.xlsx
+2025,Malaysia,503,,,45,,data/raw/employment_permits/2025/permits-by-nationality-2025.xlsx
+2025,Maldives,2,,,,,data/raw/employment_permits/2025/permits-by-nationality-2025.xlsx
+2025,Mauritius,25,,,1,,data/raw/employment_permits/2025/permits-by-nationality-2025.xlsx
+2025,Mexico,392,,,61,,data/raw/employment_permits/2025/permits-by-nationality-2025.xlsx
+2025,"Moldova, Republic of",22,,,7,,data/raw/employment_permits/2025/permits-by-nationality-2025.xlsx
+2025,Mongolia,110,,,25,,data/raw/employment_permits/2025/permits-by-nationality-2025.xlsx
+2025,Morocco,90,,,12,,data/raw/employment_permits/2025/permits-by-nationality-2025.xlsx
+2025,Mozambique,5,,,,,data/raw/employment_permits/2025/permits-by-nationality-2025.xlsx
+2025,Myanmar,20,,,1,,data/raw/employment_permits/2025/permits-by-nationality-2025.xlsx
+2025,Namibia,6,,,1,,data/raw/employment_permits/2025/permits-by-nationality-2025.xlsx
+2025,Nepal,425,,,58,,data/raw/employment_permits/2025/permits-by-nationality-2025.xlsx
+2025,New Zealand,75,,,12,,data/raw/employment_permits/2025/permits-by-nationality-2025.xlsx
+2025,Nicaragua,8,,,2,,data/raw/employment_permits/2025/permits-by-nationality-2025.xlsx
+2025,Nigeria,726,,,156,,data/raw/employment_permits/2025/permits-by-nationality-2025.xlsx
+2025,Oman,10,,,,,data/raw/employment_permits/2025/permits-by-nationality-2025.xlsx
+2025,Pakistan,1453,,,186,,data/raw/employment_permits/2025/permits-by-nationality-2025.xlsx
+2025,Palestine,25,,,2,,data/raw/employment_permits/2025/permits-by-nationality-2025.xlsx
+2025,Panama,21,,,4,,data/raw/employment_permits/2025/permits-by-nationality-2025.xlsx
+2025,Paraguay,23,,,2,,data/raw/employment_permits/2025/permits-by-nationality-2025.xlsx
+2025,Peru,20,,,,,data/raw/employment_permits/2025/permits-by-nationality-2025.xlsx
+2025,Philippines,3398,,,335,,data/raw/employment_permits/2025/permits-by-nationality-2025.xlsx
+2025,Puerto Rico,1,,,,,data/raw/employment_permits/2025/permits-by-nationality-2025.xlsx
+2025,Republic of Serbia,4,,,,,data/raw/employment_permits/2025/permits-by-nationality-2025.xlsx
+2025,Russian Federation,139,,,10,,data/raw/employment_permits/2025/permits-by-nationality-2025.xlsx
+2025,Rwanda,4,,,,,data/raw/employment_permits/2025/permits-by-nationality-2025.xlsx
+2025,Saint Kitts and Nevis,12,,,1,,data/raw/employment_permits/2025/permits-by-nationality-2025.xlsx
+2025,Saudi Arabia,11,,,,,data/raw/employment_permits/2025/permits-by-nationality-2025.xlsx
+2025,Senegal,3,,,,,data/raw/employment_permits/2025/permits-by-nationality-2025.xlsx
+2025,Serbia,16,,,1,,data/raw/employment_permits/2025/permits-by-nationality-2025.xlsx
+2025,Serbia and Montenegro,1,,,,,data/raw/employment_permits/2025/permits-by-nationality-2025.xlsx
+2025,Seychelles,7,,,1,,data/raw/employment_permits/2025/permits-by-nationality-2025.xlsx
+2025,Sierra Leone,3,,,1,,data/raw/employment_permits/2025/permits-by-nationality-2025.xlsx
+2025,Singapore,35,,,4,,data/raw/employment_permits/2025/permits-by-nationality-2025.xlsx
+2025,Somalia,1,,,,,data/raw/employment_permits/2025/permits-by-nationality-2025.xlsx
+2025,South Africa,1240,,,209,,data/raw/employment_permits/2025/permits-by-nationality-2025.xlsx
+2025,Sri Lanka,631,,,68,,data/raw/employment_permits/2025/permits-by-nationality-2025.xlsx
+2025,Sudan,185,,,3,,data/raw/employment_permits/2025/permits-by-nationality-2025.xlsx
+2025,Swaziland,6,,,1,,data/raw/employment_permits/2025/permits-by-nationality-2025.xlsx
+2025,Syrian Arab Republic,14,,,1,,data/raw/employment_permits/2025/permits-by-nationality-2025.xlsx
+2025,Taiwan,83,,,2,,data/raw/employment_permits/2025/permits-by-nationality-2025.xlsx
+2025,Tajikistan,11,,,,,data/raw/employment_permits/2025/permits-by-nationality-2025.xlsx
+2025,"Tanzania, United Republic of",17,,,,,data/raw/employment_permits/2025/permits-by-nationality-2025.xlsx
+2025,Thailand,434,,,26,,data/raw/employment_permits/2025/permits-by-nationality-2025.xlsx
+2025,Tibet,1,,,,,data/raw/employment_permits/2025/permits-by-nationality-2025.xlsx
+2025,Togo,1,,,,,data/raw/employment_permits/2025/permits-by-nationality-2025.xlsx
+2025,Trinidad and Tobago,21,,,,,data/raw/employment_permits/2025/permits-by-nationality-2025.xlsx
+2025,Tunisia,38,,,5,,data/raw/employment_permits/2025/permits-by-nationality-2025.xlsx
+2025,Türkiye,332,,,21,,data/raw/employment_permits/2025/permits-by-nationality-2025.xlsx
+2025,Turkmenistan,1,,,,,data/raw/employment_permits/2025/permits-by-nationality-2025.xlsx
+2025,Turks and Caicos Islands,1,,,,,data/raw/employment_permits/2025/permits-by-nationality-2025.xlsx
+2025,Uganda,68,,,7,,data/raw/employment_permits/2025/permits-by-nationality-2025.xlsx
+2025,Ukraine,185,,,6,,data/raw/employment_permits/2025/permits-by-nationality-2025.xlsx
+2025,United Arab Emirates,1,,,,,data/raw/employment_permits/2025/permits-by-nationality-2025.xlsx
+2025,United Kingdom,1,,,1,,data/raw/employment_permits/2025/permits-by-nationality-2025.xlsx
+2025,United States of America,1039,,,80,,data/raw/employment_permits/2025/permits-by-nationality-2025.xlsx
+2025,Uruguay,14,,,7,,data/raw/employment_permits/2025/permits-by-nationality-2025.xlsx
+2025,Uzbekistan,23,,,,,data/raw/employment_permits/2025/permits-by-nationality-2025.xlsx
+2025,Vanuatu,3,,,1,,data/raw/employment_permits/2025/permits-by-nationality-2025.xlsx
+2025,Venezuela,20,,,2,,data/raw/employment_permits/2025/permits-by-nationality-2025.xlsx
+2025,Vietnam,110,,,9,,data/raw/employment_permits/2025/permits-by-nationality-2025.xlsx
+2025,Yemen,5,,,,,data/raw/employment_permits/2025/permits-by-nationality-2025.xlsx
+2025,Zambia,17,,,3,,data/raw/employment_permits/2025/permits-by-nationality-2025.xlsx
+2025,Zimbabwe,831,,,138,,data/raw/employment_permits/2025/permits-by-nationality-2025.xlsx
+2026,Afghanistan,5,,,,,data/raw/employment_permits/2026/employment-permits-by-nationality-2026.xlsx
+2026,Albania,18,,,6,,data/raw/employment_permits/2026/employment-permits-by-nationality-2026.xlsx
+2026,Algeria,22,,,4,,data/raw/employment_permits/2026/employment-permits-by-nationality-2026.xlsx
+2026,Andorra,1,,,,,data/raw/employment_permits/2026/employment-permits-by-nationality-2026.xlsx
+2026,Angola,2,,,,,data/raw/employment_permits/2026/employment-permits-by-nationality-2026.xlsx
+2026,Antigua and Barbuda,1,,,,,data/raw/employment_permits/2026/employment-permits-by-nationality-2026.xlsx
+2026,Argentina,90,,,21,,data/raw/employment_permits/2026/employment-permits-by-nationality-2026.xlsx
+2026,Armenia,5,,,,,data/raw/employment_permits/2026/employment-permits-by-nationality-2026.xlsx
+2026,Australia,110,,,5,,data/raw/employment_permits/2026/employment-permits-by-nationality-2026.xlsx
+2026,Azerbaijan,7,,,,,data/raw/employment_permits/2026/employment-permits-by-nationality-2026.xlsx
+2026,Bahrain,5,,,,,data/raw/employment_permits/2026/employment-permits-by-nationality-2026.xlsx
+2026,Bangladesh,193,,,42,,data/raw/employment_permits/2026/employment-permits-by-nationality-2026.xlsx
+2026,Belarus,9,,,,,data/raw/employment_permits/2026/employment-permits-by-nationality-2026.xlsx
+2026,Belize,2,,,1,,data/raw/employment_permits/2026/employment-permits-by-nationality-2026.xlsx
+2026,Bolivia,77,,,12,,data/raw/employment_permits/2026/employment-permits-by-nationality-2026.xlsx
+2026,Bosnia and Herzegovina,4,,,,,data/raw/employment_permits/2026/employment-permits-by-nationality-2026.xlsx
+2026,Botswana,94,,,20,,data/raw/employment_permits/2026/employment-permits-by-nationality-2026.xlsx
+2026,Brazil,3269,,,536,,data/raw/employment_permits/2026/employment-permits-by-nationality-2026.xlsx
+2026,Brunei Darussalam,2,,,,,data/raw/employment_permits/2026/employment-permits-by-nationality-2026.xlsx
+2026,Cambodia,3,,,,,data/raw/employment_permits/2026/employment-permits-by-nationality-2026.xlsx
+2026,Cameroon,20,,,5,,data/raw/employment_permits/2026/employment-permits-by-nationality-2026.xlsx
+2026,Canada,153,,,11,,data/raw/employment_permits/2026/employment-permits-by-nationality-2026.xlsx
+2026,Chile,160,,,21,,data/raw/employment_permits/2026/employment-permits-by-nationality-2026.xlsx
+2026,China,1525,,,203,,data/raw/employment_permits/2026/employment-permits-by-nationality-2026.xlsx
+2026,Christmas Island,1,,,,,data/raw/employment_permits/2026/employment-permits-by-nationality-2026.xlsx
+2026,Colombia,81,,,4,,data/raw/employment_permits/2026/employment-permits-by-nationality-2026.xlsx
+2026,Congo,2,,,,,data/raw/employment_permits/2026/employment-permits-by-nationality-2026.xlsx
+2026,"Congo, The Democratic Republic of the",6,,,2,,data/raw/employment_permits/2026/employment-permits-by-nationality-2026.xlsx
+2026,Costa Rica,37,,,4,,data/raw/employment_permits/2026/employment-permits-by-nationality-2026.xlsx
+2026,Cote d'Ivoire,1,,,,,data/raw/employment_permits/2026/employment-permits-by-nationality-2026.xlsx
+2026,Cuba,3,,,,,data/raw/employment_permits/2026/employment-permits-by-nationality-2026.xlsx
+2026,Dominica,2,,,,,data/raw/employment_permits/2026/employment-permits-by-nationality-2026.xlsx
+2026,Dominican Republic,1,,,,,data/raw/employment_permits/2026/employment-permits-by-nationality-2026.xlsx
+2026,Ecuador,6,,,1,,data/raw/employment_permits/2026/employment-permits-by-nationality-2026.xlsx
+2026,Egypt,165,,,11,,data/raw/employment_permits/2026/employment-permits-by-nationality-2026.xlsx
+2026,El Salvador,42,,,7,,data/raw/employment_permits/2026/employment-permits-by-nationality-2026.xlsx
+2026,Eritrea,1,,,,,data/raw/employment_permits/2026/employment-permits-by-nationality-2026.xlsx
+2026,Ethiopia,10,,,3,,data/raw/employment_permits/2026/employment-permits-by-nationality-2026.xlsx
+2026,Georgia,16,,,2,,data/raw/employment_permits/2026/employment-permits-by-nationality-2026.xlsx
+2026,Ghana,130,,,19,,data/raw/employment_permits/2026/employment-permits-by-nationality-2026.xlsx
+2026,Grenada,1,,,,,data/raw/employment_permits/2026/employment-permits-by-nationality-2026.xlsx
+2026,Guatemala,16,,,3,,data/raw/employment_permits/2026/employment-permits-by-nationality-2026.xlsx
+2026,Guinea,1,,,,,data/raw/employment_permits/2026/employment-permits-by-nationality-2026.xlsx
+2026,Guyana,5,,,,,data/raw/employment_permits/2026/employment-permits-by-nationality-2026.xlsx
+2026,Honduras,14,,,1,,data/raw/employment_permits/2026/employment-permits-by-nationality-2026.xlsx
+2026,Hong Kong,9,,,1,,data/raw/employment_permits/2026/employment-permits-by-nationality-2026.xlsx
+2026,India,8067,,,681,,data/raw/employment_permits/2026/employment-permits-by-nationality-2026.xlsx
+2026,Indonesia,35,,,16,,data/raw/employment_permits/2026/employment-permits-by-nationality-2026.xlsx
+2026,"Iran, Islamic Republic of",51,,,7,,data/raw/employment_permits/2026/employment-permits-by-nationality-2026.xlsx
+2026,Iraq,11,,,2,,data/raw/employment_permits/2026/employment-permits-by-nationality-2026.xlsx
+2026,Israel,128,,,,,data/raw/employment_permits/2026/employment-permits-by-nationality-2026.xlsx
+2026,Ivory Coast,1,,,,,data/raw/employment_permits/2026/employment-permits-by-nationality-2026.xlsx
+2026,Jamaica,1,,,,,data/raw/employment_permits/2026/employment-permits-by-nationality-2026.xlsx
+2026,Japan,147,,,3,,data/raw/employment_permits/2026/employment-permits-by-nationality-2026.xlsx
+2026,Jordan,33,,,6,,data/raw/employment_permits/2026/employment-permits-by-nationality-2026.xlsx
+2026,Kazakhstan,16,,,1,,data/raw/employment_permits/2026/employment-permits-by-nationality-2026.xlsx
+2026,Kenya,170,,,30,,data/raw/employment_permits/2026/employment-permits-by-nationality-2026.xlsx
+2026,"Korea, Republic of",65,,,3,,data/raw/employment_permits/2026/employment-permits-by-nationality-2026.xlsx
+2026,Kosova,10,,,5,,data/raw/employment_permits/2026/employment-permits-by-nationality-2026.xlsx
+2026,Kuwait,3,,,,,data/raw/employment_permits/2026/employment-permits-by-nationality-2026.xlsx
+2026,Kyrgyzstan,16,,,,,data/raw/employment_permits/2026/employment-permits-by-nationality-2026.xlsx
+2026,Lebanon,30,,,,,data/raw/employment_permits/2026/employment-permits-by-nationality-2026.xlsx
+2026,Lesotho,12,,,2,,data/raw/employment_permits/2026/employment-permits-by-nationality-2026.xlsx
+2026,Liberia,1,,,,,data/raw/employment_permits/2026/employment-permits-by-nationality-2026.xlsx
+2026,Libya,4,,,1,,data/raw/employment_permits/2026/employment-permits-by-nationality-2026.xlsx
+2026,"Macedonia, The Former Yugoslav Republic of",5,,,1,,data/raw/employment_permits/2026/employment-permits-by-nationality-2026.xlsx
+2026,Malawi,18,,,,,data/raw/employment_permits/2026/employment-permits-by-nationality-2026.xlsx
+2026,Malaysia,379,,,21,,data/raw/employment_permits/2026/employment-permits-by-nationality-2026.xlsx
+2026,Maldives,2,,,,,data/raw/employment_permits/2026/employment-permits-by-nationality-2026.xlsx
+2026,Mauritius,28,,,4,,data/raw/employment_permits/2026/employment-permits-by-nationality-2026.xlsx
+2026,Mexico,345,,,41,,data/raw/employment_permits/2026/employment-permits-by-nationality-2026.xlsx
+2026,"Moldova, Republic of",15,,,1,,data/raw/employment_permits/2026/employment-permits-by-nationality-2026.xlsx
+2026,Mongolia,83,,,25,,data/raw/employment_permits/2026/employment-permits-by-nationality-2026.xlsx
+2026,Morocco,66,,,8,,data/raw/employment_permits/2026/employment-permits-by-nationality-2026.xlsx
+2026,Myanmar,14,,,,,data/raw/employment_permits/2026/employment-permits-by-nationality-2026.xlsx
+2026,Namibia,4,,,,,data/raw/employment_permits/2026/employment-permits-by-nationality-2026.xlsx
+2026,Nepal,353,,,56,,data/raw/employment_permits/2026/employment-permits-by-nationality-2026.xlsx
+2026,New Zealand,53,,,12,,data/raw/employment_permits/2026/employment-permits-by-nationality-2026.xlsx
+2026,Nicaragua,8,,,,,data/raw/employment_permits/2026/employment-permits-by-nationality-2026.xlsx
+2026,Nigeria,567,,,77,,data/raw/employment_permits/2026/employment-permits-by-nationality-2026.xlsx
+2026,Oman,4,,,,,data/raw/employment_permits/2026/employment-permits-by-nationality-2026.xlsx
+2026,Pakistan,1310,,,133,,data/raw/employment_permits/2026/employment-permits-by-nationality-2026.xlsx
+2026,Palestine,21,,,1,,data/raw/employment_permits/2026/employment-permits-by-nationality-2026.xlsx
+2026,Panama,23,,,3,,data/raw/employment_permits/2026/employment-permits-by-nationality-2026.xlsx
+2026,Papua New Guinea,1,,,,,data/raw/employment_permits/2026/employment-permits-by-nationality-2026.xlsx
+2026,Paraguay,22,,,6,,data/raw/employment_permits/2026/employment-permits-by-nationality-2026.xlsx
+2026,Peru,24,,,2,,data/raw/employment_permits/2026/employment-permits-by-nationality-2026.xlsx
+2026,Philippines,3866,,,428,,data/raw/employment_permits/2026/employment-permits-by-nationality-2026.xlsx
+2026,Poland,1,,,,,data/raw/employment_permits/2026/employment-permits-by-nationality-2026.xlsx
+2026,Republic of Serbia,5,,,,,data/raw/employment_permits/2026/employment-permits-by-nationality-2026.xlsx
+2026,Russian Federation,72,,,4,,data/raw/employment_permits/2026/employment-permits-by-nationality-2026.xlsx
+2026,Rwanda,4,,,2,,data/raw/employment_permits/2026/employment-permits-by-nationality-2026.xlsx
+2026,Saint Kitts and Nevis,11,,,,,data/raw/employment_permits/2026/employment-permits-by-nationality-2026.xlsx
+2026,Saint Lucia,5,,,1,,data/raw/employment_permits/2026/employment-permits-by-nationality-2026.xlsx
+2026,Saudi Arabia,15,,,1,,data/raw/employment_permits/2026/employment-permits-by-nationality-2026.xlsx
+2026,Senegal,1,,,1,,data/raw/employment_permits/2026/employment-permits-by-nationality-2026.xlsx
+2026,Serbia,6,,,,,data/raw/employment_permits/2026/employment-permits-by-nationality-2026.xlsx
+2026,Serbia and Montenegro,1,,,,,data/raw/employment_permits/2026/employment-permits-by-nationality-2026.xlsx
+2026,Seychelles,2,,,1,,data/raw/employment_permits/2026/employment-permits-by-nationality-2026.xlsx
+2026,Sierra Leone,3,,,,,data/raw/employment_permits/2026/employment-permits-by-nationality-2026.xlsx
+2026,Singapore,27,,,,,data/raw/employment_permits/2026/employment-permits-by-nationality-2026.xlsx
+2026,Somalia,2,,,,,data/raw/employment_permits/2026/employment-permits-by-nationality-2026.xlsx
+2026,South Africa,1002,,,136,,data/raw/employment_permits/2026/employment-permits-by-nationality-2026.xlsx
+2026,Sri Lanka,627,,,58,,data/raw/employment_permits/2026/employment-permits-by-nationality-2026.xlsx
+2026,Sudan,161,,,4,,data/raw/employment_permits/2026/employment-permits-by-nationality-2026.xlsx
+2026,Swaziland,8,,,,,data/raw/employment_permits/2026/employment-permits-by-nationality-2026.xlsx
+2026,Syrian Arab Republic,15,,,2,,data/raw/employment_permits/2026/employment-permits-by-nationality-2026.xlsx
+2026,Taiwan,84,,,8,,data/raw/employment_permits/2026/employment-permits-by-nationality-2026.xlsx
+2026,Tajikistan,2,,,1,,data/raw/employment_permits/2026/employment-permits-by-nationality-2026.xlsx
+2026,"Tanzania, United Republic of",6,,,2,,data/raw/employment_permits/2026/employment-permits-by-nationality-2026.xlsx
+2026,Thailand,96,,,16,,data/raw/employment_permits/2026/employment-permits-by-nationality-2026.xlsx
+2026,Togo,1,,,,,data/raw/employment_permits/2026/employment-permits-by-nationality-2026.xlsx
+2026,Trinidad and Tobago,8,,,,,data/raw/employment_permits/2026/employment-permits-by-nationality-2026.xlsx
+2026,Tunisia,33,,,2,,data/raw/employment_permits/2026/employment-permits-by-nationality-2026.xlsx
+2026,Türkiye,182,,,11,,data/raw/employment_permits/2026/employment-permits-by-nationality-2026.xlsx
+2026,Turkmenistan,1,,,,,data/raw/employment_permits/2026/employment-permits-by-nationality-2026.xlsx
+2026,Uganda,43,,,8,,data/raw/employment_permits/2026/employment-permits-by-nationality-2026.xlsx
+2026,Ukraine,128,,,11,,data/raw/employment_permits/2026/employment-permits-by-nationality-2026.xlsx
+2026,United Kingdom,1,,,,,data/raw/employment_permits/2026/employment-permits-by-nationality-2026.xlsx
+2026,United States of America,823,,,35,,data/raw/employment_permits/2026/employment-permits-by-nationality-2026.xlsx
+2026,Uruguay,8,,,,,data/raw/employment_permits/2026/employment-permits-by-nationality-2026.xlsx
+2026,Uzbekistan,10,,,,,data/raw/employment_permits/2026/employment-permits-by-nationality-2026.xlsx
+2026,Vanuatu,2,,,,,data/raw/employment_permits/2026/employment-permits-by-nationality-2026.xlsx
+2026,Venezuela,12,,,,,data/raw/employment_permits/2026/employment-permits-by-nationality-2026.xlsx
+2026,Vietnam,90,,,16,,data/raw/employment_permits/2026/employment-permits-by-nationality-2026.xlsx
+2026,Zambia,9,,,,,data/raw/employment_permits/2026/employment-permits-by-nationality-2026.xlsx
+2026,Zimbabwe,783,,,126,,data/raw/employment_permits/2026/employment-permits-by-nationality-2026.xlsx

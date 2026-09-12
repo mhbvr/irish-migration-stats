@@ -1,0 +1,13 @@
+year,issued,new,renewal,refused,withdrawn,withdrawn_reported,source_file
+2015,7253,6076,1177,797,166,True,data/raw/employment_permits/2015/permits-issued-by-nationality-2015.xlsx
+2016,9373,7691,1682,1321,206,True,data/raw/employment_permits/2016/permits-issued-by-nationality-2016.xlsx
+2017,11361,9401,1960,1458,319,True,data/raw/employment_permits/2017/permits-issued-by-nationality-2017.xlsx
+2018,13398,11305,2093,1247,542,True,data/raw/employment_permits/2018/permits-by-nationality-2018.xlsx
+2019,16383,14163,2220,1364,848,True,data/raw/employment_permits/2019/permits-by-nationality-2019.xlsx
+2020,16419,,,956,660,True,data/raw/employment_permits/2020/permits-by-nationality-2020.xlsx
+2021,16275,,,957,736,True,data/raw/employment_permits/2021/permits-by-nationality-2021.xlsx
+2022,39955,,,3476,1705,True,data/raw/employment_permits/2022/permits-by-nationality-2022.xlsx
+2023,30981,,,1575,641,True,data/raw/employment_permits/2023/permits-by-nationality-2023.xlsx
+2024,39390,,,2456,1064,True,data/raw/employment_permits/2024/permits-by-nationality-2024.xlsx
+2025,31044,,,3432,,False,data/raw/employment_permits/2025/permits-by-nationality-2025.xlsx
+2026,26629,,,2967,,False,data/raw/employment_permits/2026/employment-permits-by-nationality-2026.xlsx

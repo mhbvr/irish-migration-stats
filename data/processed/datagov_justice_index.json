@@ -1,0 +1,83 @@
+[
+  {
+    "dataset": "domestic-residence-permissions-applications-and-decisions-year-and-nationality",
+    "title": "Domestic Residence & Permissions applications and decisions - year and nationality",
+    "portal_page": "https://data.gov.ie/dataset/domestic-residence-permissions-applications-and-decisions-year-and-nationality",
+    "resource_url": "https://assets.gov.ie/290581/55a55b1e-cf64-4ca3-b34c-9be3c0ae8b70.csv",
+    "file": "55a55b1e-cf64-4ca3-b34c-9be3c0ae8b70.csv",
+    "last_modified": "2024-05-16T08:28:36.962039",
+    "downloaded": true
+  },
+  {
+    "dataset": "domestic-residence-permissions-applications-and-decisions-year-and-month",
+    "title": "Domestic Residence & Permissions applications and decisions - year and month",
+    "portal_page": "https://data.gov.ie/dataset/domestic-residence-permissions-applications-and-decisions-year-and-month",
+    "resource_url": "https://assets.gov.ie/290580/c46d5783-d5e0-49a8-9eed-f6de1bfbc922.csv",
+    "file": "c46d5783-d5e0-49a8-9eed-f6de1bfbc922.csv",
+    "last_modified": "2024-05-16T08:32:00.892991",
+    "downloaded": true
+  },
+  {
+    "dataset": "visa-applications-and-decisions-year-and-nationality",
+    "title": "Visa applications and decisions - year and nationality",
+    "portal_page": "https://data.gov.ie/dataset/visa-applications-and-decisions-year-and-nationality",
+    "resource_url": "https://assets.gov.ie/static/documents/bd11bc22/visa_applications_and_decisions_-_year_and_nationality.csv",
+    "file": "visa_applications_and_decisions_-_year_and_nationality.csv",
+    "last_modified": "2024-05-16T09:09:32.597651",
+    "downloaded": true
+  },
+  {
+    "dataset": "visa-applications-and-decisions-year-and-month",
+    "title": "Visa applications and decisions - year and month",
+    "portal_page": "https://data.gov.ie/dataset/visa-applications-and-decisions-year-and-month",
+    "resource_url": "https://assets.gov.ie/static/documents/ab681bf6/visa_applications_and_decisions_-_year_and_month.csv",
+    "file": "visa_applications_and_decisions_-_year_and_month.csv",
+    "last_modified": "2024-05-16T09:07:37.903246",
+    "downloaded": true
+  },
+  {
+    "dataset": "eu-treaty-rights-applications-and-decisions-by-year-and-nationality",
+    "title": "EU Treaty Rights applications and decisions by year and nationality",
+    "portal_page": "https://data.gov.ie/dataset/eu-treaty-rights-applications-and-decisions-by-year-and-nationality",
+    "resource_url": "https://assets.gov.ie/static/documents/4b98d66c/EU_Treaty_Rights_applications_and_decisions_-_year_and_nationality.csv",
+    "file": "EU_Treaty_Rights_applications_and_decisions_-_year_and_nationality.csv",
+    "last_modified": "2024-04-17T11:00:43.343969",
+    "downloaded": true
+  },
+  {
+    "dataset": "eu-treaty-rights-applications-and-decisions-by-year-and-month",
+    "title": "EU Treaty Rights applications and decisions by year and month",
+    "portal_page": "https://data.gov.ie/dataset/eu-treaty-rights-applications-and-decisions-by-year-and-month",
+    "resource_url": "https://assets.gov.ie/static/documents/1815716c/EU_Treaty_Rights_applications_and_decisions_-_year_and_month.csv",
+    "file": "EU_Treaty_Rights_applications_and_decisions_-_year_and_month.csv",
+    "last_modified": "2024-05-16T08:39:50.994915",
+    "downloaded": true
+  },
+  {
+    "dataset": "family-reunification-applications-and-decisions-by-year-and-nationality",
+    "title": "Family Reunification applications and decisions by year and nationality",
+    "portal_page": "https://data.gov.ie/dataset/family-reunification-applications-and-decisions-by-year-and-nationality",
+    "resource_url": "https://assets.gov.ie/static/documents/5214187d/Family_Reunification_applications_and_decisions_-_year_and_nationality.csv",
+    "file": "Family_Reunification_applications_and_decisions_-_year_and_nationality.csv",
+    "last_modified": "2024-05-16T08:54:42.673725",
+    "downloaded": true
+  },
+  {
+    "dataset": "family-reunification-applications-and-decisions-by-year-and-month",
+    "title": "Family Reunification applications and decisions by year and month",
+    "portal_page": "https://data.gov.ie/dataset/family-reunification-applications-and-decisions-by-year-and-month",
+    "resource_url": "https://assets.gov.ie/static/documents/29ecaa1b/Family_Reunification_applications_and_decisions_-_year_and_month.csv",
+    "file": "Family_Reunification_applications_and_decisions_-_year_and_month.csv",
+    "last_modified": "2024-05-16T08:57:38.401529",
+    "downloaded": true
+  },
+  {
+    "dataset": "ua37-temporary-protection-granted-to-arrivals-from-ukraine",
+    "title": "UA37 - Temporary Protection granted to arrivals from Ukraine",
+    "portal_page": "https://data.gov.ie/dataset/ua37-temporary-protection-granted-to-arrivals-from-ukraine",
+    "resource_url": "https://ws.cso.ie/public/api.restful/PxStat.Data.Cube_API.ReadDataset/UA37/CSV/1.0/en",
+    "file": "en",
+    "last_modified": "2026-09-12T01:22:46.186043",
+    "downloaded": true
+  }
+]

@@ -1,0 +1,31 @@
+check,year,source_a,value_a,source_b,value_b,difference,pct_difference
+Employment permits issued,2015,DETE spreadsheets (parsed here),7253.0,"Minister's answer, PQ 2026-06-23 #289",7253.0,0.0,0.0
+Employment permits issued,2016,DETE spreadsheets (parsed here),9373.0,"Minister's answer, PQ 2026-06-23 #289",9373.0,0.0,0.0
+Employment permits issued,2017,DETE spreadsheets (parsed here),11361.0,"Minister's answer, PQ 2026-06-23 #289",11361.0,0.0,0.0
+Employment permits issued,2018,DETE spreadsheets (parsed here),13398.0,"Minister's answer, PQ 2026-06-23 #289",13398.0,0.0,0.0
+Employment permits issued,2019,DETE spreadsheets (parsed here),16383.0,"Minister's answer, PQ 2026-06-23 #289",16383.0,0.0,0.0
+Employment permits issued,2020,DETE spreadsheets (parsed here),16419.0,"Minister's answer, PQ 2026-06-23 #289",16419.0,0.0,0.0
+Employment permits issued,2021,DETE spreadsheets (parsed here),16275.0,"Minister's answer, PQ 2026-06-23 #289",16275.0,0.0,0.0
+Employment permits issued,2022,DETE spreadsheets (parsed here),39955.0,"Minister's answer, PQ 2026-06-23 #289",39955.0,0.0,0.0
+Employment permits issued,2023,DETE spreadsheets (parsed here),30981.0,"Minister's answer, PQ 2026-06-23 #289",30981.0,0.0,0.0
+Employment permits issued,2024,DETE spreadsheets (parsed here),39390.0,"Minister's answer, PQ 2026-06-23 #289",39390.0,0.0,0.0
+Employment permits issued,2025,DETE spreadsheets (parsed here),31044.0,"Minister's answer, PQ 2026-06-23 #289",31044.0,0.0,0.0
+Asylum / international protection applications,2015,Eurostat migr_asyappctza,3275.0,"Minister's answer, PQ 2026-06-23 #515",3276.0,-1.0,-0.031
+Asylum / international protection applications,2016,Eurostat migr_asyappctza,2245.0,"Minister's answer, PQ 2026-06-23 #515",2244.0,1.0,0.045
+Asylum / international protection applications,2017,Eurostat migr_asyappctza,2930.0,"Minister's answer, PQ 2026-06-23 #515",2920.0,10.0,0.342
+Asylum / international protection applications,2018,Eurostat migr_asyappctza,3670.0,"Minister's answer, PQ 2026-06-23 #515",3674.0,-4.0,-0.109
+Asylum / international protection applications,2019,Eurostat migr_asyappctza,4780.0,"Minister's answer, PQ 2026-06-23 #515",4783.0,-3.0,-0.063
+Asylum / international protection applications,2020,Eurostat migr_asyappctza,1565.0,"Minister's answer, PQ 2026-06-23 #515",1565.0,0.0,0.0
+Asylum / international protection applications,2021,Eurostat migr_asyappctza,2650.0,"Minister's answer, PQ 2026-06-23 #515",2647.0,3.0,0.113
+Asylum / international protection applications,2022,Eurostat migr_asyappctza,13660.0,"Minister's answer, PQ 2026-06-23 #515",13642.0,18.0,0.132
+Asylum / international protection applications,2023,Eurostat migr_asyappctza,13275.0,"Minister's answer, PQ 2026-06-23 #515",13271.0,4.0,0.03
+Asylum / international protection applications,2024,Eurostat migr_asyappctza,18565.0,"Minister's answer, PQ 2026-06-23 #515",18553.0,12.0,0.065
+Asylum / international protection applications,2025,Eurostat migr_asyappctza,13160.0,"Minister's answer, PQ 2026-06-23 #515",13162.0,-2.0,-0.015
+Acquisitions of citizenship / certificates of naturalisation,2015,Eurostat migr_acq,13565.0,"Minister's answer, PQ 2023-11-28 #424",13532.0,33.0,0.244
+Acquisitions of citizenship / certificates of naturalisation,2016,Eurostat migr_acq,10038.0,"Minister's answer, PQ 2023-11-28 #424",10017.0,21.0,0.21
+Acquisitions of citizenship / certificates of naturalisation,2017,Eurostat migr_acq,8195.0,"Minister's answer, PQ 2023-11-28 #424",8186.0,9.0,0.11
+Acquisitions of citizenship / certificates of naturalisation,2018,Eurostat migr_acq,8223.0,"Minister's answer, PQ 2023-11-28 #424",8213.0,10.0,0.122
+Acquisitions of citizenship / certificates of naturalisation,2019,Eurostat migr_acq,5791.0,"Minister's answer, PQ 2023-11-28 #424",5781.0,10.0,0.173
+Acquisitions of citizenship / certificates of naturalisation,2020,Eurostat migr_acq,5475.0,"Minister's answer, PQ 2023-11-28 #424",5468.0,7.0,0.128
+Acquisitions of citizenship / certificates of naturalisation,2021,Eurostat migr_acq,9778.0,"Minister's answer, PQ 2023-11-28 #424",9776.0,2.0,0.02
+Acquisitions of citizenship / certificates of naturalisation,2022,Eurostat migr_acq,13597.0,"Minister's answer, PQ 2023-11-28 #424",13601.0,-4.0,-0.029
