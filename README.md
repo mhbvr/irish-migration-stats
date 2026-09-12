@@ -9,7 +9,7 @@ is typed in by hand: each value in `data/processed/` is read out of a file whose
 URL, retrieval time and SHA-256 are recorded in
 [`data/processed/sources_register.csv`](data/processed/sources_register.csv).
 
-**Collected 12 September 2026.** 103 source files, 82.6 MB, no failed downloads.
+**Collected 12 September 2026.** 140 source files, 85.7 MB, no failed downloads.
 
 ## Sources
 
@@ -23,8 +23,8 @@ blog or social-media material is used. See [`docs/SOURCES.md`](docs/SOURCES.md).
 
 ```bash
 python3 -m venv .venv && .venv/bin/pip install openpyxl pdfplumber
-for s in 01 03 04 04b 05 07 08; do .venv/bin/python scripts/${s}_*.py; done   # fetch
-for s in 02 06 09 10 11 12 13 14; do .venv/bin/python scripts/${s}_*.py; done # parse
+for s in 01 03 04 04b 05 07 08 15; do .venv/bin/python scripts/${s}_*.py; done      # fetch
+for s in 02 06 10 11 12 16 17 18 09 13 14; do .venv/bin/python scripts/${s}_*.py; done # parse
 ```
 
 Downloads are cached, so re-running is cheap. `scripts/07` (parliamentary
@@ -38,6 +38,8 @@ month.
 | `04`,`04b` | International Protection monthly reports + DoJ statistics CSVs |
 | `05`,`06` | Visa, residence, EU treaty rights, family reunification (data.gov.ie) |
 | `07` | Harvests 10 years of migration-related parliamentary questions + answers |
+| `15` | Scrapes PQ pages for attached spreadsheets (the only source of permit-type data) |
+| `16`,`17`,`18` | Parses permit type × nationality / sector / occupation from those attachments |
 | `08` | Eurostat cross-check series for Ireland |
 | `09` | Builds the consolidated `headline_series.csv` |
 | `10`,`11`,`12` | Indexes PQs; extracts and curates the statistical tables in answers |
@@ -50,6 +52,10 @@ month.
 |---|---|
 | `data/processed/headline_series.csv` | 19 indicators, every row with source + URL |
 | `data/processed/employment_permits_by_nationality.csv` | Permits by nationality, 2015–2026 |
+| `data/processed/employment_permits_by_type_annual.csv` | Permits issued by permit type (CSEP/General/…), 2020–2024 |
+| `data/processed/employment_permits_by_type_nationality.csv` | Permit type × nationality × year |
+| `data/processed/employment_permits_by_type_sector.csv` | Permit type × economic sector × year |
+| `data/processed/employment_permits_by_type_occupation.csv` | Critical Skills permits by SOC occupation, 2024 |
 | `data/processed/justice_by_nationality_year.csv` | Visa / residence / FRU caseload by nationality |
 | `data/processed/cso_*.csv` | CSO migration tables, flattened from JSON-stat |
 | `data/processed/oireachtas_pq_index.csv` | 24,628 migration PQs, each with its URL |

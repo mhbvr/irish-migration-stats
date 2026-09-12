@@ -92,6 +92,107 @@ By sector in 2025, **health and social work takes 25.6%** (7,948 permits), ahead
 of ICT (3,630, 11.7%) and accommodation and food services (3,499, 11.3%). The
 permit system is now primarily a healthcare-staffing instrument.
 
+### 3a. By permit type: General has overtaken Critical Skills
+
+DETE's annual publication has **no permit-type dimension**. The breakdown below
+comes from the spreadsheet the Minister attached to
+[PQ 381 of 20 May 2025](https://www.oireachtas.ie/en/debates/question/2025-05-20/381/),
+which is the only public source giving permits issued by type
+([`employment_permits_by_type_annual.csv`](data/processed/employment_permits_by_type_annual.csv)):
+
+| Permit type | 2020 | 2021 | 2022 | 2023 | 2024 |
+|---|---|---|---|---|---|
+| Critical Skills (CSEP) | 8,199 | 9,435 | **21,448** | 15,673 | 17,168 |
+| General (GEP) | 6,958 | 5,899 | 16,184 | 12,903 | **19,478** |
+| Intra-Company Transfer | 899 | 663 | 1,876 | 1,924 | 1,911 |
+| Sport and Cultural | 93 | 165 | 164 | 184 | 482 |
+| Reactivation | 29 | 24 | 69 | 98 | 170 |
+| Contract for Services | 105 | 58 | 60 | 86 | 74 |
+| Intra-Company Transfer (Training) | 37 | 1 | 74 | 32 | 42 |
+| Internship | 20 | 25 | 43 | 55 | 42 |
+| Dependant/Partner/Spouse | 15 | 6 | 23 | 23 | 30 |
+| Exchange Agreement | 8 | 7 | 20 | 1 | 1 |
+| **Total** | **16,363** | **16,283** | **39,961** | **30,979** | **39,398** |
+| *CSEP share* | *50.1%* | *57.9%* | *53.7%* | *50.6%* | *43.6%* |
+| *GEP share* | *42.5%* | *36.2%* | *40.5%* | *41.7%* | *49.4%* |
+
+Two types are 93% of the system, and **their balance has inverted**. Critical
+Skills peaked at 57.9% of permits in 2021 and fell to 43.6% by 2024; General rose
+from 36.2% to 49.4% and **overtook Critical Skills in 2024** for the first time
+in the period. The 2022 surge was disproportionately a Critical Skills event
+(CSEP more than doubled, +12,013); the 2024 recovery was a General one
+(GEP +6,575 while CSEP rose only 1,495).
+
+Applications confirm the trend has continued, from
+[PQ 194 of 16 June 2026](https://www.oireachtas.ie/en/debates/question/2026-06-16/194/):
+
+| Applications received | 2023 | 2024 | 2025 | 2026 (to mid-June) |
+|---|---|---|---|---|
+| Critical Skills | 17,496 | 17,548 | 12,622 | 6,047 |
+| General | 18,056 | 25,785 | 23,371 | 14,864 |
+| Intra-Company Transfer | 2,039 | 1,949 | 1,238 | 628 |
+| **All types** | **38,211** | **46,379** | **38,459** | **22,202** |
+
+**Critical Skills applications fell 28% between 2023 and 2025** while General rose
+29%. By mid-2026 General applications were running at 2.5× Critical Skills. The
+same answer records processing times of **10 working days for Critical Skills
+against 33 for General**, and decisions of 31,145 issued / 3,274 refused in 2025.
+
+### 3b. The two streams draw on different countries and different sectors
+
+Permits issued in 2024 by type and nationality
+([`employment_permits_by_type_nationality.csv`](data/processed/employment_permits_by_type_nationality.csv)):
+
+| Critical Skills (17,168) | | General (19,478) | |
+|---|---|---|---|
+| India | 9,068 (52.8%) | Brazil | 3,797 (19.5%) |
+| Philippines | 1,365 (8.0%) | India | 3,767 (19.3%) |
+| Brazil | 657 (3.8%) | Philippines | 2,641 (13.6%) |
+| Pakistan | 607 (3.5%) | Pakistan | 1,105 (5.7%) |
+| South Africa | 572 (3.3%) | China | 1,091 (5.6%) |
+
+**Critical Skills is overwhelmingly an India pipeline** — more than half of all
+such permits — whereas General is spread across Brazil, India and the
+Philippines in roughly equal thirds at the top.
+
+By sector, the split is close to a clean division of labour
+([`employment_permits_by_type_sector.csv`](data/processed/employment_permits_by_type_sector.csv), 2024):
+
+| Sector | Total | Critical Skills | General |
+|---|---|---|---|
+| Health & Social Work | 12,507 | 5,917 (47.3%) | 6,556 (52.4%) |
+| Information & Communication | 6,787 | 4,932 (72.7%) | 1,040 (15.3%) |
+| Agriculture, Forestry & Fishing | 3,625 | 28 (0.8%) | 3,536 (97.5%) |
+| Accommodation & Food Services | 3,359 | 97 (2.9%) | 3,219 (95.8%) |
+| Financial & Insurance | 2,318 | 1,979 (85.4%) | 237 (10.2%) |
+| Construction | 1,525 | 778 (51.0%) | 714 (46.8%) |
+| Transport & Storage | 1,282 | 132 (10.3%) | 1,139 (88.8%) |
+
+ICT and financial services run almost entirely on Critical Skills; agriculture,
+hospitality and transport almost entirely on General. Health is the one large
+sector that uses both about equally — and it is the largest, which is why the
+General stream has grown fastest.
+
+### 3c. Within Critical Skills, nursing dominates
+
+A further attachment, to
+[PQ 56 of 26 March 2025](https://www.oireachtas.ie/en/debates/question/2025-03-26/56/),
+breaks 2024 Critical Skills permits down to SOC occupation — 137 occupations in
+all ([`employment_permits_by_type_occupation.csv`](data/processed/employment_permits_by_type_occupation.csv)):
+
+| SOC | Occupation | Permits | Share |
+|---|---|---|---|
+| 2231 | Nurses | 5,031 | 29.3% |
+| 2136 | Programmers and software development professionals | 2,247 | 13.1% |
+| 2135 | IT business analysts, architects and systems designers | 936 | 5.5% |
+| 2424 | Business and financial project management professionals | 789 | 4.6% |
+| 2423 | Management consultants and business analysts | 706 | 4.1% |
+| 2421 | Chartered and certified accountants | 657 | 3.8% |
+
+**Nurses alone are 29.3% of all Critical Skills permits**, and the top ten
+occupations account for 71.6%. The "critical skills" route, despite covering 137
+distinct occupations, is in practice concentrated in nursing and software.
+
 ## 4. International protection: a spike that has half-receded
 
 From the table given to the Dáil on

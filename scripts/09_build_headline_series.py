@@ -48,6 +48,21 @@ for r in read("employment_permits_annual_totals.csv"):
             add(ind, "permits", y, int(r[field]), "DETE", EP_URL,
                 ("Grand Total row of the Department's own spreadsheet. " + part).strip())
 
+# ---- Employment permits by permit type (from PQ supporting documents) --------
+# DETE's annual publication has no permit-type dimension; the breakdown is only
+# public via spreadsheets attached to parliamentary answers.
+try:
+    for r in read("employment_permits_by_type_annual.csv"):
+        if r.get("preferred_for_year") not in ("True", "true", True):
+            continue
+        add(f"Employment permits issued - {r['permit_type']}", "permits", r["year"],
+            int(r["issued"]), "Dept of Enterprise, via PQ supporting document",
+            "https://www.oireachtas.ie/en/debates/question/2025-05-20/381/",
+            "Permit-type breakdown is not in DETE's annual release; taken from the "
+            "spreadsheet attached to PQ 2025-05-20 #381.")
+except FileNotFoundError:
+    pass
+
 # ---- Visas, residence permissions, family reunification (DoJ via data.gov.ie)-
 tot = {}
 for r in read("justice_annual_totals.csv"):

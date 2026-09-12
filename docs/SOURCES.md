@@ -64,6 +64,32 @@ statistics that have no machine-readable release (naturalisation in particular).
 - Harvested: 2016-01-01 → 2026-09-12; 24,628 migration-related PQs retained
 - Each PQ is citable at `https://www.oireachtas.ie/en/debates/question/<date>/<number>/`
 
+### Supporting documents attached to answers
+
+When an answer is too large to print in the record, the Minister supplies a
+spreadsheet or Word file, published under
+`https://data.oireachtas.ie/ie/oireachtas/debates/questions/supportingDocumentation/`.
+**The /questions API strips these links out of the answer text**, so they are
+only discoverable by scraping each PQ's own web page (script 15). 2,038
+permit-related PQ pages were scraped, yielding 37 distinct attachments.
+
+These are the only public source for employment permits **by permit type**
+(Critical Skills, General, Intra-Company Transfer, etc.) — DETE's annual
+publication has no type dimension at all.
+
+| Attachment | Contents | Parliamentary answer |
+|---|---|---|
+| `2025-05-20_pq381-20-05-25_en.xlsx` | Permits issued by permit type × nationality × year, and by permit type × economic sector × year, 2020–2024 | https://www.oireachtas.ie/en/debates/question/2025-05-20/381/ |
+| `2025-03-26_pq56-26-03-2025_en.docx` | Critical Skills permits issued by SOC occupation code, 2024 (137 occupations) | https://www.oireachtas.ie/en/debates/question/2025-03-26/56/ |
+| `2025-05-20_pq-388-390-20-05-25_en.xlsx` | Permits cancelled / revoked / suspended by nationality, 2020–2024 | https://www.oireachtas.ie/en/debates/question/2025-05-20/388/ |
+| `2019-01-16_pq-159-16-1-19_en.xlsx` | Permits by economic sector and occupation, 2010–2018 | https://www.oireachtas.ie/en/debates/question/2019-01-16/159/ |
+
+Permit-type figures printed inline in answers (rather than attached) are in
+`employment_permits_by_type_from_pq_text.csv`. **Read the `caption_before_table`
+column before using these** — most are narrow subsets (for example Critical
+Skills permits issued to doctors only), not whole-system totals. The one full
+breakdown is PQ 194 of 16 June 2026, giving applications by type for 2023–2026.
+
 Series quoted in the report come from these specific answers:
 
 | Series | Parliamentary answer |
@@ -75,6 +101,9 @@ Series quoted in the report come from these specific answers:
 | International protection refusals, 2013–2022 | https://www.oireachtas.ie/en/debates/question/2022-12-06/481/ |
 | Deportation orders issued, 2011–2021 | https://www.oireachtas.ie/en/debates/question/2021-11-23/474/ |
 | Deportation orders revoked, 2015–2024 | https://www.oireachtas.ie/en/debates/question/2025-05-07/316/ |
+| Employment permits by type (issued), 2020–2024 | https://www.oireachtas.ie/en/debates/question/2025-05-20/381/ |
+| Employment permits by type (applications), 2023–2026 | https://www.oireachtas.ie/en/debates/question/2026-06-16/194/ |
+| Critical Skills permits by occupation, 2024 | https://www.oireachtas.ie/en/debates/question/2025-03-26/56/ |
 
 ## 5. Eurostat
 
@@ -106,3 +135,8 @@ of Justice's own statistics page directs users to them.
    they are estimates in thousands, not administrative counts.
 6. **Eurostat rounds** asylum figures to the nearest 5, which is why it differs
    from the Irish source by up to 0.34% (see `cross_source_validation.csv`).
+7. **Permit-type totals come from a different vintage** than the DETE annual
+   files. The PQ attachment was extracted in May 2025 and its yearly totals
+   differ from the current DETE spreadsheets by −56 to +8 permits (at most
+   0.34%), because administrative figures are revised continuously. Use the
+   DETE totals for headline counts and the attachment for the type split.

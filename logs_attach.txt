@@ -1,0 +1,60 @@
+2038 permit-related PQs to check for attachments
+  100/2038 pages scraped, 0 distinct attachments so far
+  200/2038 pages scraped, 1 distinct attachments so far
+  300/2038 pages scraped, 1 distinct attachments so far
+  400/2038 pages scraped, 4 distinct attachments so far
+  500/2038 pages scraped, 6 distinct attachments so far
+  600/2038 pages scraped, 10 distinct attachments so far
+  700/2038 pages scraped, 12 distinct attachments so far
+  800/2038 pages scraped, 16 distinct attachments so far
+  900/2038 pages scraped, 20 distinct attachments so far
+  1000/2038 pages scraped, 22 distinct attachments so far
+  1100/2038 pages scraped, 23 distinct attachments so far
+  1200/2038 pages scraped, 24 distinct attachments so far
+  1300/2038 pages scraped, 24 distinct attachments so far
+  1400/2038 pages scraped, 25 distinct attachments so far
+  1500/2038 pages scraped, 26 distinct attachments so far
+  1600/2038 pages scraped, 29 distinct attachments so far
+  1700/2038 pages scraped, 33 distinct attachments so far
+  1800/2038 pages scraped, 35 distinct attachments so far
+  1900/2038 pages scraped, 37 distinct attachments so far
+  2000/2038 pages scraped, 37 distinct attachments so far
+
+37 distinct supporting documents found; downloading
+  got     pq_attachments/2018-05-03_pq133-3-05-18_en.docx  (44,604 bytes)
+  got     pq_attachments/2019-01-16_pq-159-16-1-19_en.xlsx  (161,218 bytes)
+  got     pq_attachments/2019-01-16_pq161-16-1-19_en.docx  (37,522 bytes)
+  got     pq_attachments/2019-01-16_pq161-2-16-1-19_en.docx  (37,522 bytes)
+  got     pq_attachments/2019-12-18_pq234-18-12-2013_en.pdf   (120,452 bytes)
+  got     pq_attachments/2020-03-05_pq472-05-03-20_en.docx  (18,640 bytes)
+  got     pq_attachments/2021-01-13_pq45-13-01-21_en.docx  (28,538 bytes)
+  got     pq_attachments/2021-03-03_pq19-03-03-21_en.pdf  (142,811 bytes)
+  got     pq_attachments/2021-03-03_pq39-03-03-21_en.pdf  (633,713 bytes)
+  got     pq_attachments/2021-03-03_pq39a-03-03-21_en.pdf  (674,087 bytes)
+  got     pq_attachments/2021-10-05_pq83-5-oct-21_en.docx   (19,760 bytes)
+  got     pq_attachments/2021-11-30_pq145-30-11-21_en.pdf  (143,441 bytes)
+  got     pq_attachments/2022-02-15_pq197-15022022_en.docx   (35,129 bytes)
+  got     pq_attachments/2022-02-16_pq44-16022022_en.docx  (22,851 bytes)
+  got     pq_attachments/2022-03-29_pq184a-29-03-22_en.docx  (35,129 bytes)
+  got     pq_attachments/2022-04-07_pq-37-7-4-22_en.docx  (39,047 bytes)
+  got     pq_attachments/2022-05-17_pq164-17-05-22_en.docx  (35,266 bytes)
+  got     pq_attachments/2022-05-25_pq1-25-05-22_en.docx   (36,672 bytes)
+  got     pq_attachments/2022-07-06_pq4-06-07-22_en.docx   (20,015 bytes)
+  got     pq_attachments/2022-09-28_pq77-28-09-2022_en.xlsx  (17,336 bytes)
+  got     pq_attachments/2022-11-24_pq148-24-11-2022_en.docx  (33,740 bytes)
+  got     pq_attachments/2022-12-14_pq77-13-12-22_en.docx   (71,882 bytes)
+  got     pq_attachments/2023-04-20_pq212-20-04-23_en.docx   (36,002 bytes)
+  got     pq_attachments/2023-05-11_pq74-11-05-23_en.docx  (31,901 bytes)
+  got     pq_attachments/2024-01-30_pq247-30-01-24_en.docx   (37,527 bytes)
+  got     pq_attachments/2024-05-22_pq71-22-05-2024_en.docx   (25,378 bytes)
+  got     pq_attachments/2025-03-26_pq56-26-03-2025_en.docx  (29,536 bytes)
+  got     pq_attachments/2025-05-20_pq-388-390-20-05-25_en.xlsx  (22,177 bytes)
+  got     pq_attachments/2025-05-20_pq381-20-05-25_en.xlsx  (42,435 bytes)
+  got     pq_attachments/2025-06-17_pq358-176-25_en.docx  (140,277 bytes)
+  got     pq_attachments/2025-07-01_pq321-01-07-2025_en.xlsx  (11,952 bytes)
+  got     pq_attachments/2025-07-29_pq-898-29-07-2025_en.docx  (48,932 bytes)
+  got     pq_attachments/2025-09-08_pq-737-08-09-2025_en.pdf  (127,374 bytes)
+  got     pq_attachments/2025-09-30_pq-393-30-09-2025_en.docx  (19,675 bytes)
+  got     pq_attachments/2025-10-01_pq-46-1-10-25_en.docx  (29,528 bytes)
+  got     pq_attachments/2026-04-23_pq-346-23-04-2026_en.docx  (15,448 bytes)
+  got     pq_attachments/2026-04-28_pq-501-28-04-2026_en.docx  (18,930 bytes)
