@@ -193,6 +193,66 @@ all ([`employment_permits_by_type_occupation.csv`](data/processed/employment_per
 occupations account for 71.6%. The "critical skills" route, despite covering 137
 distinct occupations, is in practice concentrated in nursing and software.
 
+### 3d. Permits against non-EU immigration: a minority of the flow
+
+Setting permits beside the CSO's non-EU immigration estimate
+([`permits_vs_noneu_immigration.csv`](data/processed/permits_vs_noneu_immigration.csv))
+needs three warnings first, because a naive ratio is misleading:
+
+- **The periods differ.** The CSO figure is a year to April; permits are
+  calendar-year. The CSO's "2024" covers May 2023 – April 2024.
+- **Permits are not people.** "Issued" includes renewals to people already
+  living here. DETE published the split only to 2019, when renewals were
+  **14–18%** of permits; after 2019 it cannot be separated from the public data.
+- **Ukrainians are in the immigration figure but need no permit.** Temporary
+  protection grants ran to 55,623 in the year to April 2023 alone.
+
+| Year to April | Non-EU immigration | Permits issued | CSEP + General | Permits as % | Ex-Ukraine % |
+|---|---|---|---|---|---|
+| 2015 | 21,900 | 7,253 | — | 33.1% | 33.1% |
+| 2016 | 23,600 | 9,373 | — | 39.7% | 39.7% |
+| 2017 | 35,500 | 11,361 | — | 32.0% | 32.0% |
+| 2018 | 36,900 | 13,398 | — | 36.3% | 36.3% |
+| 2019 | 37,100 | 16,383 | — | 44.2% | 44.2% |
+| 2020 | 37,400 | 16,419 | 15,157 | 43.9% | 43.9% |
+| 2021 | 16,100 | 16,275 | 15,334 | **101.1%** | 101.1% |
+| 2022 | 58,800 | 39,955 | 37,632 | 68.0% | 116.1% |
+| 2023 | 81,100 | 30,981 | 28,576 | 38.2% | 121.6% |
+| 2024 | 86,800 | 39,390 | 36,646 | 45.4% | 64.6% |
+| 2025 | 63,600 | 31,044 | — | 48.8% | 57.1% |
+| 2026 | 55,500 | 26,629 * | — | 48.0% | 60.7% |
+
+\* 2026 permits cover January–August only. The last column subtracts temporary
+protection grants from the immigration estimate; it is an **upper bound**,
+because not every grantee is counted by the CSO as a usually-resident immigrant
+— which is why it exceeds 100% in 2022–23 and should not be read literally.
+
+Three things follow.
+
+**In normal years, employment permits account for roughly a third to a half of
+non-EU immigration** — 32–44% across 2015–2020, and 45–49% in 2024–2026. Since
+renewals are inside that numerator and were 14–18% of permits when last
+published, the share attributable to *new* permit holders is materially lower
+still: on the 2019 split, new permits were 38.2% of non-EU immigration, not
+44.2%. Permit-driven migration is a large minority of the non-EU flow, never the
+majority.
+
+**The remainder is mostly students and family.** Eurostat's first-residence
+permits for Ireland put education at 38,416 in 2024 against employment at 19,078
+and family at 4,194
+([migr_resfirst](https://ec.europa.eu/eurostat/databrowser/view/migr_resfirst/default/table?lang=en)).
+Study, not work, is the single largest documented reason for a first permission.
+
+**The two series decoupled after 2021.** They tracked each other closely through
+2020, then diverged twice. In 2021 permits *exceeded* measured non-EU
+immigration (101.1%) because permits continue to be issued to people already in
+the State while arrivals had collapsed — direct evidence that the ratio cannot
+be read as "share of arrivals". From 2022 the immigration estimate was inflated
+by Ukrainian temporary protection, so the raw ratio fell to 38% in 2023 even
+though permits were near record levels. **CSEP and General together are about 93%
+of all permits**, so the two-type figure tracks the total almost exactly: 40.5%
+of non-EU immigration in 2020, 42.2% in 2024.
+
 ## 4. International protection: a spike that has half-receded
 
 From the table given to the Dáil on

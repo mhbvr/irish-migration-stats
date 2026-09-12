@@ -24,7 +24,7 @@ blog or social-media material is used. See [`docs/SOURCES.md`](docs/SOURCES.md).
 ```bash
 python3 -m venv .venv && .venv/bin/pip install openpyxl pdfplumber
 for s in 01 03 04 04b 05 07 08 15; do .venv/bin/python scripts/${s}_*.py; done      # fetch
-for s in 02 06 10 11 12 16 17 18 09 13 14; do .venv/bin/python scripts/${s}_*.py; done # parse
+for s in 02 06 10 11 12 16 17 18 09 13 14 19; do .venv/bin/python scripts/${s}_*.py; done # parse
 ```
 
 Downloads are cached, so re-running is cheap. `scripts/07` (parliamentary
@@ -40,6 +40,7 @@ month.
 | `07` | Harvests 10 years of migration-related parliamentary questions + answers |
 | `15` | Scrapes PQ pages for attached spreadsheets (the only source of permit-type data) |
 | `16`,`17`,`18` | Parses permit type × nationality / sector / occupation from those attachments |
+| `19` | Compares permits with CSO non-EU immigration (timing / Ukraine / renewal caveats) |
 | `08` | Eurostat cross-check series for Ireland |
 | `09` | Builds the consolidated `headline_series.csv` |
 | `10`,`11`,`12` | Indexes PQs; extracts and curates the statistical tables in answers |
@@ -60,6 +61,7 @@ month.
 | `data/processed/cso_*.csv` | CSO migration tables, flattened from JSON-stat |
 | `data/processed/oireachtas_pq_index.csv` | 24,628 migration PQs, each with its URL |
 | `data/processed/pq_curated_series.csv` | Annual series quoted from named PQs |
+| `data/processed/permits_vs_noneu_immigration.csv` | Permits vs CSO non-EU immigration, adjusted for timing and Ukraine |
 | `data/processed/cross_source_validation.csv` | Independent sources compared |
 | `data/processed/sources_register.csv` | Every download: URL, time, SHA-256 |
 
