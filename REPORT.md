@@ -1,6 +1,6 @@
 # Irish migration statistics, 2015–2026: what the official data shows
 
-Compiled 12 September 2026 from Irish government sources. Every figure below is
+Compiled 12 September 2026, parliamentary material updated to 25 September 2026, from Irish government sources. Every figure below is
 linked to the body that published it, and is reproduced in
 [`data/processed/headline_series.csv`](data/processed/headline_series.csv) with
 its source URL. Method and caveats: [`docs/SOURCES.md`](docs/SOURCES.md).
@@ -289,6 +289,36 @@ International Protection Office dropped from 23,863 at end-September 2024 to
 still 76 weeks
 ([IPO summary report, May 2026](https://www.gov.ie/en/department-of-justice-home-affairs-and-migration/collections/international-protection-in-numbers/)).
 
+### 4a. The bottleneck has moved to appeals and the courts
+
+Answers of 24 September 2026 set out what happened downstream as first-instance
+decision-making sped up
+([PQ 381](https://www.oireachtas.ie/en/debates/question/2026-09-24/381/)):
+
+| Year | IPAT appeals completed | Judicial reviews against IPAT |
+|---|---|---|
+| 2021 | 1,228 | 59 |
+| 2022 | 1,571 | 42 |
+| 2023 | 1,701 | 156 |
+| 2024 | 3,098 | 200 |
+| 2025 | 6,254 | 383 |
+| 2026 (to 20/21 Sep) | 6,693 * | 412 * |
+
+\* part-year. The IPO delivered **over 20,200 first-instance decisions in 2025
+against about 14,100 in 2024, a 44% increase**, and the Appeals Tribunal more
+than doubled appeals closed. By 20 September 2026 IPAT had already closed more
+appeals than in the whole of 2025.
+
+Litigation has scaled with it: judicial reviews against Tribunal decisions rose
+from 59 in 2021 to 383 in 2025, and 2026 had already exceeded that by September —
+**more than a sixfold increase in five years**, faster than the growth in
+decisions themselves.
+
+Deportation orders revoked under s.3(11) of the Immigration Act 1999 now run to
+2026 ([PQ 378](https://www.oireachtas.ie/en/debates/question/2026-09-24/378/)):
+360 (2016), 340 (2019), 586 (2022), 524 (2024), **520 (2025)**, and 281 to 16
+September 2026.
+
 ## 5. Naturalisation: the fastest-moving series of all
 
 Certificates of naturalisation issued
@@ -319,6 +349,47 @@ digitisation cut median processing time from 19 months (2022) to 15 (2023) to
 ([PQ, 12 November 2025](https://www.oireachtas.ie/en/debates/question/2025-11-12/768/)).
 This is the lagged consequence of the 2015–2019 arrivals reaching the five-year
 residency threshold, and it will keep climbing.
+
+### 5a. Refusals are negligible, and processing time has collapsed
+
+Naturalisation refusals over the last decade
+([PQ 891, 16 September 2026](https://www.oireachtas.ie/en/debates/question/2026-09-16/891/)):
+
+| 2016 | 2017 | 2018 | 2019 | 2020 | 2021 | 2022 | 2023 | 2024 | 2025 |
+|---|---|---|---|---|---|---|---|---|---|
+| 488 | 522 | 1,252 | 50 | 8 | 696 | 404 | 129 | 187 | 377 |
+
+Against more than 31,000 decisions in 2024, **187 refusals is about 0.6%** — on
+these figures naturalisation is close to an administrative certainty once the
+statutory criteria are met, and the operative constraint is processing capacity
+rather than selectivity. The series is also extremely erratic (1,252 in 2018,
+then 8 in 2020), which the Department attributes to timing of decision batches;
+it should not be read as a changing policy stance year to year.
+
+Median processing time, same period
+([PQ 277, 17 September 2026](https://www.oireachtas.ie/en/debates/question/2026-09-17/277/)):
+
+| 2021 | 2022 | 2023 | 2024 | 2025 |
+|---|---|---|---|---|
+| 24 months | 19 | 15 | **8** | 8 |
+
+**Processing time fell by two-thirds in four years** and then held at 8 months
+through 2025 even as applications hit a record 41,511 — the clearest efficiency
+gain anywhere in this dataset.
+
+Two further figures from September 2026. Approximately **236,000 people have been
+granted Irish citizenship through naturalisation since 2011**
+([PQ 274](https://www.oireachtas.ie/en/debates/question/2026-09-17/274/)). And
+declarations of intention to retain Irish citizenship (Form 5, filed by
+naturalised citizens living abroad) rose only modestly, from 632 in 2021 to 785
+in 2025 — the Department states it holds **no data at all** on how many
+naturalised citizens remain resident, so post-naturalisation retention cannot be
+measured from official sources.
+
+The Government secured approval in September 2026 for priority drafting of
+legislation to strengthen the naturalisation framework
+([PQ 891](https://www.oireachtas.ie/en/debates/question/2026-09-16/891/)), so
+this series is likely to break in the next few years.
 
 ## 6. Visas: record volumes, tightening decisions
 

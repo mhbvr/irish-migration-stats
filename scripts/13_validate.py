@@ -18,6 +18,9 @@ for r in load("headline_series.csv"):
     head[r["indicator"]][int(r["year"])] = float(r["value"])
 pq = collections.defaultdict(dict)
 for r in load("pq_curated_series.csv"):
+    # part-year figures must never be compared against full calendar years
+    if r.get("is_partial_year") in ("True", "true"):
+        continue
     pq[r["series"]][int(r["year"])] = float(r["value"])
 
 CHECKS = [

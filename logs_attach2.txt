@@ -1,0 +1,4 @@
+7210 PQs in scope to check for attachments (all migration PQs since 2026-01-01, plus permit-related across the full harvest)
+  200/7210 pages scraped, 0 distinct attachments so far
+  400/7210 pages scraped, 0 distinct attachments so far
+  600/7210 pages scraped, 7 distinct attachments so far

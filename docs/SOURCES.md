@@ -61,7 +61,11 @@ statistics that have no machine-readable release (naturalisation in particular).
 
 - API spec: https://api.oireachtas.ie/v1/swagger.json
 - Endpoint used: `https://api.oireachtas.ie/v1/questions?date_start=…&date_end=…&show_answers=true`
-- Harvested: 2016-01-01 → 2026-09-12; 24,628 migration-related PQs retained
+- Harvested: 2016-01-01 → 2026-09-25; **25,016** migration-related PQs retained
+- The harvester runs to the current month automatically. To update an existing
+  harvest, re-fetch the most recent months (answers are published days or weeks
+  after the question, so the latest months keep growing):
+  `python scripts/07_fetch_oireachtas_pqs.py --refresh 5`
 - Each PQ is citable at `https://www.oireachtas.ie/en/debates/question/<date>/<number>/`
 
 ### Supporting documents attached to answers
@@ -100,7 +104,12 @@ Series quoted in the report come from these specific answers:
 | Citizenship applications received, 2021–2026 | https://www.oireachtas.ie/en/debates/question/2026-09-07/2397/ |
 | International protection refusals, 2013–2022 | https://www.oireachtas.ie/en/debates/question/2022-12-06/481/ |
 | Deportation orders issued, 2011–2021 | https://www.oireachtas.ie/en/debates/question/2021-11-23/474/ |
-| Deportation orders revoked, 2015–2024 | https://www.oireachtas.ie/en/debates/question/2025-05-07/316/ |
+| Deportation orders revoked, 2016–2026 | https://www.oireachtas.ie/en/debates/question/2026-09-24/378/ |
+| Certificates of naturalisation refused, 2016–2025 | https://www.oireachtas.ie/en/debates/question/2026-09-16/891/ |
+| Citizenship median processing time, 2021–2025 | https://www.oireachtas.ie/en/debates/question/2026-09-17/277/ |
+| Form 5 retention declarations, 2021–2025 | https://www.oireachtas.ie/en/debates/question/2026-09-17/274/ |
+| IPAT appeals completed, 2021–2026 | https://www.oireachtas.ie/en/debates/question/2026-09-24/381/ |
+| Judicial reviews against IPAT, 2021–2026 | https://www.oireachtas.ie/en/debates/question/2026-09-24/381/ |
 | Employment permits by type (issued), 2020–2024 | https://www.oireachtas.ie/en/debates/question/2025-05-20/381/ |
 | Employment permits by type (applications), 2023–2026 | https://www.oireachtas.ie/en/debates/question/2026-06-16/194/ |
 | Critical Skills permits by occupation, 2024 | https://www.oireachtas.ie/en/debates/question/2025-03-26/56/ |
@@ -135,7 +144,20 @@ of Justice's own statistics page directs users to them.
    they are estimates in thousands, not administrative counts.
 6. **Eurostat rounds** asylum figures to the nearest 5, which is why it differs
    from the Irish source by up to 0.34% (see `cross_source_validation.csv`).
-7. **Permit-type totals come from a different vintage** than the DETE annual
+7. **Part-year figures in parliamentary answers are flagged.** Departments often
+   end a table with an incomplete year, marked either on the row (`2026 YTD*`,
+   `2023 (YTD)`, `2026 (16/09/26)`) or only in the caption ("from 2011 to 31 May
+   2026"). `pq_curated_series.csv` carries `year_annotation` and
+   `is_partial_year` for every value, and the cross-source validation excludes
+   part-year rows. Seven of 113 curated values are part-year — notably
+   certificates of naturalisation for 2023, which is 12,500 to November 2023
+   against a full-year 18,265.
+8. **Attachments referenced in an answer are not always published.** PQ 891 of
+   16 September 2026 states that citizenship figures by country of origin are
+   "in the files attached", but no attachment appears on the Oireachtas page for
+   that question, or on any September 2026 migration PQ. That breakdown is
+   therefore not publicly available from this source.
+9. **Permit-type totals come from a different vintage** than the DETE annual
    files. The PQ attachment was extracted in May 2025 and its yearly totals
    differ from the current DETE spreadsheets by −56 to +8 permits (at most
    0.34%), because administrative figures are revised continuously. Use the

@@ -31,6 +31,14 @@ Downloads are cached, so re-running is cheap. `scripts/07` (parliamentary
 questions) takes roughly 40 minutes on a first run and is resumable month by
 month.
 
+To bring the parliamentary data up to date later:
+
+```bash
+.venv/bin/python scripts/07_fetch_oireachtas_pqs.py --refresh 5   # re-fetch recent months
+.venv/bin/python scripts/15_fetch_pq_attachments.py --since 2026-01-01
+for s in 10 11 12 16 17 18 09 13 14; do .venv/bin/python scripts/${s}_*.py; done
+```
+
 | Script | What it does |
 |---|---|
 | `01`,`02` | Employment permit spreadsheets (DETE), 2015–2026 → tidy CSV |
@@ -59,8 +67,8 @@ month.
 | `data/processed/employment_permits_by_type_occupation.csv` | Critical Skills permits by SOC occupation, 2024 |
 | `data/processed/justice_by_nationality_year.csv` | Visa / residence / FRU caseload by nationality |
 | `data/processed/cso_*.csv` | CSO migration tables, flattened from JSON-stat |
-| `data/processed/oireachtas_pq_index.csv` | 24,628 migration PQs, each with its URL |
-| `data/processed/pq_curated_series.csv` | Annual series quoted from named PQs |
+| `data/processed/oireachtas_pq_index.csv` | 25,016 migration PQs, each with its URL |
+| `data/processed/pq_curated_series.csv` | Annual series quoted from named PQs, with part-year flags |
 | `data/processed/permits_vs_noneu_immigration.csv` | Permits vs CSO non-EU immigration, adjusted for timing and Ukraine |
 | `data/processed/cross_source_validation.csv` | Independent sources compared |
 | `data/processed/sources_register.csv` | Every download: URL, time, SHA-256 |
