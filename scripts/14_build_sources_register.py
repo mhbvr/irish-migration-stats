@@ -11,7 +11,14 @@ for line in man.read_text().splitlines():
 entries = [seen[k] for k in sorted(seen)]
 
 ok = [e for e in entries if e.get("status") == "ok"]
-bad = [e for e in entries if e.get("status") != "ok"]
+ok_urls = {e["url"] for e in ok}
+# A failure is superseded when the same document was later fetched successfully
+# under a corrected URL (e.g. hrefs with escaped underscores that 403'd).
+for e in entries:
+    if e.get("status") != "ok" and e.get("url", "").replace("\\", "") in ok_urls:
+        e["status"] = "failed-superseded"
+bad = [e for e in entries if e.get("status") not in ("ok", "failed-superseded")]
+superseded = [e for e in entries if e.get("status") == "failed-superseded"]
 
 out = ROOT / "data" / "processed" / "sources_register.csv"
 with open(out, "w", newline="", encoding="utf-8") as fh:
@@ -22,7 +29,8 @@ with open(out, "w", newline="", encoding="utf-8") as fh:
         w.writerow({k: e.get(k, "") for k in w.fieldnames})
 
 total = sum(e.get("bytes", 0) for e in ok)
-print(f"wrote sources_register.csv: {len(ok)} files downloaded ({total/1e6:.1f} MB), {len(bad)} failures")
+print(f"wrote sources_register.csv: {len(ok)} files downloaded ({total/1e6:.1f} MB), "
+      f"{len(bad)} unresolved failures, {len(superseded)} superseded by a corrected URL")
 for e in bad:
     print(f"  FAILED {e['file']}: {e.get('error')}")
 

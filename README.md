@@ -24,7 +24,7 @@ blog or social-media material is used. See [`docs/SOURCES.md`](docs/SOURCES.md).
 ```bash
 python3 -m venv .venv && .venv/bin/pip install openpyxl pdfplumber
 for s in 01 03 04 04b 05 07 08 15; do .venv/bin/python scripts/${s}_*.py; done      # fetch
-for s in 02 06 10 11 12 16 17 18 09 13 14 19; do .venv/bin/python scripts/${s}_*.py; done # parse
+for s in 02 06 10 11 12 16 17 18 20 21 22 09 13 14 19; do .venv/bin/python scripts/${s}_*.py; done # parse
 ```
 
 Downloads are cached, so re-running is cheap. `scripts/07` (parliamentary
@@ -36,7 +36,7 @@ To bring the parliamentary data up to date later:
 ```bash
 .venv/bin/python scripts/07_fetch_oireachtas_pqs.py --refresh 5   # re-fetch recent months
 .venv/bin/python scripts/15_fetch_pq_attachments.py --since 2026-01-01
-for s in 10 11 12 16 17 18 09 13 14; do .venv/bin/python scripts/${s}_*.py; done
+for s in 10 11 12 16 17 18 20 21 22 09 13 14; do .venv/bin/python scripts/${s}_*.py; done
 ```
 
 | Script | What it does |
@@ -49,6 +49,8 @@ for s in 10 11 12 16 17 18 09 13 14; do .venv/bin/python scripts/${s}_*.py; done
 | `15` | Scrapes PQ pages for attached spreadsheets (the only source of permit-type data) |
 | `16`,`17`,`18` | Parses permit type × nationality / sector / occupation from those attachments |
 | `19` | Compares permits with CSO non-EU immigration (timing / Ukraine / renewal caveats) |
+| `20` | Indexes every PQ attachment (xlsx/docx/pdf) with a summary of its tables |
+| `21`,`22` | Parses naturalisation by nationality/route, and protection/enforcement tables |
 | `08` | Eurostat cross-check series for Ireland |
 | `09` | Builds the consolidated `headline_series.csv` |
 | `10`,`11`,`12` | Indexes PQs; extracts and curates the statistical tables in answers |
@@ -69,6 +71,10 @@ for s in 10 11 12 16 17 18 09 13 14; do .venv/bin/python scripts/${s}_*.py; done
 | `data/processed/cso_*.csv` | CSO migration tables, flattened from JSON-stat |
 | `data/processed/oireachtas_pq_index.csv` | 25,016 migration PQs, each with its URL |
 | `data/processed/pq_curated_series.csv` | Annual series quoted from named PQs, with part-year flags |
+| `data/processed/naturalisation_by_nationality.csv` | Certificates of naturalisation by nationality, 2016–2025 |
+| `data/processed/naturalisation_by_route.csv` | Certificates by route (adult / s.15 / protection / minors) |
+| `data/processed/protection_and_enforcement_from_pq_attachments.csv` | Protection decisions, grant rates, removals |
+| `data/processed/pq_attachments_index.csv` | All 111 PQ attachments, summarised, with links |
 | `data/processed/permits_vs_noneu_immigration.csv` | Permits vs CSO non-EU immigration, adjusted for timing and Ukraine |
 | `data/processed/cross_source_validation.csv` | Independent sources compared |
 | `data/processed/sources_register.csv` | Every download: URL, time, SHA-256 |

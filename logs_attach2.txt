@@ -2,3 +2,139 @@
   200/7210 pages scraped, 0 distinct attachments so far
   400/7210 pages scraped, 0 distinct attachments so far
   600/7210 pages scraped, 7 distinct attachments so far
+  800/7210 pages scraped, 12 distinct attachments so far
+  1000/7210 pages scraped, 14 distinct attachments so far
+  1200/7210 pages scraped, 14 distinct attachments so far
+  1400/7210 pages scraped, 16 distinct attachments so far
+  1600/7210 pages scraped, 21 distinct attachments so far
+  1800/7210 pages scraped, 22 distinct attachments so far
+  2200/7210 pages scraped, 29 distinct attachments so far
+  2400/7210 pages scraped, 32 distinct attachments so far
+  2600/7210 pages scraped, 37 distinct attachments so far
+  page fail https://www.oireachtas.ie/en/debates/question/2026-05-13/32/: The read operation timed out
+  2800/7210 pages scraped, 37 distinct attachments so far
+  3200/7210 pages scraped, 45 distinct attachments so far
+  3400/7210 pages scraped, 48 distinct attachments so far
+  3600/7210 pages scraped, 49 distinct attachments so far
+  3800/7210 pages scraped, 58 distinct attachments so far
+  4000/7210 pages scraped, 59 distinct attachments so far
+  4200/7210 pages scraped, 60 distinct attachments so far
+  4400/7210 pages scraped, 60 distinct attachments so far
+  4600/7210 pages scraped, 66 distinct attachments so far
+  4800/7210 pages scraped, 66 distinct attachments so far
+  5000/7210 pages scraped, 69 distinct attachments so far
+  5200/7210 pages scraped, 75 distinct attachments so far
+  5400/7210 pages scraped, 76 distinct attachments so far
+
+111 distinct supporting documents found; downloading
+  cached  pq_attachments/2018-05-03_pq133-3-05-18_en.docx
+  cached  pq_attachments/2019-01-16_pq-159-16-1-19_en.xlsx
+  cached  pq_attachments/2019-01-16_pq161-16-1-19_en.docx
+  cached  pq_attachments/2019-01-16_pq161-2-16-1-19_en.docx
+  cached  pq_attachments/2019-12-18_pq234-18-12-2013_en.pdf 
+  cached  pq_attachments/2020-03-05_pq472-05-03-20_en.docx
+  cached  pq_attachments/2021-01-13_pq45-13-01-21_en.docx
+  cached  pq_attachments/2021-03-03_pq19-03-03-21_en.pdf
+  cached  pq_attachments/2021-03-03_pq39-03-03-21_en.pdf
+  cached  pq_attachments/2021-03-03_pq39a-03-03-21_en.pdf
+  cached  pq_attachments/2021-10-05_pq83-5-oct-21_en.docx 
+  cached  pq_attachments/2021-11-30_pq145-30-11-21_en.pdf
+  cached  pq_attachments/2022-02-15_pq197-15022022_en.docx 
+  cached  pq_attachments/2022-02-16_pq44-16022022_en.docx
+  cached  pq_attachments/2022-03-29_pq184a-29-03-22_en.docx
+  cached  pq_attachments/2022-04-07_pq-37-7-4-22_en.docx
+  cached  pq_attachments/2022-05-17_pq164-17-05-22_en.docx
+  cached  pq_attachments/2022-05-25_pq1-25-05-22_en.docx 
+  cached  pq_attachments/2022-07-06_pq4-06-07-22_en.docx 
+  cached  pq_attachments/2022-09-28_pq77-28-09-2022_en.xlsx
+  cached  pq_attachments/2022-11-24_pq148-24-11-2022_en.docx
+  cached  pq_attachments/2022-12-14_pq77-13-12-22_en.docx 
+  cached  pq_attachments/2023-04-20_pq212-20-04-23_en.docx 
+  cached  pq_attachments/2023-05-11_pq74-11-05-23_en.docx
+  cached  pq_attachments/2024-01-30_pq247-30-01-24_en.docx 
+  cached  pq_attachments/2024-05-22_pq71-22-05-2024_en.docx 
+  cached  pq_attachments/2025-03-26_pq56-26-03-2025_en.docx
+  cached  pq_attachments/2025-05-20_pq-388-390-20-05-25_en.xlsx
+  cached  pq_attachments/2025-05-20_pq381-20-05-25_en.xlsx
+  cached  pq_attachments/2025-06-17_pq358-176-25_en.docx
+  cached  pq_attachments/2025-07-01_pq321-01-07-2025_en.xlsx
+  cached  pq_attachments/2025-07-29_pq-898-29-07-2025_en.docx
+  cached  pq_attachments/2025-09-08_pq-737-08-09-2025_en.pdf
+  cached  pq_attachments/2025-09-30_pq-393-30-09-2025_en.docx
+  cached  pq_attachments/2025-10-01_pq-46-1-10-25_en.docx
+  got     pq_attachments/2026-01-13_pq-1650-13-01-2025_en.xlsx  (11,478 bytes)
+  got     pq_attachments/2026-01-21_pq-125-21-01-2025_en.docx  (40,418 bytes)
+  got     pq_attachments/2026-01-22_pq-452-471-481-22-01-2026_en.docx  (17,277 bytes)
+  got     pq_attachments/2026-01-22_pq-478-22-01-2026_en.docx  (19,772 bytes)
+  got     pq_attachments/2026-01-22_pq-482-483b-22-01-2026_en.xlsx  (58,040 bytes)
+  got     pq_attachments/2026-01-22_pq-482-486a-22-01-2026_en.docx  (17,423 bytes)
+  got     pq_attachments/2026-01-22_pq-484-22-01-2026_en.xlsx  (32,847 bytes)
+  got     pq_attachments/2026-01-27_pq-202-27-01-25_en.docx  (29,055 bytes)
+  got     pq_attachments/2026-01-27_pq768-27-01-2026_en.docx  (34,092 bytes)
+  got     pq_attachments/2026-01-28_pq-99-28-01-2026_en.docx  (14,816 bytes)
+  got     pq_attachments/2026-02-11_pq-213-220-11-02-2026_en.docx  (14,812 bytes)
+  got     pq_attachments/2026-02-11_pq-224-11-02-2026_en.docx  (16,553 bytes)
+  got     pq_attachments/2026-02-11_pq-225a-11-02-2026_en.docx  (16,606 bytes)
+  got     pq_attachments/2026-02-11_pq-225b-11-02-2026_en.docx  (15,810 bytes)
+  got     pq_attachments/2026-02-11_pq-226-228-11-02-2026_en.docx  (16,894 bytes)
+  got     pq_attachments/2026-02-12_pq-459-12-02-26_en.xlsx  (52,548 bytes)
+  got     pq_attachments/2026-03-18_pq1255_en.xlsx  (21,187 bytes)
+  got     pq_attachments/2026-03-18_pq1362-18-03-2026_en.xlsx  (21,719 bytes)
+  got     pq_attachments/2026-03-24_pq436-24-03-2026_en.pdf  (235,464 bytes)
+  got     pq_attachments/2026-03-25_pq-174-176-178-179-25-03-2026_en.pdf  (153,118 bytes)
+  got     pq_attachments/2026-03-25_pq-193-25-03-2026_en.docx  (19,520 bytes)
+  got     pq_attachments/2026-03-25_pq-198-199-25-03-2026_en.xlsx  (21,173 bytes)
+  got     pq_attachments/2026-03-25_pq-218-25-3-26_en.xlsx  (31,304 bytes)
+  got     pq_attachments/2026-03-26_pq-354-26-03-2026_en.pdf  (40,611 bytes)
+  got     pq_attachments/2026-03-26_pq351-26-03-2026_en.pdf  (48,340 bytes)
+  got     pq_attachments/2026-03-26_pq352-26-03-2026_en.xlsx  (30,724 bytes)
+  got     pq_attachments/2026-03-26_pq353-26-03-2026_en.pdf  (110,441 bytes)
+  got     pq_attachments/2026-04-14_pq-2053-14-04-2026_en.xlsx  (19,364 bytes)
+  got     pq_attachments/2026-04-15_pq-288-15-04-2026_en.docx  (26,082 bytes)
+  got     pq_attachments/2026-04-21_pq-632-21-04-2026_en.docx  (17,149 bytes)
+  cached  pq_attachments/2026-04-23_pq-346-23-04-2026_en.docx
+  cached  pq_attachments/2026-04-28_pq-501-28-04-2026_en.docx
+  got     pq_attachments/2026-04-29_pq-199-29-04-2026_en.xlsx  (17,294 bytes)
+  got     pq_attachments/2026-04-30_pq-376-377-30-04-2026_en.xlsx  (20,021 bytes)
+  got     pq_attachments/2026-05-06_pq-613-616-06-05-2026_en.docx  (16,933 bytes)
+  got     pq_attachments/2026-05-06_pq-641-643-06-05-2026_en.docx  (26,540 bytes)
+  got     pq_attachments/2026-05-06_pq-696-06-05-2026_en.xlsx  (18,560 bytes)
+  got     pq_attachments/2026-05-07_pq-397-07-05-2026_en.xlsx  (19,561 bytes)
+  got     pq_attachments/2026-05-13_pq-154-157-13-05-2026_en.docx  (17,693 bytes)
+  got     pq_attachments/2026-05-21_pq-301-282-302-21-05-26_en.docx  (22,412 bytes)
+  got     pq_attachments/2026-05-26_pq-843-26-05-2026_en.docx  (16,989 bytes)
+  got     pq_attachments/2026-05-26_pq-862-864-26-05-2026_en.docx  (16,278 bytes)
+  got     pq_attachments/2026-05-26_pq-865-26-05-2026_en.docx  (17,532 bytes)
+  got     pq_attachments/2026-05-26_pq-881-882-26-05-2026_en.xlsx  (22,752 bytes)
+  got     pq_attachments/2026-05-28_pq-452-455-458_en.docx  (22,747 bytes)
+  got     pq_attachments/2026-05-28_pq-461-28-05-2026_en.pdf  (175,212 bytes)
+  got     pq_attachments/2026-06-09_pq1459-09-06-2026_en.pdf  (55,500 bytes)
+  got     pq_attachments/2026-06-10_pq-169-10-06-2026_en.docx  (23,548 bytes)
+  got     pq_attachments/2026-06-16_pq-653-6-06-2026-a_en.pdf  (326,832 bytes)
+  got     pq_attachments/2026-06-16_pq-653c-16-06-2026_en.pdf  (386,502 bytes)
+  got     pq_attachments/2026-06-23_pq290-23-06-2026_en.docx  (166,802 bytes)
+  got     pq_attachments/2026-06-30_pq-569-30-06-2026_en.xlsx  (20,343 bytes)
+  got     pq_attachments/2026-06-30_pq-590-30-06-2026_en.docx  (27,869 bytes)
+  got     pq_attachments/2026-06-30_pq-600-601-602-603-604-606-608-30-06-26_en.xlsx  (27,770 bytes)
+  got     pq_attachments/2026-07-14_pq-527-530-14-07-2026_en.docx  (20,173 bytes)
+  got     pq_attachments/2026-07-14_pq-533-14-07-2026_en.docx  (15,302 bytes)
+  got     pq_attachments/2026-07-14_pq-534-14-07-2026_en.docx  (17,342 bytes)
+  got     pq_attachments/2026-07-14_pq-591-592a-14-07-2026_en.docx  (15,150 bytes)
+  got     pq_attachments/2026-07-14_pq-591-592b-14-07-2026_en.xlsx  (17,355 bytes)
+  FAIL    pq_attachments/2026-07-28\_pq-2407-28-07-2026\_en.xlsx: HTTP Error 403: Forbidden
+  FAIL    pq_attachments/2026-07-28\_pq-2451-28-07-2026\_en.docx: HTTP Error 403: Forbidden
+  got     pq_attachments/2026-07-28_pq-2201-28-07-2026_en.xlsx  (24,105 bytes)
+  got     pq_attachments/2026-07-28_pq-869-28-07-26_en.pdf  (1,258,966 bytes)
+  got     pq_attachments/2026-07-29_20260729-deferred-pq44388-26_en.pdf  (411,502 bytes)
+  got     pq_attachments/2026-09-07_pq-2190-07-09-2026_en.pdf  (229,886 bytes)
+  got     pq_attachments/2026-09-07_pq-2204-07-09-2026_en.docx  (31,770 bytes)
+  got     pq_attachments/2026-09-07_pq-2239-07-09-2026_en.pdf  (112,638 bytes)
+  got     pq_attachments/2026-09-07_pq-2271-07-09-2026_en.docx  (67,336 bytes)
+  got     pq_attachments/2026-09-07_pq-2292-07-09-2026_en.xlsx  (17,622 bytes)
+  got     pq_attachments/2026-09-07_pq-2314-07-09-2026_en.xlsx  (23,509 bytes)
+  got     pq_attachments/2026-09-07_pq-2371-07-09-2026_en.xlsx  (23,521 bytes)
+  got     pq_attachments/2026-09-07_pq2492-07-09-2026_en.xlsx  (18,715 bytes)
+  got     pq_attachments/2026-09-07_pq2493-07-09-2026_en.xlsx  (11,934 bytes)
+  got     pq_attachments/2026-09-07_pq2531-07-09-2026_en.docx  (28,451 bytes)
+  got     pq_attachments/2026-09-07_pq2552-07-09-2026_en.docx  (19,022 bytes)
+  got     pq_attachments/2026-09-07_pq2555-07-09-2026_en.docx  (22,602 bytes)

@@ -23,6 +23,14 @@ for r in load("pq_curated_series.csv"):
         continue
     pq[r["series"]][int(r["year"])] = float(r["value"])
 
+# Naturalisation totals rebuilt by summing the per-nationality attachment.
+nat_sum = collections.defaultdict(int)
+try:
+    for r in load("naturalisation_by_nationality.csv"):
+        nat_sum[int(r["year"])] += int(r["certificates_issued"])
+except FileNotFoundError:
+    pass
+
 CHECKS = [
     ("Employment permits issued",
      "DETE spreadsheets (parsed here)", head["Employment permits issued"],
@@ -36,6 +44,10 @@ CHECKS = [
      "Eurostat migr_acq", head["Acquisitions of Irish citizenship"],
      "Minister's answer, PQ 2023-11-28 #424", pq["Certificates of naturalisation issued"],
      2015, 2022),
+    ("Certificates of naturalisation (attachment summed by nationality)",
+     "Eurostat migr_acq", head["Acquisitions of Irish citizenship"],
+     "PQ 2026-01-22 #483 attachment, summed over nationalities", dict(nat_sum),
+     2016, 2024),
 ]
 
 out = []

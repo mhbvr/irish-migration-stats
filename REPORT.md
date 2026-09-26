@@ -289,6 +289,55 @@ International Protection Office dropped from 23,863 at end-September 2024 to
 still 76 weeks
 ([IPO summary report, May 2026](https://www.gov.ie/en/department-of-justice-home-affairs-and-migration/collections/international-protection-in-numbers/)).
 
+### 4b. Decisions multiplied and the grant rate collapsed
+
+From the file attached to
+[PQ 530 of 14 July 2026](https://www.oireachtas.ie/en/debates/question/2026-07-14/530/)
+([`protection_and_enforcement_from_pq_attachments.csv`](data/processed/protection_and_enforcement_from_pq_attachments.csv)):
+
+| Year | First-instance decisions | Granted | Grant rate | Safe-country grant rate | Appeal grant rate |
+|---|---|---|---|---|---|
+| 2020 | 2,254 | 725 | 32.2% | 11.7% | 29.3% |
+| 2021 | 2,462 | 1,521 | 61.8% | 22.8% | 36.6% |
+| 2022 | 4,922 | 3,537 | **71.9%** | 66.8% | 38.2% |
+| 2023 | 8,793 | 3,235 | 36.8% | 12.8% | 28.2% |
+| 2024 | 13,916 | 3,906 | 28.1% | 9.1% | 28.5% |
+| 2025 | **20,177** | 3,743 | **18.6%** | 8.3% | 27.0% |
+| 2026 (part) | 9,158 | 1,428 | 15.6% | 10.3% | 26.0% |
+
+This is the sharpest reversal in the whole dataset. **First-instance decisions rose
+nearly ninefold between 2020 and 2025** (2,254 → 20,177), but the number granted
+barely moved (725 → 3,743, and actually fell from 2024). The grant rate therefore
+collapsed from 71.9% in 2022 to 18.6% in 2025 and 15.6% so far in 2026.
+
+Two things drove it. Composition: the 2022 peak reflected a caseload dominated by
+nationalities with high recognition rates, whereas later years are dominated by
+applicants from countries designated safe, where the grant rate has run at 8–13%
+since 2023. And throughput: capacity was added to clear a backlog, so the
+denominator grew far faster than the numerator. Appeal outcomes, by contrast,
+have been remarkably stable at 26–38% throughout — the appeal stage did not
+tighten in the way first-instance decisions did.
+
+### 4c. Enforcement scaled up from a very low base
+
+From [PQ 228 of 11 February 2026](https://www.oireachtas.ie/en/debates/question/2026-02-11/228/):
+
+| Year | Deportation orders signed | Enforced deportations | Voluntary returns | Total removed |
+|---|---|---|---|---|
+| 2021 | 33 | 5 | 132 | 216 |
+| 2022 | 549 | 24 | 91 | 247 |
+| 2023 | 859 | 51 | 215 | 318 |
+| 2024 | 2,403 | 134 | 934 | 1,122 |
+| 2025 | **4,700** | 185 | 1,616 | **2,111** |
+
+Orders signed rose **142-fold from 2021 to 2025** and total removals almost
+tenfold. But the gap between the two is the story: 4,700 orders signed in 2025
+against 2,111 people actually removed, and only 185 of those were enforced
+deportations — **most departures are voluntary returns** (1,616), and the
+enforced figure is under 4% of orders signed. 2021 is a pandemic trough, so the
+multiples overstate the underlying trend; against 2019-era levels the increase is
+real but far less dramatic.
+
 ### 4a. The bottleneck has moved to appeals and the courts
 
 Answers of 24 September 2026 set out what happened downstream as first-instance
@@ -321,20 +370,47 @@ September 2026.
 
 ## 5. Naturalisation: the fastest-moving series of all
 
-Certificates of naturalisation issued
-([PQ, 28 November 2023](https://www.oireachtas.ie/en/debates/question/2023-11-28/424/);
-2023–24 from [Eurostat migr_acq](https://ec.europa.eu/eurostat/databrowser/view/migr_acq/default/table?lang=en)):
+Certificates of naturalisation issued, single consistent series 2016–2025, from
+the file attached to
+[PQ 483 of 22 January 2026](https://www.oireachtas.ie/en/debates/question/2026-01-22/483/)
+([`naturalisation_by_nationality.csv`](data/processed/naturalisation_by_nationality.csv)):
 
 | Year | Certificates | | Year | Certificates |
 |---|---|---|---|---|
-| 2013 | 24,202 | | 2020 | 5,468 |
-| 2015 | 13,532 | | 2021 | 9,776 |
-| 2017 | 8,186 | | 2022 | 13,601 |
-| 2019 | 5,781 | | 2023 | 18,265 |
-| | | | 2024 | **24,059** |
+| 2016 | 10,002 | | 2021 | 9,766 |
+| 2017 | 8,178 | | 2022 | 13,596 |
+| 2018 | 8,208 | | 2023 | 18,265 |
+| 2019 | 5,778 | | 2024 | 24,068 |
+| 2020 | 5,465 | | 2025 | **29,919** |
 
-Naturalisations collapsed by 77% from 2013 to 2020, then quadrupled to 24,059 by
-2024 — back to the level of a decade earlier.
+Naturalisations fell 45% from 2016 to a floor of 5,465 in 2020, then rose
+**5.5-fold to a record 29,919 in 2025** — and 2025 is a new figure, later than
+Eurostat's series, which still ends at 2024. (An earlier answer put 2013 at
+24,202, so the 2020 trough was also a collapse from the pre-2016 level.)
+
+These figures independently reproduce the other sources: the 2023 total of 18,265
+matches Eurostat exactly, 2024 differs by 9 (0.04%), and 2016–2022 differ from the
+2023 answer by 3–15 certificates — ordinary revision from data cleansing.
+
+**By route** ([`naturalisation_by_route.csv`](data/processed/naturalisation_by_route.csv)):
+
+| Year | Standard adult | s.15 residency | Granted intl. protection | Minors |
+|---|---|---|---|---|
+| 2016 | 5,709 | 2,001 | 200 | 2,061 |
+| 2020 | 3,657 | 1,203 | 121 | 481 |
+| 2023 | 9,862 | 2,470 | 954 | 4,950 |
+| 2024 | 15,999 | 3,791 | 1,197 | 3,081 |
+| 2025 | **19,329** | 2,929 | 712 | **6,949** |
+
+Growth is concentrated in standard adult naturalisations (3.4× since 2016) and
+minors (3.4×, and 23% of all certificates in 2025). The protection route peaked
+at 1,197 in 2024 and fell to 712 in 2025, so despite the asylum surge it remains
+a small share — **2.4% of certificates in 2025**.
+
+**By nationality**, the leading country has changed twice: Poland led 2016–2019
+(1,321–1,463 a year), the United Kingdom 2020–2022 (a Brexit effect, peaking at
+1,255 in 2022), and India from 2023 onward — **6,298 certificates in 2025**, more
+than double 2023's 2,502 and now far ahead of Brazil (2,353) and Romania (1,752).
 
 Applications are rising faster still
 ([PQ, 7 September 2026](https://www.oireachtas.ie/en/debates/question/2026-09-07/2397/)):
@@ -424,13 +500,14 @@ is consistently the largest single reason (34,729 in 2025), ahead of employment
 
 Three of these indicators are published independently by two bodies, so they can
 be checked against each other
-([`cross_source_validation.csv`](data/processed/cross_source_validation.csv)):
+([`cross_source_validation.csv`](data/processed/cross_source_validation.csv)), 39 comparisons in all:
 
 | Indicator | Sources | Agreement |
 |---|---|---|
 | Employment permits, 2015–2025 | DETE spreadsheets vs. Minister's answer to the Dáil | **exact, all 11 years** |
 | Asylum applications, 2015–2025 | Eurostat vs. Minister's answer | within 0.34% |
 | Citizenship, 2015–2022 | Eurostat vs. Minister's answer | within 0.24% |
+| Naturalisation, 2016–2024 | Eurostat vs. PQ attachment summed by nationality | within 0.36%, exact for 2023 |
 
 The small residuals are explained: Eurostat rounds asylum counts to the nearest
 5, and administrative totals are revised after publication. Within each source,

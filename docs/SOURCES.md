@@ -79,7 +79,13 @@ permit-related PQ pages were scraped, yielding 37 distinct attachments.
 
 These are the only public source for employment permits **by permit type**
 (Critical Skills, General, Intra-Company Transfer, etc.) — DETE's annual
-publication has no type dimension at all.
+publication has no type dimension at all — and for naturalisation by nationality
+and by route.
+
+Scope run: permit-related PQs across the full harvest, plus every migration PQ
+from 1 January 2026 onward (7,210 pages scraped, **111 attachments** held).
+A browsable index of all of them, with each file's tables summarised and its PQ
+link, is in `pq_attachments_index.csv`.
 
 | Attachment | Contents | Parliamentary answer |
 |---|---|---|
@@ -87,6 +93,11 @@ publication has no type dimension at all.
 | `2025-03-26_pq56-26-03-2025_en.docx` | Critical Skills permits issued by SOC occupation code, 2024 (137 occupations) | https://www.oireachtas.ie/en/debates/question/2025-03-26/56/ |
 | `2025-05-20_pq-388-390-20-05-25_en.xlsx` | Permits cancelled / revoked / suspended by nationality, 2020–2024 | https://www.oireachtas.ie/en/debates/question/2025-05-20/388/ |
 | `2019-01-16_pq-159-16-1-19_en.xlsx` | Permits by economic sector and occupation, 2010–2018 | https://www.oireachtas.ie/en/debates/question/2019-01-16/159/ |
+| `2026-01-22_pq-482-483b-22-01-2026_en.xlsx` | **Certificates of naturalisation by nationality, one sheet per year 2016–2025** | https://www.oireachtas.ie/en/debates/question/2026-01-22/483/ |
+| `2026-01-22_pq-482-486a-22-01-2026_en.docx` | Certificates of naturalisation by route (standard adult, s.15, protection, minors), 2016–2025 | https://www.oireachtas.ie/en/debates/question/2026-01-22/483/ |
+| `2026-07-14_pq-527-530-14-07-2026_en.docx` | Protection first-instance / safe-country / appeal decisions with grant rates, 2020–2026 | https://www.oireachtas.ie/en/debates/question/2026-07-14/530/ |
+| `2026-02-11_pq-226-228-11-02-2026_en.docx` | Deportation orders signed, enforced deportations, voluntary returns, 2021–2025 | https://www.oireachtas.ie/en/debates/question/2026-02-11/228/ |
+| `2026-05-26_pq-881-882-26-05-2026_en.xlsx` | Visas granted and refused by category, 2019–2025 | https://www.oireachtas.ie/en/debates/question/2026-05-26/882/ |
 
 Permit-type figures printed inline in answers (rather than attached) are in
 `employment_permits_by_type_from_pq_text.csv`. **Read the `caption_before_table`
@@ -155,8 +166,11 @@ of Justice's own statistics page directs users to them.
 8. **Attachments referenced in an answer are not always published.** PQ 891 of
    16 September 2026 states that citizenship figures by country of origin are
    "in the files attached", but no attachment appears on the Oireachtas page for
-   that question, or on any September 2026 migration PQ. That breakdown is
-   therefore not publicly available from this source.
+   that question. Other September 2026 answers (e.g. 7 September) do carry
+   attachments, so this is a per-question gap rather than a publication lag
+   across the month. The nationality breakdown requested in PQ 891 is not
+   available from this source — though an equivalent breakdown for 2016–2025 is
+   published with PQ 483 of 22 January 2026 (see below).
 9. **Permit-type totals come from a different vintage** than the DETE annual
    files. The PQ attachment was extracted in May 2025 and its yearly totals
    differ from the current DETE spreadsheets by −56 to +8 permits (at most

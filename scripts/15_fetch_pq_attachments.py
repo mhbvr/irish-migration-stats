@@ -64,7 +64,9 @@ for i, q in enumerate(cand, 1):
         req = urllib.request.Request(url, headers=HEADERS)
         with urllib.request.urlopen(req, timeout=60) as r:
             html = r.read().decode("utf-8", "replace")
-        docs = sorted(set(DOC.findall(html)))
+        # Some pages escape underscores in the href ("...2026-07-28\_pq-2407..."),
+        # which 403s if requested verbatim; strip the escaping backslashes.
+        docs = sorted({d.replace("\\", "") for d in DOC.findall(html)})
     except Exception as exc:                                   # noqa: BLE001
         print(f"  page fail {url}: {exc}", flush=True)
         continue
