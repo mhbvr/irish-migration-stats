@@ -1,0 +1,571 @@
+Statistic,Statistic_code,Year,Year_code,Age Group,Age Group_code,Sex,Sex_code,Human Development Index Rating,Human Development Index Rating_code,value
+Number of Persons,PEA27C01,2023,2023,All ages,-,Both sexes,-,Human Development Index (HDI) - All ratings,10,342808.0
+Number of Persons,PEA27C01,2023,2023,All ages,-,Both sexes,-,High Human Development Index (HDI),20,94128.0
+Number of Persons,PEA27C01,2023,2023,All ages,-,Both sexes,-,Low Human Development Index (HDI),30,22803.0
+Number of Persons,PEA27C01,2023,2023,All ages,-,Both sexes,-,Medium Human Development Index (HDI),40,84529.0
+Number of Persons,PEA27C01,2023,2023,All ages,-,Both sexes,-,Very High Human Development Index (HDI),50,141348.0
+Number of Persons,PEA27C01,2023,2023,All ages,-,Male,1,Human Development Index (HDI) - All ratings,10,173006.0
+Number of Persons,PEA27C01,2023,2023,All ages,-,Male,1,High Human Development Index (HDI),20,46134.0
+Number of Persons,PEA27C01,2023,2023,All ages,-,Male,1,Low Human Development Index (HDI),30,11358.0
+Number of Persons,PEA27C01,2023,2023,All ages,-,Male,1,Medium Human Development Index (HDI),40,41606.0
+Number of Persons,PEA27C01,2023,2023,All ages,-,Male,1,Very High Human Development Index (HDI),50,73908.0
+Number of Persons,PEA27C01,2023,2023,All ages,-,Female,2,Human Development Index (HDI) - All ratings,10,169802.0
+Number of Persons,PEA27C01,2023,2023,All ages,-,Female,2,High Human Development Index (HDI),20,47994.0
+Number of Persons,PEA27C01,2023,2023,All ages,-,Female,2,Low Human Development Index (HDI),30,11445.0
+Number of Persons,PEA27C01,2023,2023,All ages,-,Female,2,Medium Human Development Index (HDI),40,42923.0
+Number of Persons,PEA27C01,2023,2023,All ages,-,Female,2,Very High Human Development Index (HDI),50,67440.0
+Number of Persons,PEA27C01,2023,2023,Under 5 years,240,Both sexes,-,Human Development Index (HDI) - All ratings,10,8716.0
+Number of Persons,PEA27C01,2023,2023,Under 5 years,240,Both sexes,-,High Human Development Index (HDI),20,2668.0
+Number of Persons,PEA27C01,2023,2023,Under 5 years,240,Both sexes,-,Low Human Development Index (HDI),30,714.0
+Number of Persons,PEA27C01,2023,2023,Under 5 years,240,Both sexes,-,Medium Human Development Index (HDI),40,2393.0
+Number of Persons,PEA27C01,2023,2023,Under 5 years,240,Both sexes,-,Very High Human Development Index (HDI),50,2941.0
+Number of Persons,PEA27C01,2023,2023,Under 5 years,240,Male,1,Human Development Index (HDI) - All ratings,10,4342.0
+Number of Persons,PEA27C01,2023,2023,Under 5 years,240,Male,1,High Human Development Index (HDI),20,1319.0
+Number of Persons,PEA27C01,2023,2023,Under 5 years,240,Male,1,Low Human Development Index (HDI),30,350.0
+Number of Persons,PEA27C01,2023,2023,Under 5 years,240,Male,1,Medium Human Development Index (HDI),40,1230.0
+Number of Persons,PEA27C01,2023,2023,Under 5 years,240,Male,1,Very High Human Development Index (HDI),50,1443.0
+Number of Persons,PEA27C01,2023,2023,Under 5 years,240,Female,2,Human Development Index (HDI) - All ratings,10,4374.0
+Number of Persons,PEA27C01,2023,2023,Under 5 years,240,Female,2,High Human Development Index (HDI),20,1349.0
+Number of Persons,PEA27C01,2023,2023,Under 5 years,240,Female,2,Low Human Development Index (HDI),30,364.0
+Number of Persons,PEA27C01,2023,2023,Under 5 years,240,Female,2,Medium Human Development Index (HDI),40,1163.0
+Number of Persons,PEA27C01,2023,2023,Under 5 years,240,Female,2,Very High Human Development Index (HDI),50,1498.0
+Number of Persons,PEA27C01,2023,2023,5 - 9 years,245,Both sexes,-,Human Development Index (HDI) - All ratings,10,10496.0
+Number of Persons,PEA27C01,2023,2023,5 - 9 years,245,Both sexes,-,High Human Development Index (HDI),20,3078.0
+Number of Persons,PEA27C01,2023,2023,5 - 9 years,245,Both sexes,-,Low Human Development Index (HDI),30,722.0
+Number of Persons,PEA27C01,2023,2023,5 - 9 years,245,Both sexes,-,Medium Human Development Index (HDI),40,2823.0
+Number of Persons,PEA27C01,2023,2023,5 - 9 years,245,Both sexes,-,Very High Human Development Index (HDI),50,3873.0
+Number of Persons,PEA27C01,2023,2023,5 - 9 years,245,Male,1,Human Development Index (HDI) - All ratings,10,5398.0
+Number of Persons,PEA27C01,2023,2023,5 - 9 years,245,Male,1,High Human Development Index (HDI),20,1559.0
+Number of Persons,PEA27C01,2023,2023,5 - 9 years,245,Male,1,Low Human Development Index (HDI),30,363.0
+Number of Persons,PEA27C01,2023,2023,5 - 9 years,245,Male,1,Medium Human Development Index (HDI),40,1472.0
+Number of Persons,PEA27C01,2023,2023,5 - 9 years,245,Male,1,Very High Human Development Index (HDI),50,2004.0
+Number of Persons,PEA27C01,2023,2023,5 - 9 years,245,Female,2,Human Development Index (HDI) - All ratings,10,5098.0
+Number of Persons,PEA27C01,2023,2023,5 - 9 years,245,Female,2,High Human Development Index (HDI),20,1519.0
+Number of Persons,PEA27C01,2023,2023,5 - 9 years,245,Female,2,Low Human Development Index (HDI),30,359.0
+Number of Persons,PEA27C01,2023,2023,5 - 9 years,245,Female,2,Medium Human Development Index (HDI),40,1351.0
+Number of Persons,PEA27C01,2023,2023,5 - 9 years,245,Female,2,Very High Human Development Index (HDI),50,1869.0
+Number of Persons,PEA27C01,2023,2023,10 - 14 years,265,Both sexes,-,Human Development Index (HDI) - All ratings,10,12433.0
+Number of Persons,PEA27C01,2023,2023,10 - 14 years,265,Both sexes,-,High Human Development Index (HDI),20,3694.0
+Number of Persons,PEA27C01,2023,2023,10 - 14 years,265,Both sexes,-,Low Human Development Index (HDI),30,876.0
+Number of Persons,PEA27C01,2023,2023,10 - 14 years,265,Both sexes,-,Medium Human Development Index (HDI),40,3264.0
+Number of Persons,PEA27C01,2023,2023,10 - 14 years,265,Both sexes,-,Very High Human Development Index (HDI),50,4599.0
+Number of Persons,PEA27C01,2023,2023,10 - 14 years,265,Male,1,Human Development Index (HDI) - All ratings,10,6371.0
+Number of Persons,PEA27C01,2023,2023,10 - 14 years,265,Male,1,High Human Development Index (HDI),20,1870.0
+Number of Persons,PEA27C01,2023,2023,10 - 14 years,265,Male,1,Low Human Development Index (HDI),30,447.0
+Number of Persons,PEA27C01,2023,2023,10 - 14 years,265,Male,1,Medium Human Development Index (HDI),40,1696.0
+Number of Persons,PEA27C01,2023,2023,10 - 14 years,265,Male,1,Very High Human Development Index (HDI),50,2358.0
+Number of Persons,PEA27C01,2023,2023,10 - 14 years,265,Female,2,Human Development Index (HDI) - All ratings,10,6062.0
+Number of Persons,PEA27C01,2023,2023,10 - 14 years,265,Female,2,High Human Development Index (HDI),20,1824.0
+Number of Persons,PEA27C01,2023,2023,10 - 14 years,265,Female,2,Low Human Development Index (HDI),30,429.0
+Number of Persons,PEA27C01,2023,2023,10 - 14 years,265,Female,2,Medium Human Development Index (HDI),40,1568.0
+Number of Persons,PEA27C01,2023,2023,10 - 14 years,265,Female,2,Very High Human Development Index (HDI),50,2241.0
+Number of Persons,PEA27C01,2023,2023,15 - 19 years,300,Both sexes,-,Human Development Index (HDI) - All ratings,10,12481.0
+Number of Persons,PEA27C01,2023,2023,15 - 19 years,300,Both sexes,-,High Human Development Index (HDI),20,3844.0
+Number of Persons,PEA27C01,2023,2023,15 - 19 years,300,Both sexes,-,Low Human Development Index (HDI),30,912.0
+Number of Persons,PEA27C01,2023,2023,15 - 19 years,300,Both sexes,-,Medium Human Development Index (HDI),40,3386.0
+Number of Persons,PEA27C01,2023,2023,15 - 19 years,300,Both sexes,-,Very High Human Development Index (HDI),50,4339.0
+Number of Persons,PEA27C01,2023,2023,15 - 19 years,300,Male,1,Human Development Index (HDI) - All ratings,10,5880.0
+Number of Persons,PEA27C01,2023,2023,15 - 19 years,300,Male,1,High Human Development Index (HDI),20,1752.0
+Number of Persons,PEA27C01,2023,2023,15 - 19 years,300,Male,1,Low Human Development Index (HDI),30,419.0
+Number of Persons,PEA27C01,2023,2023,15 - 19 years,300,Male,1,Medium Human Development Index (HDI),40,1600.0
+Number of Persons,PEA27C01,2023,2023,15 - 19 years,300,Male,1,Very High Human Development Index (HDI),50,2109.0
+Number of Persons,PEA27C01,2023,2023,15 - 19 years,300,Female,2,Human Development Index (HDI) - All ratings,10,6601.0
+Number of Persons,PEA27C01,2023,2023,15 - 19 years,300,Female,2,High Human Development Index (HDI),20,2092.0
+Number of Persons,PEA27C01,2023,2023,15 - 19 years,300,Female,2,Low Human Development Index (HDI),30,493.0
+Number of Persons,PEA27C01,2023,2023,15 - 19 years,300,Female,2,Medium Human Development Index (HDI),40,1786.0
+Number of Persons,PEA27C01,2023,2023,15 - 19 years,300,Female,2,Very High Human Development Index (HDI),50,2230.0
+Number of Persons,PEA27C01,2023,2023,20 - 24 years,365,Both sexes,-,Human Development Index (HDI) - All ratings,10,15926.0
+Number of Persons,PEA27C01,2023,2023,20 - 24 years,365,Both sexes,-,High Human Development Index (HDI),20,4959.0
+Number of Persons,PEA27C01,2023,2023,20 - 24 years,365,Both sexes,-,Low Human Development Index (HDI),30,1186.0
+Number of Persons,PEA27C01,2023,2023,20 - 24 years,365,Both sexes,-,Medium Human Development Index (HDI),40,4441.0
+Number of Persons,PEA27C01,2023,2023,20 - 24 years,365,Both sexes,-,Very High Human Development Index (HDI),50,5340.0
+Number of Persons,PEA27C01,2023,2023,20 - 24 years,365,Male,1,Human Development Index (HDI) - All ratings,10,7035.0
+Number of Persons,PEA27C01,2023,2023,20 - 24 years,365,Male,1,High Human Development Index (HDI),20,2099.0
+Number of Persons,PEA27C01,2023,2023,20 - 24 years,365,Male,1,Low Human Development Index (HDI),30,549.0
+Number of Persons,PEA27C01,2023,2023,20 - 24 years,365,Male,1,Medium Human Development Index (HDI),40,1891.0
+Number of Persons,PEA27C01,2023,2023,20 - 24 years,365,Male,1,Very High Human Development Index (HDI),50,2496.0
+Number of Persons,PEA27C01,2023,2023,20 - 24 years,365,Female,2,Human Development Index (HDI) - All ratings,10,8891.0
+Number of Persons,PEA27C01,2023,2023,20 - 24 years,365,Female,2,High Human Development Index (HDI),20,2860.0
+Number of Persons,PEA27C01,2023,2023,20 - 24 years,365,Female,2,Low Human Development Index (HDI),30,637.0
+Number of Persons,PEA27C01,2023,2023,20 - 24 years,365,Female,2,Medium Human Development Index (HDI),40,2550.0
+Number of Persons,PEA27C01,2023,2023,20 - 24 years,365,Female,2,Very High Human Development Index (HDI),50,2844.0
+Number of Persons,PEA27C01,2023,2023,25 - 29 years,410,Both sexes,-,Human Development Index (HDI) - All ratings,10,30381.0
+Number of Persons,PEA27C01,2023,2023,25 - 29 years,410,Both sexes,-,High Human Development Index (HDI),20,9831.0
+Number of Persons,PEA27C01,2023,2023,25 - 29 years,410,Both sexes,-,Low Human Development Index (HDI),30,2361.0
+Number of Persons,PEA27C01,2023,2023,25 - 29 years,410,Both sexes,-,Medium Human Development Index (HDI),40,8791.0
+Number of Persons,PEA27C01,2023,2023,25 - 29 years,410,Both sexes,-,Very High Human Development Index (HDI),50,9398.0
+Number of Persons,PEA27C01,2023,2023,25 - 29 years,410,Male,1,Human Development Index (HDI) - All ratings,10,14229.0
+Number of Persons,PEA27C01,2023,2023,25 - 29 years,410,Male,1,High Human Development Index (HDI),20,4552.0
+Number of Persons,PEA27C01,2023,2023,25 - 29 years,410,Male,1,Low Human Development Index (HDI),30,1146.0
+Number of Persons,PEA27C01,2023,2023,25 - 29 years,410,Male,1,Medium Human Development Index (HDI),40,4063.0
+Number of Persons,PEA27C01,2023,2023,25 - 29 years,410,Male,1,Very High Human Development Index (HDI),50,4468.0
+Number of Persons,PEA27C01,2023,2023,25 - 29 years,410,Female,2,Human Development Index (HDI) - All ratings,10,16152.0
+Number of Persons,PEA27C01,2023,2023,25 - 29 years,410,Female,2,High Human Development Index (HDI),20,5279.0
+Number of Persons,PEA27C01,2023,2023,25 - 29 years,410,Female,2,Low Human Development Index (HDI),30,1215.0
+Number of Persons,PEA27C01,2023,2023,25 - 29 years,410,Female,2,Medium Human Development Index (HDI),40,4728.0
+Number of Persons,PEA27C01,2023,2023,25 - 29 years,410,Female,2,Very High Human Development Index (HDI),50,4930.0
+Number of Persons,PEA27C01,2023,2023,30 - 34 years,440,Both sexes,-,Human Development Index (HDI) - All ratings,10,43751.0
+Number of Persons,PEA27C01,2023,2023,30 - 34 years,440,Both sexes,-,High Human Development Index (HDI),20,14336.0
+Number of Persons,PEA27C01,2023,2023,30 - 34 years,440,Both sexes,-,Low Human Development Index (HDI),30,3537.0
+Number of Persons,PEA27C01,2023,2023,30 - 34 years,440,Both sexes,-,Medium Human Development Index (HDI),40,12940.0
+Number of Persons,PEA27C01,2023,2023,30 - 34 years,440,Both sexes,-,Very High Human Development Index (HDI),50,12938.0
+Number of Persons,PEA27C01,2023,2023,30 - 34 years,440,Male,1,Human Development Index (HDI) - All ratings,10,21354.0
+Number of Persons,PEA27C01,2023,2023,30 - 34 years,440,Male,1,High Human Development Index (HDI),20,6903.0
+Number of Persons,PEA27C01,2023,2023,30 - 34 years,440,Male,1,Low Human Development Index (HDI),30,1747.0
+Number of Persons,PEA27C01,2023,2023,30 - 34 years,440,Male,1,Medium Human Development Index (HDI),40,6215.0
+Number of Persons,PEA27C01,2023,2023,30 - 34 years,440,Male,1,Very High Human Development Index (HDI),50,6489.0
+Number of Persons,PEA27C01,2023,2023,30 - 34 years,440,Female,2,Human Development Index (HDI) - All ratings,10,22397.0
+Number of Persons,PEA27C01,2023,2023,30 - 34 years,440,Female,2,High Human Development Index (HDI),20,7433.0
+Number of Persons,PEA27C01,2023,2023,30 - 34 years,440,Female,2,Low Human Development Index (HDI),30,1790.0
+Number of Persons,PEA27C01,2023,2023,30 - 34 years,440,Female,2,Medium Human Development Index (HDI),40,6725.0
+Number of Persons,PEA27C01,2023,2023,30 - 34 years,440,Female,2,Very High Human Development Index (HDI),50,6449.0
+Number of Persons,PEA27C01,2023,2023,35 - 39 years,460,Both sexes,-,Human Development Index (HDI) - All ratings,10,46569.0
+Number of Persons,PEA27C01,2023,2023,35 - 39 years,460,Both sexes,-,High Human Development Index (HDI),20,15344.0
+Number of Persons,PEA27C01,2023,2023,35 - 39 years,460,Both sexes,-,Low Human Development Index (HDI),30,3775.0
+Number of Persons,PEA27C01,2023,2023,35 - 39 years,460,Both sexes,-,Medium Human Development Index (HDI),40,13770.0
+Number of Persons,PEA27C01,2023,2023,35 - 39 years,460,Both sexes,-,Very High Human Development Index (HDI),50,13680.0
+Number of Persons,PEA27C01,2023,2023,35 - 39 years,460,Male,1,Human Development Index (HDI) - All ratings,10,22745.0
+Number of Persons,PEA27C01,2023,2023,35 - 39 years,460,Male,1,High Human Development Index (HDI),20,7414.0
+Number of Persons,PEA27C01,2023,2023,35 - 39 years,460,Male,1,Low Human Development Index (HDI),30,1797.0
+Number of Persons,PEA27C01,2023,2023,35 - 39 years,460,Male,1,Medium Human Development Index (HDI),40,6601.0
+Number of Persons,PEA27C01,2023,2023,35 - 39 years,460,Male,1,Very High Human Development Index (HDI),50,6933.0
+Number of Persons,PEA27C01,2023,2023,35 - 39 years,460,Female,2,Human Development Index (HDI) - All ratings,10,23824.0
+Number of Persons,PEA27C01,2023,2023,35 - 39 years,460,Female,2,High Human Development Index (HDI),20,7930.0
+Number of Persons,PEA27C01,2023,2023,35 - 39 years,460,Female,2,Low Human Development Index (HDI),30,1978.0
+Number of Persons,PEA27C01,2023,2023,35 - 39 years,460,Female,2,Medium Human Development Index (HDI),40,7169.0
+Number of Persons,PEA27C01,2023,2023,35 - 39 years,460,Female,2,Very High Human Development Index (HDI),50,6747.0
+Number of Persons,PEA27C01,2023,2023,40 - 44 years,475,Both sexes,-,Human Development Index (HDI) - All ratings,10,44880.0
+Number of Persons,PEA27C01,2023,2023,40 - 44 years,475,Both sexes,-,High Human Development Index (HDI),20,14576.0
+Number of Persons,PEA27C01,2023,2023,40 - 44 years,475,Both sexes,-,Low Human Development Index (HDI),30,3480.0
+Number of Persons,PEA27C01,2023,2023,40 - 44 years,475,Both sexes,-,Medium Human Development Index (HDI),40,13077.0
+Number of Persons,PEA27C01,2023,2023,40 - 44 years,475,Both sexes,-,Very High Human Development Index (HDI),50,13747.0
+Number of Persons,PEA27C01,2023,2023,40 - 44 years,475,Male,1,Human Development Index (HDI) - All ratings,10,22440.0
+Number of Persons,PEA27C01,2023,2023,40 - 44 years,475,Male,1,High Human Development Index (HDI),20,7179.0
+Number of Persons,PEA27C01,2023,2023,40 - 44 years,475,Male,1,Low Human Development Index (HDI),30,1709.0
+Number of Persons,PEA27C01,2023,2023,40 - 44 years,475,Male,1,Medium Human Development Index (HDI),40,6474.0
+Number of Persons,PEA27C01,2023,2023,40 - 44 years,475,Male,1,Very High Human Development Index (HDI),50,7078.0
+Number of Persons,PEA27C01,2023,2023,40 - 44 years,475,Female,2,Human Development Index (HDI) - All ratings,10,22440.0
+Number of Persons,PEA27C01,2023,2023,40 - 44 years,475,Female,2,High Human Development Index (HDI),20,7397.0
+Number of Persons,PEA27C01,2023,2023,40 - 44 years,475,Female,2,Low Human Development Index (HDI),30,1771.0
+Number of Persons,PEA27C01,2023,2023,40 - 44 years,475,Female,2,Medium Human Development Index (HDI),40,6603.0
+Number of Persons,PEA27C01,2023,2023,40 - 44 years,475,Female,2,Very High Human Development Index (HDI),50,6669.0
+Number of Persons,PEA27C01,2023,2023,45 - 49 years,495,Both sexes,-,Human Development Index (HDI) - All ratings,10,30731.0
+Number of Persons,PEA27C01,2023,2023,45 - 49 years,495,Both sexes,-,High Human Development Index (HDI),20,8625.0
+Number of Persons,PEA27C01,2023,2023,45 - 49 years,495,Both sexes,-,Low Human Development Index (HDI),30,2114.0
+Number of Persons,PEA27C01,2023,2023,45 - 49 years,495,Both sexes,-,Medium Human Development Index (HDI),40,7813.0
+Number of Persons,PEA27C01,2023,2023,45 - 49 years,495,Both sexes,-,Very High Human Development Index (HDI),50,12179.0
+Number of Persons,PEA27C01,2023,2023,45 - 49 years,495,Male,1,Human Development Index (HDI) - All ratings,10,15932.0
+Number of Persons,PEA27C01,2023,2023,45 - 49 years,495,Male,1,High Human Development Index (HDI),20,4344.0
+Number of Persons,PEA27C01,2023,2023,45 - 49 years,495,Male,1,Low Human Development Index (HDI),30,1145.0
+Number of Persons,PEA27C01,2023,2023,45 - 49 years,495,Male,1,Medium Human Development Index (HDI),40,3956.0
+Number of Persons,PEA27C01,2023,2023,45 - 49 years,495,Male,1,Very High Human Development Index (HDI),50,6487.0
+Number of Persons,PEA27C01,2023,2023,45 - 49 years,495,Female,2,Human Development Index (HDI) - All ratings,10,14799.0
+Number of Persons,PEA27C01,2023,2023,45 - 49 years,495,Female,2,High Human Development Index (HDI),20,4281.0
+Number of Persons,PEA27C01,2023,2023,45 - 49 years,495,Female,2,Low Human Development Index (HDI),30,969.0
+Number of Persons,PEA27C01,2023,2023,45 - 49 years,495,Female,2,Medium Human Development Index (HDI),40,3857.0
+Number of Persons,PEA27C01,2023,2023,45 - 49 years,495,Female,2,Very High Human Development Index (HDI),50,5692.0
+Number of Persons,PEA27C01,2023,2023,50 - 54 years,515,Both sexes,-,Human Development Index (HDI) - All ratings,10,20835.0
+Number of Persons,PEA27C01,2023,2023,50 - 54 years,515,Both sexes,-,High Human Development Index (HDI),20,4234.0
+Number of Persons,PEA27C01,2023,2023,50 - 54 years,515,Both sexes,-,Low Human Development Index (HDI),30,935.0
+Number of Persons,PEA27C01,2023,2023,50 - 54 years,515,Both sexes,-,Medium Human Development Index (HDI),40,3596.0
+Number of Persons,PEA27C01,2023,2023,50 - 54 years,515,Both sexes,-,Very High Human Development Index (HDI),50,12070.0
+Number of Persons,PEA27C01,2023,2023,50 - 54 years,515,Male,1,Human Development Index (HDI) - All ratings,10,11452.0
+Number of Persons,PEA27C01,2023,2023,50 - 54 years,515,Male,1,High Human Development Index (HDI),20,2262.0
+Number of Persons,PEA27C01,2023,2023,50 - 54 years,515,Male,1,Low Human Development Index (HDI),30,504.0
+Number of Persons,PEA27C01,2023,2023,50 - 54 years,515,Male,1,Medium Human Development Index (HDI),40,1932.0
+Number of Persons,PEA27C01,2023,2023,50 - 54 years,515,Male,1,Very High Human Development Index (HDI),50,6754.0
+Number of Persons,PEA27C01,2023,2023,50 - 54 years,515,Female,2,Human Development Index (HDI) - All ratings,10,9383.0
+Number of Persons,PEA27C01,2023,2023,50 - 54 years,515,Female,2,High Human Development Index (HDI),20,1972.0
+Number of Persons,PEA27C01,2023,2023,50 - 54 years,515,Female,2,Low Human Development Index (HDI),30,431.0
+Number of Persons,PEA27C01,2023,2023,50 - 54 years,515,Female,2,Medium Human Development Index (HDI),40,1664.0
+Number of Persons,PEA27C01,2023,2023,50 - 54 years,515,Female,2,Very High Human Development Index (HDI),50,5316.0
+Number of Persons,PEA27C01,2023,2023,55 - 59 years,530,Both sexes,-,Human Development Index (HDI) - All ratings,10,18486.0
+Number of Persons,PEA27C01,2023,2023,55 - 59 years,530,Both sexes,-,High Human Development Index (HDI),20,2964.0
+Number of Persons,PEA27C01,2023,2023,55 - 59 years,530,Both sexes,-,Low Human Development Index (HDI),30,752.0
+Number of Persons,PEA27C01,2023,2023,55 - 59 years,530,Both sexes,-,Medium Human Development Index (HDI),40,2751.0
+Number of Persons,PEA27C01,2023,2023,55 - 59 years,530,Both sexes,-,Very High Human Development Index (HDI),50,12019.0
+Number of Persons,PEA27C01,2023,2023,55 - 59 years,530,Male,1,Human Development Index (HDI) - All ratings,10,10167.0
+Number of Persons,PEA27C01,2023,2023,55 - 59 years,530,Male,1,High Human Development Index (HDI),20,1599.0
+Number of Persons,PEA27C01,2023,2023,55 - 59 years,530,Male,1,Low Human Development Index (HDI),30,407.0
+Number of Persons,PEA27C01,2023,2023,55 - 59 years,530,Male,1,Medium Human Development Index (HDI),40,1508.0
+Number of Persons,PEA27C01,2023,2023,55 - 59 years,530,Male,1,Very High Human Development Index (HDI),50,6653.0
+Number of Persons,PEA27C01,2023,2023,55 - 59 years,530,Female,2,Human Development Index (HDI) - All ratings,10,8319.0
+Number of Persons,PEA27C01,2023,2023,55 - 59 years,530,Female,2,High Human Development Index (HDI),20,1365.0
+Number of Persons,PEA27C01,2023,2023,55 - 59 years,530,Female,2,Low Human Development Index (HDI),30,345.0
+Number of Persons,PEA27C01,2023,2023,55 - 59 years,530,Female,2,Medium Human Development Index (HDI),40,1243.0
+Number of Persons,PEA27C01,2023,2023,55 - 59 years,530,Female,2,Very High Human Development Index (HDI),50,5366.0
+Number of Persons,PEA27C01,2023,2023,60 - 64 years,550,Both sexes,-,Human Development Index (HDI) - All ratings,10,14840.0
+Number of Persons,PEA27C01,2023,2023,60 - 64 years,550,Both sexes,-,High Human Development Index (HDI),20,2378.0
+Number of Persons,PEA27C01,2023,2023,60 - 64 years,550,Both sexes,-,Low Human Development Index (HDI),30,582.0
+Number of Persons,PEA27C01,2023,2023,60 - 64 years,550,Both sexes,-,Medium Human Development Index (HDI),40,2204.0
+Number of Persons,PEA27C01,2023,2023,60 - 64 years,550,Both sexes,-,Very High Human Development Index (HDI),50,9676.0
+Number of Persons,PEA27C01,2023,2023,60 - 64 years,550,Male,1,Human Development Index (HDI) - All ratings,10,7974.0
+Number of Persons,PEA27C01,2023,2023,60 - 64 years,550,Male,1,High Human Development Index (HDI),20,1240.0
+Number of Persons,PEA27C01,2023,2023,60 - 64 years,550,Male,1,Low Human Development Index (HDI),30,297.0
+Number of Persons,PEA27C01,2023,2023,60 - 64 years,550,Male,1,Medium Human Development Index (HDI),40,1179.0
+Number of Persons,PEA27C01,2023,2023,60 - 64 years,550,Male,1,Very High Human Development Index (HDI),50,5258.0
+Number of Persons,PEA27C01,2023,2023,60 - 64 years,550,Female,2,Human Development Index (HDI) - All ratings,10,6866.0
+Number of Persons,PEA27C01,2023,2023,60 - 64 years,550,Female,2,High Human Development Index (HDI),20,1138.0
+Number of Persons,PEA27C01,2023,2023,60 - 64 years,550,Female,2,Low Human Development Index (HDI),30,285.0
+Number of Persons,PEA27C01,2023,2023,60 - 64 years,550,Female,2,Medium Human Development Index (HDI),40,1025.0
+Number of Persons,PEA27C01,2023,2023,60 - 64 years,550,Female,2,Very High Human Development Index (HDI),50,4418.0
+Number of Persons,PEA27C01,2023,2023,65 - 69 years,565,Both sexes,-,Human Development Index (HDI) - All ratings,10,10184.0
+Number of Persons,PEA27C01,2023,2023,65 - 69 years,565,Both sexes,-,High Human Development Index (HDI),20,1457.0
+Number of Persons,PEA27C01,2023,2023,65 - 69 years,565,Both sexes,-,Low Human Development Index (HDI),30,325.0
+Number of Persons,PEA27C01,2023,2023,65 - 69 years,565,Both sexes,-,Medium Human Development Index (HDI),40,1291.0
+Number of Persons,PEA27C01,2023,2023,65 - 69 years,565,Both sexes,-,Very High Human Development Index (HDI),50,7111.0
+Number of Persons,PEA27C01,2023,2023,65 - 69 years,565,Male,1,Human Development Index (HDI) - All ratings,10,5635.0
+Number of Persons,PEA27C01,2023,2023,65 - 69 years,565,Male,1,High Human Development Index (HDI),20,800.0
+Number of Persons,PEA27C01,2023,2023,65 - 69 years,565,Male,1,Low Human Development Index (HDI),30,171.0
+Number of Persons,PEA27C01,2023,2023,65 - 69 years,565,Male,1,Medium Human Development Index (HDI),40,704.0
+Number of Persons,PEA27C01,2023,2023,65 - 69 years,565,Male,1,Very High Human Development Index (HDI),50,3960.0
+Number of Persons,PEA27C01,2023,2023,65 - 69 years,565,Female,2,Human Development Index (HDI) - All ratings,10,4549.0
+Number of Persons,PEA27C01,2023,2023,65 - 69 years,565,Female,2,High Human Development Index (HDI),20,657.0
+Number of Persons,PEA27C01,2023,2023,65 - 69 years,565,Female,2,Low Human Development Index (HDI),30,154.0
+Number of Persons,PEA27C01,2023,2023,65 - 69 years,565,Female,2,Medium Human Development Index (HDI),40,587.0
+Number of Persons,PEA27C01,2023,2023,65 - 69 years,565,Female,2,Very High Human Development Index (HDI),50,3151.0
+Number of Persons,PEA27C01,2023,2023,70 - 74 years,580,Both sexes,-,Human Development Index (HDI) - All ratings,10,7820.0
+Number of Persons,PEA27C01,2023,2023,70 - 74 years,580,Both sexes,-,High Human Development Index (HDI),20,824.0
+Number of Persons,PEA27C01,2023,2023,70 - 74 years,580,Both sexes,-,Low Human Development Index (HDI),30,208.0
+Number of Persons,PEA27C01,2023,2023,70 - 74 years,580,Both sexes,-,Medium Human Development Index (HDI),40,757.0
+Number of Persons,PEA27C01,2023,2023,70 - 74 years,580,Both sexes,-,Very High Human Development Index (HDI),50,6031.0
+Number of Persons,PEA27C01,2023,2023,70 - 74 years,580,Male,1,Human Development Index (HDI) - All ratings,10,4382.0
+Number of Persons,PEA27C01,2023,2023,70 - 74 years,580,Male,1,High Human Development Index (HDI),20,492.0
+Number of Persons,PEA27C01,2023,2023,70 - 74 years,580,Male,1,Low Human Development Index (HDI),30,124.0
+Number of Persons,PEA27C01,2023,2023,70 - 74 years,580,Male,1,Medium Human Development Index (HDI),40,410.0
+Number of Persons,PEA27C01,2023,2023,70 - 74 years,580,Male,1,Very High Human Development Index (HDI),50,3356.0
+Number of Persons,PEA27C01,2023,2023,70 - 74 years,580,Female,2,Human Development Index (HDI) - All ratings,10,3438.0
+Number of Persons,PEA27C01,2023,2023,70 - 74 years,580,Female,2,High Human Development Index (HDI),20,332.0
+Number of Persons,PEA27C01,2023,2023,70 - 74 years,580,Female,2,Low Human Development Index (HDI),30,84.0
+Number of Persons,PEA27C01,2023,2023,70 - 74 years,580,Female,2,Medium Human Development Index (HDI),40,347.0
+Number of Persons,PEA27C01,2023,2023,70 - 74 years,580,Female,2,Very High Human Development Index (HDI),50,2675.0
+Number of Persons,PEA27C01,2023,2023,75 - 79 years,595,Both sexes,-,Human Development Index (HDI) - All ratings,10,6346.0
+Number of Persons,PEA27C01,2023,2023,75 - 79 years,595,Both sexes,-,High Human Development Index (HDI),20,605.0
+Number of Persons,PEA27C01,2023,2023,75 - 79 years,595,Both sexes,-,Low Human Development Index (HDI),30,144.0
+Number of Persons,PEA27C01,2023,2023,75 - 79 years,595,Both sexes,-,Medium Human Development Index (HDI),40,528.0
+Number of Persons,PEA27C01,2023,2023,75 - 79 years,595,Both sexes,-,Very High Human Development Index (HDI),50,5069.0
+Number of Persons,PEA27C01,2023,2023,75 - 79 years,595,Male,1,Human Development Index (HDI) - All ratings,10,3527.0
+Number of Persons,PEA27C01,2023,2023,75 - 79 years,595,Male,1,High Human Development Index (HDI),20,359.0
+Number of Persons,PEA27C01,2023,2023,75 - 79 years,595,Male,1,Low Human Development Index (HDI),30,77.0
+Number of Persons,PEA27C01,2023,2023,75 - 79 years,595,Male,1,Medium Human Development Index (HDI),40,300.0
+Number of Persons,PEA27C01,2023,2023,75 - 79 years,595,Male,1,Very High Human Development Index (HDI),50,2791.0
+Number of Persons,PEA27C01,2023,2023,75 - 79 years,595,Female,2,Human Development Index (HDI) - All ratings,10,2819.0
+Number of Persons,PEA27C01,2023,2023,75 - 79 years,595,Female,2,High Human Development Index (HDI),20,246.0
+Number of Persons,PEA27C01,2023,2023,75 - 79 years,595,Female,2,Low Human Development Index (HDI),30,67.0
+Number of Persons,PEA27C01,2023,2023,75 - 79 years,595,Female,2,Medium Human Development Index (HDI),40,228.0
+Number of Persons,PEA27C01,2023,2023,75 - 79 years,595,Female,2,Very High Human Development Index (HDI),50,2278.0
+Number of Persons,PEA27C01,2023,2023,80 - 84 years,610,Both sexes,-,Human Development Index (HDI) - All ratings,10,3940.0
+Number of Persons,PEA27C01,2023,2023,80 - 84 years,610,Both sexes,-,High Human Development Index (HDI),20,335.0
+Number of Persons,PEA27C01,2023,2023,80 - 84 years,610,Both sexes,-,Low Human Development Index (HDI),30,77.0
+Number of Persons,PEA27C01,2023,2023,80 - 84 years,610,Both sexes,-,Medium Human Development Index (HDI),40,323.0
+Number of Persons,PEA27C01,2023,2023,80 - 84 years,610,Both sexes,-,Very High Human Development Index (HDI),50,3205.0
+Number of Persons,PEA27C01,2023,2023,80 - 84 years,610,Male,1,Human Development Index (HDI) - All ratings,10,2167.0
+Number of Persons,PEA27C01,2023,2023,80 - 84 years,610,Male,1,High Human Development Index (HDI),20,198.0
+Number of Persons,PEA27C01,2023,2023,80 - 84 years,610,Male,1,Low Human Development Index (HDI),30,51.0
+Number of Persons,PEA27C01,2023,2023,80 - 84 years,610,Male,1,Medium Human Development Index (HDI),40,189.0
+Number of Persons,PEA27C01,2023,2023,80 - 84 years,610,Male,1,Very High Human Development Index (HDI),50,1729.0
+Number of Persons,PEA27C01,2023,2023,80 - 84 years,610,Female,2,Human Development Index (HDI) - All ratings,10,1773.0
+Number of Persons,PEA27C01,2023,2023,80 - 84 years,610,Female,2,High Human Development Index (HDI),20,137.0
+Number of Persons,PEA27C01,2023,2023,80 - 84 years,610,Female,2,Low Human Development Index (HDI),30,26.0
+Number of Persons,PEA27C01,2023,2023,80 - 84 years,610,Female,2,Medium Human Development Index (HDI),40,134.0
+Number of Persons,PEA27C01,2023,2023,80 - 84 years,610,Female,2,Very High Human Development Index (HDI),50,1476.0
+Number of Persons,PEA27C01,2023,2023,85 years and over,630,Both sexes,-,Human Development Index (HDI) - All ratings,10,3993.0
+Number of Persons,PEA27C01,2023,2023,85 years and over,630,Both sexes,-,High Human Development Index (HDI),20,376.0
+Number of Persons,PEA27C01,2023,2023,85 years and over,630,Both sexes,-,Low Human Development Index (HDI),30,103.0
+Number of Persons,PEA27C01,2023,2023,85 years and over,630,Both sexes,-,Medium Human Development Index (HDI),40,381.0
+Number of Persons,PEA27C01,2023,2023,85 years and over,630,Both sexes,-,Very High Human Development Index (HDI),50,3133.0
+Number of Persons,PEA27C01,2023,2023,85 years and over,630,Male,1,Human Development Index (HDI) - All ratings,10,1976.0
+Number of Persons,PEA27C01,2023,2023,85 years and over,630,Male,1,High Human Development Index (HDI),20,193.0
+Number of Persons,PEA27C01,2023,2023,85 years and over,630,Male,1,Low Human Development Index (HDI),30,55.0
+Number of Persons,PEA27C01,2023,2023,85 years and over,630,Male,1,Medium Human Development Index (HDI),40,186.0
+Number of Persons,PEA27C01,2023,2023,85 years and over,630,Male,1,Very High Human Development Index (HDI),50,1542.0
+Number of Persons,PEA27C01,2023,2023,85 years and over,630,Female,2,Human Development Index (HDI) - All ratings,10,2017.0
+Number of Persons,PEA27C01,2023,2023,85 years and over,630,Female,2,High Human Development Index (HDI),20,183.0
+Number of Persons,PEA27C01,2023,2023,85 years and over,630,Female,2,Low Human Development Index (HDI),30,48.0
+Number of Persons,PEA27C01,2023,2023,85 years and over,630,Female,2,Medium Human Development Index (HDI),40,195.0
+Number of Persons,PEA27C01,2023,2023,85 years and over,630,Female,2,Very High Human Development Index (HDI),50,1591.0
+Number of Persons,PEA27C01,2024,2024,All ages,-,Both sexes,-,Human Development Index (HDI) - All ratings,10,356968.0
+Number of Persons,PEA27C01,2024,2024,All ages,-,Both sexes,-,High Human Development Index (HDI),20,100543.0
+Number of Persons,PEA27C01,2024,2024,All ages,-,Both sexes,-,Low Human Development Index (HDI),30,24262.0
+Number of Persons,PEA27C01,2024,2024,All ages,-,Both sexes,-,Medium Human Development Index (HDI),40,89206.0
+Number of Persons,PEA27C01,2024,2024,All ages,-,Both sexes,-,Very High Human Development Index (HDI),50,142957.0
+Number of Persons,PEA27C01,2024,2024,All ages,-,Male,1,Human Development Index (HDI) - All ratings,10,178851.0
+Number of Persons,PEA27C01,2024,2024,All ages,-,Male,1,High Human Development Index (HDI),20,49381.0
+Number of Persons,PEA27C01,2024,2024,All ages,-,Male,1,Low Human Development Index (HDI),30,11897.0
+Number of Persons,PEA27C01,2024,2024,All ages,-,Male,1,Medium Human Development Index (HDI),40,43675.0
+Number of Persons,PEA27C01,2024,2024,All ages,-,Male,1,Very High Human Development Index (HDI),50,73898.0
+Number of Persons,PEA27C01,2024,2024,All ages,-,Female,2,Human Development Index (HDI) - All ratings,10,178117.0
+Number of Persons,PEA27C01,2024,2024,All ages,-,Female,2,High Human Development Index (HDI),20,51162.0
+Number of Persons,PEA27C01,2024,2024,All ages,-,Female,2,Low Human Development Index (HDI),30,12365.0
+Number of Persons,PEA27C01,2024,2024,All ages,-,Female,2,Medium Human Development Index (HDI),40,45531.0
+Number of Persons,PEA27C01,2024,2024,All ages,-,Female,2,Very High Human Development Index (HDI),50,69059.0
+Number of Persons,PEA27C01,2024,2024,Under 5 years,240,Both sexes,-,Human Development Index (HDI) - All ratings,10,8879.0
+Number of Persons,PEA27C01,2024,2024,Under 5 years,240,Both sexes,-,High Human Development Index (HDI),20,2792.0
+Number of Persons,PEA27C01,2024,2024,Under 5 years,240,Both sexes,-,Low Human Development Index (HDI),30,689.0
+Number of Persons,PEA27C01,2024,2024,Under 5 years,240,Both sexes,-,Medium Human Development Index (HDI),40,2539.0
+Number of Persons,PEA27C01,2024,2024,Under 5 years,240,Both sexes,-,Very High Human Development Index (HDI),50,2859.0
+Number of Persons,PEA27C01,2024,2024,Under 5 years,240,Male,1,Human Development Index (HDI) - All ratings,10,4305.0
+Number of Persons,PEA27C01,2024,2024,Under 5 years,240,Male,1,High Human Development Index (HDI),20,1383.0
+Number of Persons,PEA27C01,2024,2024,Under 5 years,240,Male,1,Low Human Development Index (HDI),30,349.0
+Number of Persons,PEA27C01,2024,2024,Under 5 years,240,Male,1,Medium Human Development Index (HDI),40,1255.0
+Number of Persons,PEA27C01,2024,2024,Under 5 years,240,Male,1,Very High Human Development Index (HDI),50,1318.0
+Number of Persons,PEA27C01,2024,2024,Under 5 years,240,Female,2,Human Development Index (HDI) - All ratings,10,4574.0
+Number of Persons,PEA27C01,2024,2024,Under 5 years,240,Female,2,High Human Development Index (HDI),20,1409.0
+Number of Persons,PEA27C01,2024,2024,Under 5 years,240,Female,2,Low Human Development Index (HDI),30,340.0
+Number of Persons,PEA27C01,2024,2024,Under 5 years,240,Female,2,Medium Human Development Index (HDI),40,1284.0
+Number of Persons,PEA27C01,2024,2024,Under 5 years,240,Female,2,Very High Human Development Index (HDI),50,1541.0
+Number of Persons,PEA27C01,2024,2024,5 - 9 years,245,Both sexes,-,Human Development Index (HDI) - All ratings,10,10600.0
+Number of Persons,PEA27C01,2024,2024,5 - 9 years,245,Both sexes,-,High Human Development Index (HDI),20,3220.0
+Number of Persons,PEA27C01,2024,2024,5 - 9 years,245,Both sexes,-,Low Human Development Index (HDI),30,750.0
+Number of Persons,PEA27C01,2024,2024,5 - 9 years,245,Both sexes,-,Medium Human Development Index (HDI),40,2862.0
+Number of Persons,PEA27C01,2024,2024,5 - 9 years,245,Both sexes,-,Very High Human Development Index (HDI),50,3768.0
+Number of Persons,PEA27C01,2024,2024,5 - 9 years,245,Male,1,Human Development Index (HDI) - All ratings,10,5350.0
+Number of Persons,PEA27C01,2024,2024,5 - 9 years,245,Male,1,High Human Development Index (HDI),20,1635.0
+Number of Persons,PEA27C01,2024,2024,5 - 9 years,245,Male,1,Low Human Development Index (HDI),30,394.0
+Number of Persons,PEA27C01,2024,2024,5 - 9 years,245,Male,1,Medium Human Development Index (HDI),40,1422.0
+Number of Persons,PEA27C01,2024,2024,5 - 9 years,245,Male,1,Very High Human Development Index (HDI),50,1899.0
+Number of Persons,PEA27C01,2024,2024,5 - 9 years,245,Female,2,Human Development Index (HDI) - All ratings,10,5250.0
+Number of Persons,PEA27C01,2024,2024,5 - 9 years,245,Female,2,High Human Development Index (HDI),20,1585.0
+Number of Persons,PEA27C01,2024,2024,5 - 9 years,245,Female,2,Low Human Development Index (HDI),30,356.0
+Number of Persons,PEA27C01,2024,2024,5 - 9 years,245,Female,2,Medium Human Development Index (HDI),40,1440.0
+Number of Persons,PEA27C01,2024,2024,5 - 9 years,245,Female,2,Very High Human Development Index (HDI),50,1869.0
+Number of Persons,PEA27C01,2024,2024,10 - 14 years,265,Both sexes,-,Human Development Index (HDI) - All ratings,10,12585.0
+Number of Persons,PEA27C01,2024,2024,10 - 14 years,265,Both sexes,-,High Human Development Index (HDI),20,3788.0
+Number of Persons,PEA27C01,2024,2024,10 - 14 years,265,Both sexes,-,Low Human Development Index (HDI),30,935.0
+Number of Persons,PEA27C01,2024,2024,10 - 14 years,265,Both sexes,-,Medium Human Development Index (HDI),40,3279.0
+Number of Persons,PEA27C01,2024,2024,10 - 14 years,265,Both sexes,-,Very High Human Development Index (HDI),50,4583.0
+Number of Persons,PEA27C01,2024,2024,10 - 14 years,265,Male,1,Human Development Index (HDI) - All ratings,10,6429.0
+Number of Persons,PEA27C01,2024,2024,10 - 14 years,265,Male,1,High Human Development Index (HDI),20,1932.0
+Number of Persons,PEA27C01,2024,2024,10 - 14 years,265,Male,1,Low Human Development Index (HDI),30,500.0
+Number of Persons,PEA27C01,2024,2024,10 - 14 years,265,Male,1,Medium Human Development Index (HDI),40,1656.0
+Number of Persons,PEA27C01,2024,2024,10 - 14 years,265,Male,1,Very High Human Development Index (HDI),50,2341.0
+Number of Persons,PEA27C01,2024,2024,10 - 14 years,265,Female,2,Human Development Index (HDI) - All ratings,10,6156.0
+Number of Persons,PEA27C01,2024,2024,10 - 14 years,265,Female,2,High Human Development Index (HDI),20,1856.0
+Number of Persons,PEA27C01,2024,2024,10 - 14 years,265,Female,2,Low Human Development Index (HDI),30,435.0
+Number of Persons,PEA27C01,2024,2024,10 - 14 years,265,Female,2,Medium Human Development Index (HDI),40,1623.0
+Number of Persons,PEA27C01,2024,2024,10 - 14 years,265,Female,2,Very High Human Development Index (HDI),50,2242.0
+Number of Persons,PEA27C01,2024,2024,15 - 19 years,300,Both sexes,-,Human Development Index (HDI) - All ratings,10,13582.0
+Number of Persons,PEA27C01,2024,2024,15 - 19 years,300,Both sexes,-,High Human Development Index (HDI),20,4253.0
+Number of Persons,PEA27C01,2024,2024,15 - 19 years,300,Both sexes,-,Low Human Development Index (HDI),30,1090.0
+Number of Persons,PEA27C01,2024,2024,15 - 19 years,300,Both sexes,-,Medium Human Development Index (HDI),40,3796.0
+Number of Persons,PEA27C01,2024,2024,15 - 19 years,300,Both sexes,-,Very High Human Development Index (HDI),50,4443.0
+Number of Persons,PEA27C01,2024,2024,15 - 19 years,300,Male,1,Human Development Index (HDI) - All ratings,10,6452.0
+Number of Persons,PEA27C01,2024,2024,15 - 19 years,300,Male,1,High Human Development Index (HDI),20,2037.0
+Number of Persons,PEA27C01,2024,2024,15 - 19 years,300,Male,1,Low Human Development Index (HDI),30,495.0
+Number of Persons,PEA27C01,2024,2024,15 - 19 years,300,Male,1,Medium Human Development Index (HDI),40,1791.0
+Number of Persons,PEA27C01,2024,2024,15 - 19 years,300,Male,1,Very High Human Development Index (HDI),50,2129.0
+Number of Persons,PEA27C01,2024,2024,15 - 19 years,300,Female,2,Human Development Index (HDI) - All ratings,10,7130.0
+Number of Persons,PEA27C01,2024,2024,15 - 19 years,300,Female,2,High Human Development Index (HDI),20,2216.0
+Number of Persons,PEA27C01,2024,2024,15 - 19 years,300,Female,2,Low Human Development Index (HDI),30,595.0
+Number of Persons,PEA27C01,2024,2024,15 - 19 years,300,Female,2,Medium Human Development Index (HDI),40,2005.0
+Number of Persons,PEA27C01,2024,2024,15 - 19 years,300,Female,2,Very High Human Development Index (HDI),50,2314.0
+Number of Persons,PEA27C01,2024,2024,20 - 24 years,365,Both sexes,-,Human Development Index (HDI) - All ratings,10,16896.0
+Number of Persons,PEA27C01,2024,2024,20 - 24 years,365,Both sexes,-,High Human Development Index (HDI),20,5512.0
+Number of Persons,PEA27C01,2024,2024,20 - 24 years,365,Both sexes,-,Low Human Development Index (HDI),30,1307.0
+Number of Persons,PEA27C01,2024,2024,20 - 24 years,365,Both sexes,-,Medium Human Development Index (HDI),40,5011.0
+Number of Persons,PEA27C01,2024,2024,20 - 24 years,365,Both sexes,-,Very High Human Development Index (HDI),50,5066.0
+Number of Persons,PEA27C01,2024,2024,20 - 24 years,365,Male,1,Human Development Index (HDI) - All ratings,10,7431.0
+Number of Persons,PEA27C01,2024,2024,20 - 24 years,365,Male,1,High Human Development Index (HDI),20,2401.0
+Number of Persons,PEA27C01,2024,2024,20 - 24 years,365,Male,1,Low Human Development Index (HDI),30,562.0
+Number of Persons,PEA27C01,2024,2024,20 - 24 years,365,Male,1,Medium Human Development Index (HDI),40,2201.0
+Number of Persons,PEA27C01,2024,2024,20 - 24 years,365,Male,1,Very High Human Development Index (HDI),50,2267.0
+Number of Persons,PEA27C01,2024,2024,20 - 24 years,365,Female,2,Human Development Index (HDI) - All ratings,10,9465.0
+Number of Persons,PEA27C01,2024,2024,20 - 24 years,365,Female,2,High Human Development Index (HDI),20,3111.0
+Number of Persons,PEA27C01,2024,2024,20 - 24 years,365,Female,2,Low Human Development Index (HDI),30,745.0
+Number of Persons,PEA27C01,2024,2024,20 - 24 years,365,Female,2,Medium Human Development Index (HDI),40,2810.0
+Number of Persons,PEA27C01,2024,2024,20 - 24 years,365,Female,2,Very High Human Development Index (HDI),50,2799.0
+Number of Persons,PEA27C01,2024,2024,25 - 29 years,410,Both sexes,-,Human Development Index (HDI) - All ratings,10,29191.0
+Number of Persons,PEA27C01,2024,2024,25 - 29 years,410,Both sexes,-,High Human Development Index (HDI),20,9530.0
+Number of Persons,PEA27C01,2024,2024,25 - 29 years,410,Both sexes,-,Low Human Development Index (HDI),30,2296.0
+Number of Persons,PEA27C01,2024,2024,25 - 29 years,410,Both sexes,-,Medium Human Development Index (HDI),40,8454.0
+Number of Persons,PEA27C01,2024,2024,25 - 29 years,410,Both sexes,-,Very High Human Development Index (HDI),50,8911.0
+Number of Persons,PEA27C01,2024,2024,25 - 29 years,410,Male,1,Human Development Index (HDI) - All ratings,10,13567.0
+Number of Persons,PEA27C01,2024,2024,25 - 29 years,410,Male,1,High Human Development Index (HDI),20,4460.0
+Number of Persons,PEA27C01,2024,2024,25 - 29 years,410,Male,1,Low Human Development Index (HDI),30,1045.0
+Number of Persons,PEA27C01,2024,2024,25 - 29 years,410,Male,1,Medium Human Development Index (HDI),40,3884.0
+Number of Persons,PEA27C01,2024,2024,25 - 29 years,410,Male,1,Very High Human Development Index (HDI),50,4178.0
+Number of Persons,PEA27C01,2024,2024,25 - 29 years,410,Female,2,Human Development Index (HDI) - All ratings,10,15624.0
+Number of Persons,PEA27C01,2024,2024,25 - 29 years,410,Female,2,High Human Development Index (HDI),20,5070.0
+Number of Persons,PEA27C01,2024,2024,25 - 29 years,410,Female,2,Low Human Development Index (HDI),30,1251.0
+Number of Persons,PEA27C01,2024,2024,25 - 29 years,410,Female,2,Medium Human Development Index (HDI),40,4570.0
+Number of Persons,PEA27C01,2024,2024,25 - 29 years,410,Female,2,Very High Human Development Index (HDI),50,4733.0
+Number of Persons,PEA27C01,2024,2024,30 - 34 years,440,Both sexes,-,Human Development Index (HDI) - All ratings,10,44235.0
+Number of Persons,PEA27C01,2024,2024,30 - 34 years,440,Both sexes,-,High Human Development Index (HDI),20,14847.0
+Number of Persons,PEA27C01,2024,2024,30 - 34 years,440,Both sexes,-,Low Human Development Index (HDI),30,3528.0
+Number of Persons,PEA27C01,2024,2024,30 - 34 years,440,Both sexes,-,Medium Human Development Index (HDI),40,13025.0
+Number of Persons,PEA27C01,2024,2024,30 - 34 years,440,Both sexes,-,Very High Human Development Index (HDI),50,12835.0
+Number of Persons,PEA27C01,2024,2024,30 - 34 years,440,Male,1,Human Development Index (HDI) - All ratings,10,21588.0
+Number of Persons,PEA27C01,2024,2024,30 - 34 years,440,Male,1,High Human Development Index (HDI),20,7187.0
+Number of Persons,PEA27C01,2024,2024,30 - 34 years,440,Male,1,Low Human Development Index (HDI),30,1713.0
+Number of Persons,PEA27C01,2024,2024,30 - 34 years,440,Male,1,Medium Human Development Index (HDI),40,6322.0
+Number of Persons,PEA27C01,2024,2024,30 - 34 years,440,Male,1,Very High Human Development Index (HDI),50,6366.0
+Number of Persons,PEA27C01,2024,2024,30 - 34 years,440,Female,2,Human Development Index (HDI) - All ratings,10,22647.0
+Number of Persons,PEA27C01,2024,2024,30 - 34 years,440,Female,2,High Human Development Index (HDI),20,7660.0
+Number of Persons,PEA27C01,2024,2024,30 - 34 years,440,Female,2,Low Human Development Index (HDI),30,1815.0
+Number of Persons,PEA27C01,2024,2024,30 - 34 years,440,Female,2,Medium Human Development Index (HDI),40,6703.0
+Number of Persons,PEA27C01,2024,2024,30 - 34 years,440,Female,2,Very High Human Development Index (HDI),50,6469.0
+Number of Persons,PEA27C01,2024,2024,35 - 39 years,460,Both sexes,-,Human Development Index (HDI) - All ratings,10,48338.0
+Number of Persons,PEA27C01,2024,2024,35 - 39 years,460,Both sexes,-,High Human Development Index (HDI),20,16393.0
+Number of Persons,PEA27C01,2024,2024,35 - 39 years,460,Both sexes,-,Low Human Development Index (HDI),30,3955.0
+Number of Persons,PEA27C01,2024,2024,35 - 39 years,460,Both sexes,-,Medium Human Development Index (HDI),40,14127.0
+Number of Persons,PEA27C01,2024,2024,35 - 39 years,460,Both sexes,-,Very High Human Development Index (HDI),50,13863.0
+Number of Persons,PEA27C01,2024,2024,35 - 39 years,460,Male,1,Human Development Index (HDI) - All ratings,10,23496.0
+Number of Persons,PEA27C01,2024,2024,35 - 39 years,460,Male,1,High Human Development Index (HDI),20,7907.0
+Number of Persons,PEA27C01,2024,2024,35 - 39 years,460,Male,1,Low Human Development Index (HDI),30,1924.0
+Number of Persons,PEA27C01,2024,2024,35 - 39 years,460,Male,1,Medium Human Development Index (HDI),40,6767.0
+Number of Persons,PEA27C01,2024,2024,35 - 39 years,460,Male,1,Very High Human Development Index (HDI),50,6898.0
+Number of Persons,PEA27C01,2024,2024,35 - 39 years,460,Female,2,Human Development Index (HDI) - All ratings,10,24842.0
+Number of Persons,PEA27C01,2024,2024,35 - 39 years,460,Female,2,High Human Development Index (HDI),20,8486.0
+Number of Persons,PEA27C01,2024,2024,35 - 39 years,460,Female,2,Low Human Development Index (HDI),30,2031.0
+Number of Persons,PEA27C01,2024,2024,35 - 39 years,460,Female,2,Medium Human Development Index (HDI),40,7360.0
+Number of Persons,PEA27C01,2024,2024,35 - 39 years,460,Female,2,Very High Human Development Index (HDI),50,6965.0
+Number of Persons,PEA27C01,2024,2024,40 - 44 years,475,Both sexes,-,Human Development Index (HDI) - All ratings,10,47517.0
+Number of Persons,PEA27C01,2024,2024,40 - 44 years,475,Both sexes,-,High Human Development Index (HDI),20,15714.0
+Number of Persons,PEA27C01,2024,2024,40 - 44 years,475,Both sexes,-,Low Human Development Index (HDI),30,3809.0
+Number of Persons,PEA27C01,2024,2024,40 - 44 years,475,Both sexes,-,Medium Human Development Index (HDI),40,14001.0
+Number of Persons,PEA27C01,2024,2024,40 - 44 years,475,Both sexes,-,Very High Human Development Index (HDI),50,13993.0
+Number of Persons,PEA27C01,2024,2024,40 - 44 years,475,Male,1,Human Development Index (HDI) - All ratings,10,23406.0
+Number of Persons,PEA27C01,2024,2024,40 - 44 years,475,Male,1,High Human Development Index (HDI),20,7712.0
+Number of Persons,PEA27C01,2024,2024,40 - 44 years,475,Male,1,Low Human Development Index (HDI),30,1853.0
+Number of Persons,PEA27C01,2024,2024,40 - 44 years,475,Male,1,Medium Human Development Index (HDI),40,6851.0
+Number of Persons,PEA27C01,2024,2024,40 - 44 years,475,Male,1,Very High Human Development Index (HDI),50,6990.0
+Number of Persons,PEA27C01,2024,2024,40 - 44 years,475,Female,2,Human Development Index (HDI) - All ratings,10,24111.0
+Number of Persons,PEA27C01,2024,2024,40 - 44 years,475,Female,2,High Human Development Index (HDI),20,8002.0
+Number of Persons,PEA27C01,2024,2024,40 - 44 years,475,Female,2,Low Human Development Index (HDI),30,1956.0
+Number of Persons,PEA27C01,2024,2024,40 - 44 years,475,Female,2,Medium Human Development Index (HDI),40,7150.0
+Number of Persons,PEA27C01,2024,2024,40 - 44 years,475,Female,2,Very High Human Development Index (HDI),50,7003.0
+Number of Persons,PEA27C01,2024,2024,45 - 49 years,495,Both sexes,-,Human Development Index (HDI) - All ratings,10,33541.0
+Number of Persons,PEA27C01,2024,2024,45 - 49 years,495,Both sexes,-,High Human Development Index (HDI),20,9967.0
+Number of Persons,PEA27C01,2024,2024,45 - 49 years,495,Both sexes,-,Low Human Development Index (HDI),30,2448.0
+Number of Persons,PEA27C01,2024,2024,45 - 49 years,495,Both sexes,-,Medium Human Development Index (HDI),40,9052.0
+Number of Persons,PEA27C01,2024,2024,45 - 49 years,495,Both sexes,-,Very High Human Development Index (HDI),50,12074.0
+Number of Persons,PEA27C01,2024,2024,45 - 49 years,495,Male,1,Human Development Index (HDI) - All ratings,10,17135.0
+Number of Persons,PEA27C01,2024,2024,45 - 49 years,495,Male,1,High Human Development Index (HDI),20,5052.0
+Number of Persons,PEA27C01,2024,2024,45 - 49 years,495,Male,1,Low Human Development Index (HDI),30,1199.0
+Number of Persons,PEA27C01,2024,2024,45 - 49 years,495,Male,1,Medium Human Development Index (HDI),40,4564.0
+Number of Persons,PEA27C01,2024,2024,45 - 49 years,495,Male,1,Very High Human Development Index (HDI),50,6320.0
+Number of Persons,PEA27C01,2024,2024,45 - 49 years,495,Female,2,Human Development Index (HDI) - All ratings,10,16406.0
+Number of Persons,PEA27C01,2024,2024,45 - 49 years,495,Female,2,High Human Development Index (HDI),20,4915.0
+Number of Persons,PEA27C01,2024,2024,45 - 49 years,495,Female,2,Low Human Development Index (HDI),30,1249.0
+Number of Persons,PEA27C01,2024,2024,45 - 49 years,495,Female,2,Medium Human Development Index (HDI),40,4488.0
+Number of Persons,PEA27C01,2024,2024,45 - 49 years,495,Female,2,Very High Human Development Index (HDI),50,5754.0
+Number of Persons,PEA27C01,2024,2024,50 - 54 years,515,Both sexes,-,Human Development Index (HDI) - All ratings,10,21926.0
+Number of Persons,PEA27C01,2024,2024,50 - 54 years,515,Both sexes,-,High Human Development Index (HDI),20,4649.0
+Number of Persons,PEA27C01,2024,2024,50 - 54 years,515,Both sexes,-,Low Human Development Index (HDI),30,1067.0
+Number of Persons,PEA27C01,2024,2024,50 - 54 years,515,Both sexes,-,Medium Human Development Index (HDI),40,4118.0
+Number of Persons,PEA27C01,2024,2024,50 - 54 years,515,Both sexes,-,Very High Human Development Index (HDI),50,12092.0
+Number of Persons,PEA27C01,2024,2024,50 - 54 years,515,Male,1,Human Development Index (HDI) - All ratings,10,11833.0
+Number of Persons,PEA27C01,2024,2024,50 - 54 years,515,Male,1,High Human Development Index (HDI),20,2421.0
+Number of Persons,PEA27C01,2024,2024,50 - 54 years,515,Male,1,Low Human Development Index (HDI),30,565.0
+Number of Persons,PEA27C01,2024,2024,50 - 54 years,515,Male,1,Medium Human Development Index (HDI),40,2134.0
+Number of Persons,PEA27C01,2024,2024,50 - 54 years,515,Male,1,Very High Human Development Index (HDI),50,6713.0
+Number of Persons,PEA27C01,2024,2024,50 - 54 years,515,Female,2,Human Development Index (HDI) - All ratings,10,10093.0
+Number of Persons,PEA27C01,2024,2024,50 - 54 years,515,Female,2,High Human Development Index (HDI),20,2228.0
+Number of Persons,PEA27C01,2024,2024,50 - 54 years,515,Female,2,Low Human Development Index (HDI),30,502.0
+Number of Persons,PEA27C01,2024,2024,50 - 54 years,515,Female,2,Medium Human Development Index (HDI),40,1984.0
+Number of Persons,PEA27C01,2024,2024,50 - 54 years,515,Female,2,Very High Human Development Index (HDI),50,5379.0
+Number of Persons,PEA27C01,2024,2024,55 - 59 years,530,Both sexes,-,Human Development Index (HDI) - All ratings,10,19424.0
+Number of Persons,PEA27C01,2024,2024,55 - 59 years,530,Both sexes,-,High Human Development Index (HDI),20,3289.0
+Number of Persons,PEA27C01,2024,2024,55 - 59 years,530,Both sexes,-,Low Human Development Index (HDI),30,756.0
+Number of Persons,PEA27C01,2024,2024,55 - 59 years,530,Both sexes,-,Medium Human Development Index (HDI),40,2983.0
+Number of Persons,PEA27C01,2024,2024,55 - 59 years,530,Both sexes,-,Very High Human Development Index (HDI),50,12396.0
+Number of Persons,PEA27C01,2024,2024,55 - 59 years,530,Male,1,Human Development Index (HDI) - All ratings,10,10570.0
+Number of Persons,PEA27C01,2024,2024,55 - 59 years,530,Male,1,High Human Development Index (HDI),20,1731.0
+Number of Persons,PEA27C01,2024,2024,55 - 59 years,530,Male,1,Low Human Development Index (HDI),30,441.0
+Number of Persons,PEA27C01,2024,2024,55 - 59 years,530,Male,1,Medium Human Development Index (HDI),40,1578.0
+Number of Persons,PEA27C01,2024,2024,55 - 59 years,530,Male,1,Very High Human Development Index (HDI),50,6820.0
+Number of Persons,PEA27C01,2024,2024,55 - 59 years,530,Female,2,Human Development Index (HDI) - All ratings,10,8854.0
+Number of Persons,PEA27C01,2024,2024,55 - 59 years,530,Female,2,High Human Development Index (HDI),20,1558.0
+Number of Persons,PEA27C01,2024,2024,55 - 59 years,530,Female,2,Low Human Development Index (HDI),30,315.0
+Number of Persons,PEA27C01,2024,2024,55 - 59 years,530,Female,2,Medium Human Development Index (HDI),40,1405.0
+Number of Persons,PEA27C01,2024,2024,55 - 59 years,530,Female,2,Very High Human Development Index (HDI),50,5576.0
+Number of Persons,PEA27C01,2024,2024,60 - 64 years,550,Both sexes,-,Human Development Index (HDI) - All ratings,10,16156.0
+Number of Persons,PEA27C01,2024,2024,60 - 64 years,550,Both sexes,-,High Human Development Index (HDI),20,2686.0
+Number of Persons,PEA27C01,2024,2024,60 - 64 years,550,Both sexes,-,Low Human Development Index (HDI),30,655.0
+Number of Persons,PEA27C01,2024,2024,60 - 64 years,550,Both sexes,-,Medium Human Development Index (HDI),40,2430.0
+Number of Persons,PEA27C01,2024,2024,60 - 64 years,550,Both sexes,-,Very High Human Development Index (HDI),50,10385.0
+Number of Persons,PEA27C01,2024,2024,60 - 64 years,550,Male,1,Human Development Index (HDI) - All ratings,10,8658.0
+Number of Persons,PEA27C01,2024,2024,60 - 64 years,550,Male,1,High Human Development Index (HDI),20,1409.0
+Number of Persons,PEA27C01,2024,2024,60 - 64 years,550,Male,1,Low Human Development Index (HDI),30,338.0
+Number of Persons,PEA27C01,2024,2024,60 - 64 years,550,Male,1,Medium Human Development Index (HDI),40,1278.0
+Number of Persons,PEA27C01,2024,2024,60 - 64 years,550,Male,1,Very High Human Development Index (HDI),50,5633.0
+Number of Persons,PEA27C01,2024,2024,60 - 64 years,550,Female,2,Human Development Index (HDI) - All ratings,10,7498.0
+Number of Persons,PEA27C01,2024,2024,60 - 64 years,550,Female,2,High Human Development Index (HDI),20,1277.0
+Number of Persons,PEA27C01,2024,2024,60 - 64 years,550,Female,2,Low Human Development Index (HDI),30,317.0
+Number of Persons,PEA27C01,2024,2024,60 - 64 years,550,Female,2,Medium Human Development Index (HDI),40,1152.0
+Number of Persons,PEA27C01,2024,2024,60 - 64 years,550,Female,2,Very High Human Development Index (HDI),50,4752.0
+Number of Persons,PEA27C01,2024,2024,65 - 69 years,565,Both sexes,-,Human Development Index (HDI) - All ratings,10,10959.0
+Number of Persons,PEA27C01,2024,2024,65 - 69 years,565,Both sexes,-,High Human Development Index (HDI),20,1626.0
+Number of Persons,PEA27C01,2024,2024,65 - 69 years,565,Both sexes,-,Low Human Development Index (HDI),30,415.0
+Number of Persons,PEA27C01,2024,2024,65 - 69 years,565,Both sexes,-,Medium Human Development Index (HDI),40,1448.0
+Number of Persons,PEA27C01,2024,2024,65 - 69 years,565,Both sexes,-,Very High Human Development Index (HDI),50,7470.0
+Number of Persons,PEA27C01,2024,2024,65 - 69 years,565,Male,1,Human Development Index (HDI) - All ratings,10,6038.0
+Number of Persons,PEA27C01,2024,2024,65 - 69 years,565,Male,1,High Human Development Index (HDI),20,867.0
+Number of Persons,PEA27C01,2024,2024,65 - 69 years,565,Male,1,Low Human Development Index (HDI),30,212.0
+Number of Persons,PEA27C01,2024,2024,65 - 69 years,565,Male,1,Medium Human Development Index (HDI),40,796.0
+Number of Persons,PEA27C01,2024,2024,65 - 69 years,565,Male,1,Very High Human Development Index (HDI),50,4163.0
+Number of Persons,PEA27C01,2024,2024,65 - 69 years,565,Female,2,Human Development Index (HDI) - All ratings,10,4921.0
+Number of Persons,PEA27C01,2024,2024,65 - 69 years,565,Female,2,High Human Development Index (HDI),20,759.0
+Number of Persons,PEA27C01,2024,2024,65 - 69 years,565,Female,2,Low Human Development Index (HDI),30,203.0
+Number of Persons,PEA27C01,2024,2024,65 - 69 years,565,Female,2,Medium Human Development Index (HDI),40,652.0
+Number of Persons,PEA27C01,2024,2024,65 - 69 years,565,Female,2,Very High Human Development Index (HDI),50,3307.0
+Number of Persons,PEA27C01,2024,2024,70 - 74 years,580,Both sexes,-,Human Development Index (HDI) - All ratings,10,7756.0
+Number of Persons,PEA27C01,2024,2024,70 - 74 years,580,Both sexes,-,High Human Development Index (HDI),20,852.0
+Number of Persons,PEA27C01,2024,2024,70 - 74 years,580,Both sexes,-,Low Human Development Index (HDI),30,224.0
+Number of Persons,PEA27C01,2024,2024,70 - 74 years,580,Both sexes,-,Medium Human Development Index (HDI),40,757.0
+Number of Persons,PEA27C01,2024,2024,70 - 74 years,580,Both sexes,-,Very High Human Development Index (HDI),50,5923.0
+Number of Persons,PEA27C01,2024,2024,70 - 74 years,580,Male,1,Human Development Index (HDI) - All ratings,10,4318.0
+Number of Persons,PEA27C01,2024,2024,70 - 74 years,580,Male,1,High Human Development Index (HDI),20,476.0
+Number of Persons,PEA27C01,2024,2024,70 - 74 years,580,Male,1,Low Human Development Index (HDI),30,131.0
+Number of Persons,PEA27C01,2024,2024,70 - 74 years,580,Male,1,Medium Human Development Index (HDI),40,424.0
+Number of Persons,PEA27C01,2024,2024,70 - 74 years,580,Male,1,Very High Human Development Index (HDI),50,3287.0
+Number of Persons,PEA27C01,2024,2024,70 - 74 years,580,Female,2,Human Development Index (HDI) - All ratings,10,3438.0
+Number of Persons,PEA27C01,2024,2024,70 - 74 years,580,Female,2,High Human Development Index (HDI),20,376.0
+Number of Persons,PEA27C01,2024,2024,70 - 74 years,580,Female,2,Low Human Development Index (HDI),30,93.0
+Number of Persons,PEA27C01,2024,2024,70 - 74 years,580,Female,2,Medium Human Development Index (HDI),40,333.0
+Number of Persons,PEA27C01,2024,2024,70 - 74 years,580,Female,2,Very High Human Development Index (HDI),50,2636.0
+Number of Persons,PEA27C01,2024,2024,75 - 79 years,595,Both sexes,-,Human Development Index (HDI) - All ratings,10,6647.0
+Number of Persons,PEA27C01,2024,2024,75 - 79 years,595,Both sexes,-,High Human Development Index (HDI),20,647.0
+Number of Persons,PEA27C01,2024,2024,75 - 79 years,595,Both sexes,-,Low Human Development Index (HDI),30,124.0
+Number of Persons,PEA27C01,2024,2024,75 - 79 years,595,Both sexes,-,Medium Human Development Index (HDI),40,578.0
+Number of Persons,PEA27C01,2024,2024,75 - 79 years,595,Both sexes,-,Very High Human Development Index (HDI),50,5298.0
+Number of Persons,PEA27C01,2024,2024,75 - 79 years,595,Male,1,Human Development Index (HDI) - All ratings,10,3701.0
+Number of Persons,PEA27C01,2024,2024,75 - 79 years,595,Male,1,High Human Development Index (HDI),20,350.0
+Number of Persons,PEA27C01,2024,2024,75 - 79 years,595,Male,1,Low Human Development Index (HDI),30,73.0
+Number of Persons,PEA27C01,2024,2024,75 - 79 years,595,Male,1,Medium Human Development Index (HDI),40,325.0
+Number of Persons,PEA27C01,2024,2024,75 - 79 years,595,Male,1,Very High Human Development Index (HDI),50,2953.0
+Number of Persons,PEA27C01,2024,2024,75 - 79 years,595,Female,2,Human Development Index (HDI) - All ratings,10,2946.0
+Number of Persons,PEA27C01,2024,2024,75 - 79 years,595,Female,2,High Human Development Index (HDI),20,297.0
+Number of Persons,PEA27C01,2024,2024,75 - 79 years,595,Female,2,Low Human Development Index (HDI),30,51.0
+Number of Persons,PEA27C01,2024,2024,75 - 79 years,595,Female,2,Medium Human Development Index (HDI),40,253.0
+Number of Persons,PEA27C01,2024,2024,75 - 79 years,595,Female,2,Very High Human Development Index (HDI),50,2345.0
+Number of Persons,PEA27C01,2024,2024,80 - 84 years,610,Both sexes,-,Human Development Index (HDI) - All ratings,10,4273.0
+Number of Persons,PEA27C01,2024,2024,80 - 84 years,610,Both sexes,-,High Human Development Index (HDI),20,350.0
+Number of Persons,PEA27C01,2024,2024,80 - 84 years,610,Both sexes,-,Low Human Development Index (HDI),30,111.0
+Number of Persons,PEA27C01,2024,2024,80 - 84 years,610,Both sexes,-,Medium Human Development Index (HDI),40,362.0
+Number of Persons,PEA27C01,2024,2024,80 - 84 years,610,Both sexes,-,Very High Human Development Index (HDI),50,3450.0
+Number of Persons,PEA27C01,2024,2024,80 - 84 years,610,Male,1,Human Development Index (HDI) - All ratings,10,2297.0
+Number of Persons,PEA27C01,2024,2024,80 - 84 years,610,Male,1,High Human Development Index (HDI),20,202.0
+Number of Persons,PEA27C01,2024,2024,80 - 84 years,610,Male,1,Low Human Development Index (HDI),30,59.0
+Number of Persons,PEA27C01,2024,2024,80 - 84 years,610,Male,1,Medium Human Development Index (HDI),40,211.0
+Number of Persons,PEA27C01,2024,2024,80 - 84 years,610,Male,1,Very High Human Development Index (HDI),50,1825.0
+Number of Persons,PEA27C01,2024,2024,80 - 84 years,610,Female,2,Human Development Index (HDI) - All ratings,10,1976.0
+Number of Persons,PEA27C01,2024,2024,80 - 84 years,610,Female,2,High Human Development Index (HDI),20,148.0
+Number of Persons,PEA27C01,2024,2024,80 - 84 years,610,Female,2,Low Human Development Index (HDI),30,52.0
+Number of Persons,PEA27C01,2024,2024,80 - 84 years,610,Female,2,Medium Human Development Index (HDI),40,151.0
+Number of Persons,PEA27C01,2024,2024,80 - 84 years,610,Female,2,Very High Human Development Index (HDI),50,1625.0
+Number of Persons,PEA27C01,2024,2024,85 years and over,630,Both sexes,-,Human Development Index (HDI) - All ratings,10,4463.0
+Number of Persons,PEA27C01,2024,2024,85 years and over,630,Both sexes,-,High Human Development Index (HDI),20,428.0
+Number of Persons,PEA27C01,2024,2024,85 years and over,630,Both sexes,-,Low Human Development Index (HDI),30,103.0
+Number of Persons,PEA27C01,2024,2024,85 years and over,630,Both sexes,-,Medium Human Development Index (HDI),40,384.0
+Number of Persons,PEA27C01,2024,2024,85 years and over,630,Both sexes,-,Very High Human Development Index (HDI),50,3548.0
+Number of Persons,PEA27C01,2024,2024,85 years and over,630,Male,1,Human Development Index (HDI) - All ratings,10,2277.0
+Number of Persons,PEA27C01,2024,2024,85 years and over,630,Male,1,High Human Development Index (HDI),20,219.0
+Number of Persons,PEA27C01,2024,2024,85 years and over,630,Male,1,Low Human Development Index (HDI),30,44.0
+Number of Persons,PEA27C01,2024,2024,85 years and over,630,Male,1,Medium Human Development Index (HDI),40,216.0
+Number of Persons,PEA27C01,2024,2024,85 years and over,630,Male,1,Very High Human Development Index (HDI),50,1798.0
+Number of Persons,PEA27C01,2024,2024,85 years and over,630,Female,2,Human Development Index (HDI) - All ratings,10,2186.0
+Number of Persons,PEA27C01,2024,2024,85 years and over,630,Female,2,High Human Development Index (HDI),20,209.0
+Number of Persons,PEA27C01,2024,2024,85 years and over,630,Female,2,Low Human Development Index (HDI),30,59.0
+Number of Persons,PEA27C01,2024,2024,85 years and over,630,Female,2,Medium Human Development Index (HDI),40,168.0
+Number of Persons,PEA27C01,2024,2024,85 years and over,630,Female,2,Very High Human Development Index (HDI),50,1750.0

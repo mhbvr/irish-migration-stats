@@ -81,6 +81,15 @@ for s in 10 11 12 16 17 18 20 21 22 09 13 14; do .venv/bin/python scripts/${s}_*
 
 The findings are in [`REPORT.md`](REPORT.md).
 
+## Baseline for the 2026 naturalisation law changes
+
+[`NATURALISATION_BASELINE.md`](NATURALISATION_BASELINE.md) sets out which data
+can serve as a pre-change baseline for the Irish Nationality and Citizenship
+(Amendment) Bill 2026, provision by provision, with the current values and the
+gaps. Built by `scripts/40_fetch_naturalisation_baseline.py` and
+`scripts/41_build_naturalisation_baseline.py`; the indicators are in
+`data/processed/naturalisation_baseline/`.
+
 ## Literature on migration in Ireland (2023–2026)
 
 [`literature/LITERATURE_REVIEW.md`](literature/LITERATURE_REVIEW.md) reviews 296

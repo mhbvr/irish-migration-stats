@@ -1,0 +1,197 @@
+Statistic,Statistic_code,Year,Year_code,Nationality,Nationality_code,value
+Births Registered,VSAS80C01,2022,2022,EU14 excl Irl (countries in the EU pre 2004 excluding UK & Ireland),E1420XIE,1310.0
+Births Registered,VSAS80C01,2022,2022,EU15 to EU27 (accession countries joined post 2004),E15E2720,4795.0
+Births Registered,VSAS80C01,2022,2022,Irish,IE,43651.0
+Births Registered,VSAS80C01,2022,2022,Other nationalities (7),ON7,6688.0
+Births Registered,VSAS80C01,2022,2022,UK,GB,1091.0
+Births Registered,VSAS80C01,2022,2022,Not stated,ZZ98,5.0
+Births Registered,VSAS80C01,2022,2022,All nationalities,-,57540.0
+Births Registered,VSAS80C01,2023,2023,EU14 excl Irl (countries in the EU pre 2004 excluding UK & Ireland),E1420XIE,1301.0
+Births Registered,VSAS80C01,2023,2023,EU15 to EU27 (accession countries joined post 2004),E15E2720,4006.0
+Births Registered,VSAS80C01,2023,2023,Irish,IE,40552.0
+Births Registered,VSAS80C01,2023,2023,Other nationalities (7),ON7,7755.0
+Births Registered,VSAS80C01,2023,2023,UK,GB,1055.0
+Births Registered,VSAS80C01,2023,2023,Not stated,ZZ98,9.0
+Births Registered,VSAS80C01,2023,2023,All nationalities,-,54678.0
+Births Registered,VSAS80C01,2024,2024,EU14 excl Irl (countries in the EU pre 2004 excluding UK & Ireland),E1420XIE,1395.0
+Births Registered,VSAS80C01,2024,2024,EU15 to EU27 (accession countries joined post 2004),E15E2720,3790.0
+Births Registered,VSAS80C01,2024,2024,Irish,IE,39024.0
+Births Registered,VSAS80C01,2024,2024,Other nationalities (7),ON7,8663.0
+Births Registered,VSAS80C01,2024,2024,UK,GB,888.0
+Births Registered,VSAS80C01,2024,2024,Not stated,ZZ98,302.0
+Births Registered,VSAS80C01,2024,2024,All nationalities,-,54062.0
+Births Registered,VSAS80C01,2025,2025,EU14 excl Irl (countries in the EU pre 2004 excluding UK & Ireland),E1420XIE,1376.0
+Births Registered,VSAS80C01,2025,2025,EU15 to EU27 (accession countries joined post 2004),E15E2720,3291.0
+Births Registered,VSAS80C01,2025,2025,Irish,IE,37982.0
+Births Registered,VSAS80C01,2025,2025,Other nationalities (7),ON7,10030.0
+Births Registered,VSAS80C01,2025,2025,UK,GB,1009.0
+Births Registered,VSAS80C01,2025,2025,Not stated,ZZ98,437.0
+Births Registered,VSAS80C01,2025,2025,All nationalities,-,54125.0
+Births within Marriage,VSAS80C02,2022,2022,EU14 excl Irl (countries in the EU pre 2004 excluding UK & Ireland),E1420XIE,709.0
+Births within Marriage,VSAS80C02,2022,2022,EU15 to EU27 (accession countries joined post 2004),E15E2720,2435.0
+Births within Marriage,VSAS80C02,2022,2022,Irish,IE,23550.0
+Births within Marriage,VSAS80C02,2022,2022,Other nationalities (7),ON7,5521.0
+Births within Marriage,VSAS80C02,2022,2022,UK,GB,568.0
+Births within Marriage,VSAS80C02,2022,2022,Not stated,ZZ98,3.0
+Births within Marriage,VSAS80C02,2022,2022,All nationalities,-,32786.0
+Births within Marriage,VSAS80C02,2023,2023,EU14 excl Irl (countries in the EU pre 2004 excluding UK & Ireland),E1420XIE,759.0
+Births within Marriage,VSAS80C02,2023,2023,EU15 to EU27 (accession countries joined post 2004),E15E2720,2125.0
+Births within Marriage,VSAS80C02,2023,2023,Irish,IE,22459.0
+Births within Marriage,VSAS80C02,2023,2023,Other nationalities (7),ON7,6466.0
+Births within Marriage,VSAS80C02,2023,2023,UK,GB,530.0
+Births within Marriage,VSAS80C02,2023,2023,Not stated,ZZ98,5.0
+Births within Marriage,VSAS80C02,2023,2023,All nationalities,-,32344.0
+Births within Marriage,VSAS80C02,2024,2024,EU14 excl Irl (countries in the EU pre 2004 excluding UK & Ireland),E1420XIE,850.0
+Births within Marriage,VSAS80C02,2024,2024,EU15 to EU27 (accession countries joined post 2004),E15E2720,1974.0
+Births within Marriage,VSAS80C02,2024,2024,Irish,IE,21422.0
+Births within Marriage,VSAS80C02,2024,2024,Other nationalities (7),ON7,7262.0
+Births within Marriage,VSAS80C02,2024,2024,UK,GB,452.0
+Births within Marriage,VSAS80C02,2024,2024,Not stated,ZZ98,231.0
+Births within Marriage,VSAS80C02,2024,2024,All nationalities,-,32191.0
+Births within Marriage,VSAS80C02,2025,2025,EU14 excl Irl (countries in the EU pre 2004 excluding UK & Ireland),E1420XIE,883.0
+Births within Marriage,VSAS80C02,2025,2025,EU15 to EU27 (accession countries joined post 2004),E15E2720,1697.0
+Births within Marriage,VSAS80C02,2025,2025,Irish,IE,20905.0
+Births within Marriage,VSAS80C02,2025,2025,Other nationalities (7),ON7,8519.0
+Births within Marriage,VSAS80C02,2025,2025,UK,GB,560.0
+Births within Marriage,VSAS80C02,2025,2025,Not stated,ZZ98,329.0
+Births within Marriage,VSAS80C02,2025,2025,All nationalities,-,32893.0
+Births outside Marriage,VSAS80C03,2022,2022,EU14 excl Irl (countries in the EU pre 2004 excluding UK & Ireland),E1420XIE,601.0
+Births outside Marriage,VSAS80C03,2022,2022,EU15 to EU27 (accession countries joined post 2004),E15E2720,2360.0
+Births outside Marriage,VSAS80C03,2022,2022,Irish,IE,20101.0
+Births outside Marriage,VSAS80C03,2022,2022,Other nationalities (7),ON7,1167.0
+Births outside Marriage,VSAS80C03,2022,2022,UK,GB,523.0
+Births outside Marriage,VSAS80C03,2022,2022,Not stated,ZZ98,2.0
+Births outside Marriage,VSAS80C03,2022,2022,All nationalities,-,24754.0
+Births outside Marriage,VSAS80C03,2023,2023,EU14 excl Irl (countries in the EU pre 2004 excluding UK & Ireland),E1420XIE,542.0
+Births outside Marriage,VSAS80C03,2023,2023,EU15 to EU27 (accession countries joined post 2004),E15E2720,1881.0
+Births outside Marriage,VSAS80C03,2023,2023,Irish,IE,18093.0
+Births outside Marriage,VSAS80C03,2023,2023,Other nationalities (7),ON7,1289.0
+Births outside Marriage,VSAS80C03,2023,2023,UK,GB,525.0
+Births outside Marriage,VSAS80C03,2023,2023,Not stated,ZZ98,4.0
+Births outside Marriage,VSAS80C03,2023,2023,All nationalities,-,22334.0
+Births outside Marriage,VSAS80C03,2024,2024,EU14 excl Irl (countries in the EU pre 2004 excluding UK & Ireland),E1420XIE,545.0
+Births outside Marriage,VSAS80C03,2024,2024,EU15 to EU27 (accession countries joined post 2004),E15E2720,1816.0
+Births outside Marriage,VSAS80C03,2024,2024,Irish,IE,17602.0
+Births outside Marriage,VSAS80C03,2024,2024,Other nationalities (7),ON7,1401.0
+Births outside Marriage,VSAS80C03,2024,2024,UK,GB,436.0
+Births outside Marriage,VSAS80C03,2024,2024,Not stated,ZZ98,71.0
+Births outside Marriage,VSAS80C03,2024,2024,All nationalities,-,21871.0
+Births outside Marriage,VSAS80C03,2025,2025,EU14 excl Irl (countries in the EU pre 2004 excluding UK & Ireland),E1420XIE,493.0
+Births outside Marriage,VSAS80C03,2025,2025,EU15 to EU27 (accession countries joined post 2004),E15E2720,1594.0
+Births outside Marriage,VSAS80C03,2025,2025,Irish,IE,17077.0
+Births outside Marriage,VSAS80C03,2025,2025,Other nationalities (7),ON7,1511.0
+Births outside Marriage,VSAS80C03,2025,2025,UK,GB,449.0
+Births outside Marriage,VSAS80C03,2025,2025,Not stated,ZZ98,108.0
+Births outside Marriage,VSAS80C03,2025,2025,All nationalities,-,21232.0
+Percentage of all Births,VSAS80C04,2022,2022,EU14 excl Irl (countries in the EU pre 2004 excluding UK & Ireland),E1420XIE,2.3
+Percentage of all Births,VSAS80C04,2022,2022,EU15 to EU27 (accession countries joined post 2004),E15E2720,8.3
+Percentage of all Births,VSAS80C04,2022,2022,Irish,IE,75.9
+Percentage of all Births,VSAS80C04,2022,2022,Other nationalities (7),ON7,11.6
+Percentage of all Births,VSAS80C04,2022,2022,UK,GB,1.9
+Percentage of all Births,VSAS80C04,2022,2022,Not stated,ZZ98,0.0
+Percentage of all Births,VSAS80C04,2022,2022,All nationalities,-,100.0
+Percentage of all Births,VSAS80C04,2023,2023,EU14 excl Irl (countries in the EU pre 2004 excluding UK & Ireland),E1420XIE,2.4
+Percentage of all Births,VSAS80C04,2023,2023,EU15 to EU27 (accession countries joined post 2004),E15E2720,7.3
+Percentage of all Births,VSAS80C04,2023,2023,Irish,IE,74.2
+Percentage of all Births,VSAS80C04,2023,2023,Other nationalities (7),ON7,14.2
+Percentage of all Births,VSAS80C04,2023,2023,UK,GB,1.9
+Percentage of all Births,VSAS80C04,2023,2023,Not stated,ZZ98,0.0
+Percentage of all Births,VSAS80C04,2023,2023,All nationalities,-,100.0
+Percentage of all Births,VSAS80C04,2024,2024,EU14 excl Irl (countries in the EU pre 2004 excluding UK & Ireland),E1420XIE,2.6
+Percentage of all Births,VSAS80C04,2024,2024,EU15 to EU27 (accession countries joined post 2004),E15E2720,7.0
+Percentage of all Births,VSAS80C04,2024,2024,Irish,IE,72.2
+Percentage of all Births,VSAS80C04,2024,2024,Other nationalities (7),ON7,16.0
+Percentage of all Births,VSAS80C04,2024,2024,UK,GB,1.6
+Percentage of all Births,VSAS80C04,2024,2024,Not stated,ZZ98,0.6
+Percentage of all Births,VSAS80C04,2024,2024,All nationalities,-,100.0
+Percentage of all Births,VSAS80C04,2025,2025,EU14 excl Irl (countries in the EU pre 2004 excluding UK & Ireland),E1420XIE,2.5
+Percentage of all Births,VSAS80C04,2025,2025,EU15 to EU27 (accession countries joined post 2004),E15E2720,6.1
+Percentage of all Births,VSAS80C04,2025,2025,Irish,IE,70.2
+Percentage of all Births,VSAS80C04,2025,2025,Other nationalities (7),ON7,18.5
+Percentage of all Births,VSAS80C04,2025,2025,UK,GB,1.9
+Percentage of all Births,VSAS80C04,2025,2025,Not stated,ZZ98,0.8
+Percentage of all Births,VSAS80C04,2025,2025,All nationalities,-,100.0
+Percentage of Births within Marriage,VSAS80C05,2022,2022,EU14 excl Irl (countries in the EU pre 2004 excluding UK & Ireland),E1420XIE,54.1
+Percentage of Births within Marriage,VSAS80C05,2022,2022,EU15 to EU27 (accession countries joined post 2004),E15E2720,50.8
+Percentage of Births within Marriage,VSAS80C05,2022,2022,Irish,IE,54.0
+Percentage of Births within Marriage,VSAS80C05,2022,2022,Other nationalities (7),ON7,82.6
+Percentage of Births within Marriage,VSAS80C05,2022,2022,UK,GB,52.1
+Percentage of Births within Marriage,VSAS80C05,2022,2022,Not stated,ZZ98,60.0
+Percentage of Births within Marriage,VSAS80C05,2022,2022,All nationalities,-,57.0
+Percentage of Births within Marriage,VSAS80C05,2023,2023,EU14 excl Irl (countries in the EU pre 2004 excluding UK & Ireland),E1420XIE,58.3
+Percentage of Births within Marriage,VSAS80C05,2023,2023,EU15 to EU27 (accession countries joined post 2004),E15E2720,53.0
+Percentage of Births within Marriage,VSAS80C05,2023,2023,Irish,IE,55.4
+Percentage of Births within Marriage,VSAS80C05,2023,2023,Other nationalities (7),ON7,83.4
+Percentage of Births within Marriage,VSAS80C05,2023,2023,UK,GB,50.2
+Percentage of Births within Marriage,VSAS80C05,2023,2023,Not stated,ZZ98,55.6
+Percentage of Births within Marriage,VSAS80C05,2023,2023,All nationalities,-,59.2
+Percentage of Births within Marriage,VSAS80C05,2024,2024,EU14 excl Irl (countries in the EU pre 2004 excluding UK & Ireland),E1420XIE,60.9
+Percentage of Births within Marriage,VSAS80C05,2024,2024,EU15 to EU27 (accession countries joined post 2004),E15E2720,52.1
+Percentage of Births within Marriage,VSAS80C05,2024,2024,Irish,IE,54.9
+Percentage of Births within Marriage,VSAS80C05,2024,2024,Other nationalities (7),ON7,83.8
+Percentage of Births within Marriage,VSAS80C05,2024,2024,UK,GB,50.9
+Percentage of Births within Marriage,VSAS80C05,2024,2024,Not stated,ZZ98,76.5
+Percentage of Births within Marriage,VSAS80C05,2024,2024,All nationalities,-,59.5
+Percentage of Births within Marriage,VSAS80C05,2025,2025,EU14 excl Irl (countries in the EU pre 2004 excluding UK & Ireland),E1420XIE,64.2
+Percentage of Births within Marriage,VSAS80C05,2025,2025,EU15 to EU27 (accession countries joined post 2004),E15E2720,51.6
+Percentage of Births within Marriage,VSAS80C05,2025,2025,Irish,IE,55.0
+Percentage of Births within Marriage,VSAS80C05,2025,2025,Other nationalities (7),ON7,84.9
+Percentage of Births within Marriage,VSAS80C05,2025,2025,UK,GB,55.5
+Percentage of Births within Marriage,VSAS80C05,2025,2025,Not stated,ZZ98,75.3
+Percentage of Births within Marriage,VSAS80C05,2025,2025,All nationalities,-,60.8
+Percentage of Births outside Marriage,VSAS80C06,2022,2022,EU14 excl Irl (countries in the EU pre 2004 excluding UK & Ireland),E1420XIE,45.9
+Percentage of Births outside Marriage,VSAS80C06,2022,2022,EU15 to EU27 (accession countries joined post 2004),E15E2720,49.2
+Percentage of Births outside Marriage,VSAS80C06,2022,2022,Irish,IE,46.0
+Percentage of Births outside Marriage,VSAS80C06,2022,2022,Other nationalities (7),ON7,17.4
+Percentage of Births outside Marriage,VSAS80C06,2022,2022,UK,GB,47.9
+Percentage of Births outside Marriage,VSAS80C06,2022,2022,Not stated,ZZ98,40.0
+Percentage of Births outside Marriage,VSAS80C06,2022,2022,All nationalities,-,43.0
+Percentage of Births outside Marriage,VSAS80C06,2023,2023,EU14 excl Irl (countries in the EU pre 2004 excluding UK & Ireland),E1420XIE,41.7
+Percentage of Births outside Marriage,VSAS80C06,2023,2023,EU15 to EU27 (accession countries joined post 2004),E15E2720,47.0
+Percentage of Births outside Marriage,VSAS80C06,2023,2023,Irish,IE,44.6
+Percentage of Births outside Marriage,VSAS80C06,2023,2023,Other nationalities (7),ON7,16.6
+Percentage of Births outside Marriage,VSAS80C06,2023,2023,UK,GB,49.8
+Percentage of Births outside Marriage,VSAS80C06,2023,2023,Not stated,ZZ98,44.4
+Percentage of Births outside Marriage,VSAS80C06,2023,2023,All nationalities,-,40.8
+Percentage of Births outside Marriage,VSAS80C06,2024,2024,EU14 excl Irl (countries in the EU pre 2004 excluding UK & Ireland),E1420XIE,39.1
+Percentage of Births outside Marriage,VSAS80C06,2024,2024,EU15 to EU27 (accession countries joined post 2004),E15E2720,47.9
+Percentage of Births outside Marriage,VSAS80C06,2024,2024,Irish,IE,45.1
+Percentage of Births outside Marriage,VSAS80C06,2024,2024,Other nationalities (7),ON7,16.2
+Percentage of Births outside Marriage,VSAS80C06,2024,2024,UK,GB,49.1
+Percentage of Births outside Marriage,VSAS80C06,2024,2024,Not stated,ZZ98,23.5
+Percentage of Births outside Marriage,VSAS80C06,2024,2024,All nationalities,-,40.5
+Percentage of Births outside Marriage,VSAS80C06,2025,2025,EU14 excl Irl (countries in the EU pre 2004 excluding UK & Ireland),E1420XIE,35.8
+Percentage of Births outside Marriage,VSAS80C06,2025,2025,EU15 to EU27 (accession countries joined post 2004),E15E2720,48.4
+Percentage of Births outside Marriage,VSAS80C06,2025,2025,Irish,IE,45.0
+Percentage of Births outside Marriage,VSAS80C06,2025,2025,Other nationalities (7),ON7,15.1
+Percentage of Births outside Marriage,VSAS80C06,2025,2025,UK,GB,44.5
+Percentage of Births outside Marriage,VSAS80C06,2025,2025,Not stated,ZZ98,24.7
+Percentage of Births outside Marriage,VSAS80C06,2025,2025,All nationalities,-,39.2
+Average Age of Mother,VSAS80C07,2022,2022,EU14 excl Irl (countries in the EU pre 2004 excluding UK & Ireland),E1420XIE,34.4
+Average Age of Mother,VSAS80C07,2022,2022,EU15 to EU27 (accession countries joined post 2004),E15E2720,31.5
+Average Age of Mother,VSAS80C07,2022,2022,Irish,IE,33.5
+Average Age of Mother,VSAS80C07,2022,2022,Other nationalities (7),ON7,32.6
+Average Age of Mother,VSAS80C07,2022,2022,UK,GB,32.8
+Average Age of Mother,VSAS80C07,2022,2022,Not stated,ZZ98,33.7
+Average Age of Mother,VSAS80C07,2022,2022,All nationalities,-,33.2
+Average Age of Mother,VSAS80C07,2023,2023,EU14 excl Irl (countries in the EU pre 2004 excluding UK & Ireland),E1420XIE,34.5
+Average Age of Mother,VSAS80C07,2023,2023,EU15 to EU27 (accession countries joined post 2004),E15E2720,31.7
+Average Age of Mother,VSAS80C07,2023,2023,Irish,IE,33.5
+Average Age of Mother,VSAS80C07,2023,2023,Other nationalities (7),ON7,32.5
+Average Age of Mother,VSAS80C07,2023,2023,UK,GB,32.9
+Average Age of Mother,VSAS80C07,2023,2023,Not stated,ZZ98,33.4
+Average Age of Mother,VSAS80C07,2023,2023,All nationalities,-,33.2
+Average Age of Mother,VSAS80C07,2024,2024,EU14 excl Irl (countries in the EU pre 2004 excluding UK & Ireland),E1420XIE,34.7
+Average Age of Mother,VSAS80C07,2024,2024,EU15 to EU27 (accession countries joined post 2004),E15E2720,31.6
+Average Age of Mother,VSAS80C07,2024,2024,Irish,IE,33.6
+Average Age of Mother,VSAS80C07,2024,2024,Other nationalities (7),ON7,32.4
+Average Age of Mother,VSAS80C07,2024,2024,UK,GB,33.3
+Average Age of Mother,VSAS80C07,2024,2024,Not stated,ZZ98,34.0
+Average Age of Mother,VSAS80C07,2024,2024,All nationalities,-,33.3
+Average Age of Mother,VSAS80C07,2025,2025,EU14 excl Irl (countries in the EU pre 2004 excluding UK & Ireland),E1420XIE,34.5
+Average Age of Mother,VSAS80C07,2025,2025,EU15 to EU27 (accession countries joined post 2004),E15E2720,31.4
+Average Age of Mother,VSAS80C07,2025,2025,Irish,IE,33.6
+Average Age of Mother,VSAS80C07,2025,2025,Other nationalities (7),ON7,32.7
+Average Age of Mother,VSAS80C07,2025,2025,UK,GB,33.6
+Average Age of Mother,VSAS80C07,2025,2025,Not stated,ZZ98,33.6
+Average Age of Mother,VSAS80C07,2025,2025,All nationalities,-,33.3
