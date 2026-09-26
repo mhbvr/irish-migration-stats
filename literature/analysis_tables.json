@@ -1,0 +1,187 @@
+{
+ "n_included": 296,
+ "n_historical": 180,
+ "by_stage": {
+  "2 - broad": 257,
+  "1 - ESRI": 39
+ },
+ "by_year": {
+  "2023": 54,
+  "2024": 80,
+  "2025": 106,
+  "2026": 56
+ },
+ "by_primary_theme": {
+  "Asylum, international protection & reception": 75,
+  "Health, care & health workforce": 49,
+  "Education, children & young people": 37,
+  "Migrant communities, identity & family life": 25,
+  "Attitudes, racism, discrimination & far right": 24,
+  "Integration, housing, welfare & inclusion": 22,
+  "Labour market, work & permits": 18,
+  "Emigration, diaspora & return": 12,
+  "Migration policy, law & governance": 9,
+  "Language & multilingualism": 9,
+  "Naturalisation & citizenship": 8,
+  "Ukrainian temporary protection": 6,
+  "Population, flows & statistics": 1,
+  "Other": 1
+ },
+ "by_theme_any": {
+  "Migrant communities, identity & family life": 164,
+  "Education, children & young people": 114,
+  "Migration policy, law & governance": 111,
+  "Health, care & health workforce": 109,
+  "Integration, housing, welfare & inclusion": 107,
+  "Asylum, international protection & reception": 100,
+  "Attitudes, racism, discrimination & far right": 91,
+  "Population, flows & statistics": 63,
+  "Labour market, work & permits": 63,
+  "Language & multilingualism": 58,
+  "Emigration, diaspora & return": 33,
+  "Ukrainian temporary protection": 26,
+  "Naturalisation & citizenship": 17,
+  "Other": 1
+ },
+ "by_evidence": {
+  "Qualitative": 73,
+  "Quantitative": 65,
+  "Other / unclear": 58,
+  "Policy / legal / document analysis": 49,
+  "Mixed methods": 46,
+  "Review / overview": 5
+ },
+ "by_jurisdiction": {
+  "Ireland (State)": 223,
+  "Ireland (State); cross-national": 35,
+  "Northern Ireland": 19,
+  "NI and ROI/island": 14,
+  "NI and ROI/island; cross-national": 3,
+  "cross-national": 1,
+  "Northern Ireland; cross-national": 1
+ },
+ "by_type": {
+  "article": 226,
+  "book-chapter": 20,
+  "ESRI Research Series": 9,
+  "EMN Ireland Migration Memo": 9,
+  "preprint": 8,
+  "Journal Article": 7,
+  "ESRI Survey and Statistical Report Series": 4,
+  "Jointly-published Reports": 4,
+  "ESRI Research Bulletin": 2,
+  "book": 2,
+  "Book/Report Chapter": 2,
+  "ESRI Working Paper": 1
+ },
+ "by_data_source": {
+  "Interviews / focus groups": 71,
+  "Census (CSO/NISRA)": 13,
+  "Original survey": 9,
+  "Administrative / register data": 7,
+  "Growing Up in Ireland": 4,
+  "EU-SILC / SILC": 3,
+  "IPO / Department of Justice data": 3,
+  "Eurostat": 2,
+  "PISA / TIMSS": 2,
+  "European Social Survey": 2
+ },
+ "top_venues": {
+  "Irish Journal of Sociology": 11,
+  "ESRI (ESRI Research Series)": 9,
+  "ESRI (EMN Ireland Migration Memo)": 9,
+  "European Journal of Public Health": 8,
+  "ESRI (Journal Article)": 7,
+  "Irish Educational Studies": 5,
+  "Ethnic and Racial Studies": 5,
+  "The social science": 4,
+  "ESRI (ESRI Survey and Statistical Report Series)": 4,
+  "ESRI (Jointly-published Reports)": 4,
+  "Social Science & Medicine (1967)": 3,
+  "Comparative Migration Studies": 3,
+  "Research Square": 3,
+  "TEANGA the Journal of the Irish Association for Applied Linguistics": 3,
+  "International Journal of Integrated Care": 3
+ },
+ "theme_by_year": {
+  "Naturalisation & citizenship": {
+   "2023": 3,
+   "2024": 3,
+   "2025": 5,
+   "2026": 6
+  },
+  "Asylum, international protection & reception": {
+   "2023": 14,
+   "2024": 32,
+   "2025": 38,
+   "2026": 16
+  },
+  "Ukrainian temporary protection": {
+   "2024": 11,
+   "2025": 13,
+   "2026": 2
+  },
+  "Labour market, work & permits": {
+   "2023": 15,
+   "2024": 11,
+   "2025": 23,
+   "2026": 14
+  },
+  "Health, care & health workforce": {
+   "2023": 15,
+   "2024": 24,
+   "2025": 51,
+   "2026": 19
+  },
+  "Education, children & young people": {
+   "2023": 21,
+   "2024": 32,
+   "2025": 40,
+   "2026": 21
+  },
+  "Attitudes, racism, discrimination & far right": {
+   "2023": 14,
+   "2024": 30,
+   "2025": 26,
+   "2026": 21
+  },
+  "Integration, housing, welfare & inclusion": {
+   "2023": 21,
+   "2024": 24,
+   "2025": 40,
+   "2026": 22
+  },
+  "Emigration, diaspora & return": {
+   "2023": 5,
+   "2024": 9,
+   "2025": 14,
+   "2026": 5
+  },
+  "Language & multilingualism": {
+   "2023": 12,
+   "2024": 14,
+   "2025": 22,
+   "2026": 10
+  },
+  "Migration policy, law & governance": {
+   "2023": 22,
+   "2024": 26,
+   "2025": 43,
+   "2026": 20
+  },
+  "Migrant communities, identity & family life": {
+   "2023": 26,
+   "2024": 44,
+   "2025": 63,
+   "2026": 31
+  },
+  "Population, flows & statistics": {
+   "2023": 9,
+   "2024": 16,
+   "2025": 27,
+   "2026": 11
+  }
+ },
+ "open_full_text": 202,
+ "without_abstract": 44
+}

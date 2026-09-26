@@ -32,7 +32,8 @@ def norm_doi(d):
 # budget ran out). Duplicates are matched on DOI, then on normalised title; the
 # record with an abstract wins and the indexes that found it are all listed.
 INDEXES = [("OpenAlex", "openalex_raw.json"), ("SemanticScholar", "s2_raw.json"),
-           ("EuropePMC", "europepmc_raw.json")]
+           ("EuropePMC", "europepmc_raw.json"), ("Crossref", "crossref_raw.json"),
+           ("DOAJ", "doaj_raw.json")]
 works, by_key, present = [], {}, []
 for idx, fname in INDEXES:
     f = D / "broad" / fname
@@ -50,10 +51,24 @@ for idx, fname in INDEXES:
                 by_key[k] = w
         else:
             hit["found_by"] += w["found_by"]
-            for fld in ("abstract", "doi", "oa_url", "source", "institutions", "author_countries", "field", "domain"):
+            for fld in ("abstract", "abstract_source", "doi", "oa_url", "source", "publisher", "institutions",
+                        "author_countries", "field", "domain"):
                 if not hit.get(fld) and w.get(fld):
                     hit[fld] = w[fld]
 print(f"merged {len(works):,} distinct works from: {', '.join(present)}")
+
+# Abstracts recovered by script 36 (Semantic Scholar / Europe PMC, looked up by DOI)
+ac = D / "broad" / "abstract_cache.json"
+cache = json.loads(ac.read_text()) if ac.exists() else {}
+filled = 0
+for w in works:
+    if not w.get("abstract"):
+        hit = cache.get(norm_doi(w.get("doi")), {})
+        if hit.get("abstract"):
+            w["abstract"], w["abstract_source"] = hit["abstract"], hit["source"]; filled += 1
+    elif not w.get("abstract_source"):
+        w["abstract_source"] = w["found_by"][0].split(":")[0]
+print(f"abstracts filled from cache: {filled}; still without abstract: {sum(1 for w in works if not w.get('abstract'))}")
 
 
 esri_doi, esri_title = set(), set()
@@ -82,7 +97,8 @@ for w in works:
             "openalex_field": w["field"] or "", "openalex_domain": w["domain"] or "",
             "doi": doi, "url": key, "oa_url": w["oa_url"] or "", "is_oa": w["is_oa"],
             "cited_by": w["cited_by"], "language": w["language"] or "",
-            "found_by": "; ".join(w["found_by"]), "abstract": w["abstract"]}
+            "found_by": "; ".join(w["found_by"]), "abstract": w["abstract"],
+            "abstract_source": w.get("abstract_source", "")}
     also_esri = doi in esri_doi or norm_title(w["title"]) in esri_title
     if (w["date"] or "") < "2023-01-01":
         rows.append({**base, "status": "exclude", "reasons": "published before 2023"}); continue
@@ -106,9 +122,9 @@ for w in works:
     rows.append({**base, **a, "status": status, "reasons": "; ".join(x for x in why if x),
                  "also_in_esri_stage": also_esri})
 
-cols = ["status", "date", "title", "type", "source", "authors", "reasons", "migration_terms",
+cols = ["status", "date", "title", "type", "source", "publisher", "authors", "reasons", "strong_terms", "strong_mentions", "migration_terms",
         "ireland_terms", "empirical_signals", "jurisdiction", "era", "also_in_esri_stage",
-        "institutions", "author_countries", "openalex_field", "openalex_domain", "doi", "url",
+        "abstract_source", "institutions", "author_countries", "openalex_field", "openalex_domain", "doi", "url",
         "oa_url", "is_oa", "cited_by", "language", "found_by", "abstract"]
 rows.sort(key=lambda r: (r["status"] != "include", r["status"] != "review", r["date"] or ""), reverse=False)
 with open(D / "broad" / "broad_screened.csv", "w", newline="", encoding="utf-8") as fh:

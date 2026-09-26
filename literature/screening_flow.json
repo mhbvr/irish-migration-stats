@@ -1,0 +1,28 @@
+{
+ "stage1_candidates": 419,
+ "stage1_status": {
+  "exclude": 377,
+  "include": 42
+ },
+ "stage2_records_merged": 4928,
+ "stage2_status": {
+  "include": 275,
+  "exclude": 4473,
+  "historical": 180
+ },
+ "stage2_by_index_found": {
+  "DOAJ": 158,
+  "Crossref": 3835,
+  "SemanticScholar": 1165,
+  "EuropePMC": 133
+ },
+ "stage2_included_also_in_esri": 18,
+ "duplicates_removed_by_doi": [
+  "Inequality in participation in shadow education in mathematics in Europe: An int",
+  "How did migrant-origin young people in Ireland fare during the COVID-19 pandemic",
+  "Perceptions of migrant parental engagement in primary schools in Ireland"
+ ],
+ "dois_not_registered": [
+  "10.31857/s0201708324070179"
+ ]
+}

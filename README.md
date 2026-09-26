@@ -80,3 +80,29 @@ for s in 10 11 12 16 17 18 20 21 22 09 13 14; do .venv/bin/python scripts/${s}_*
 | `data/processed/sources_register.csv` | Every download: URL, time, SHA-256 |
 
 The findings are in [`REPORT.md`](REPORT.md).
+
+## Literature on migration in Ireland (2023–2026)
+
+[`literature/LITERATURE_REVIEW.md`](literature/LITERATURE_REVIEW.md) reviews 296
+academic and research-institute publications with data about Ireland, found in
+two stages: ESRI first (39), then Semantic Scholar, Crossref, DOAJ and Europe PMC
+(257 more). Every publication is listed with a link in
+[`literature/BIBLIOGRAPHY.md`](literature/BIBLIOGRAPHY.md); every hand-made
+screening decision is in `literature/manual_decisions.csv` with its reason.
+
+```bash
+.venv/bin/python scripts/30_fetch_esri_publications.py      # stage 1 candidates
+.venv/bin/python scripts/31_screen_esri.py                  # screen (downloads PDFs)
+.venv/bin/python scripts/34_fetch_s2_europepmc.py           # stage 2 indexes
+.venv/bin/python scripts/35_fetch_crossref_doaj.py
+.venv/bin/python scripts/36_enrich_abstracts.py             # fill missing abstracts
+.venv/bin/python literature/record_esri_decisions.py
+.venv/bin/python literature/record_broad_decisions.py
+.venv/bin/python scripts/33_screen_broad.py
+.venv/bin/python scripts/37_build_literature_catalogue.py   # catalogue + DOI check
+.venv/bin/python scripts/38_write_bibliography.py
+```
+
+OpenAlex (`scripts/32_fetch_openalex.py`) is wired in but was not used: its
+anonymous daily budget ran out. Set `OPENALEX_API_KEY` and re-run it, then the
+screening steps, to add it.

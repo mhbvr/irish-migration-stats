@@ -34,11 +34,19 @@ if mf.exists():
 
 
 def pdf_text(path, max_pages=80):
+    """Extracted text is cached beside the PDF (<name>.txt, first line = page
+    count) because pdfplumber takes ~30 s per long report."""
+    cache = pathlib.Path(str(path) + ".txt")
+    if cache.exists():
+        pages, _, text = cache.read_text(encoding="utf-8").partition("\n")
+        return text, int(pages or 0)
     try:
         with pdfplumber.open(path) as pdf:
-            return "\n".join((p.extract_text() or "") for p in pdf.pages[:max_pages]), len(pdf.pages)
+            text, pages = "\n".join((p.extract_text() or "") for p in pdf.pages[:max_pages]), len(pdf.pages)
     except Exception:                                           # noqa: BLE001
         return "", 0
+    cache.write_text(f"{pages}\n{text}", encoding="utf-8")
+    return text, pages
 
 
 rows = []
