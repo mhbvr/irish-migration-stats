@@ -7,3 +7,7 @@ logs_pq.txt
 data/raw/cso_collection.json
 data/raw/cso_index.tsv
 data/raw/dete_stats_page.html
+
+# Downloaded literature PDFs: re-fetchable, and each URL + SHA-256 is in data/raw/manifest.jsonl
+literature/esri/pdf/
+logs_*.txt
