@@ -81,6 +81,15 @@ for s in 10 11 12 16 17 18 20 21 22 09 13 14; do .venv/bin/python scripts/${s}_*
 
 The findings are in [`REPORT.md`](REPORT.md).
 
+## Evidence of migrants' contribution (against the 2026 changes)
+
+[`MIGRATION_CONTRIBUTION_EVIDENCE.md`](MIGRATION_CONTRIBUTION_EVIDENCE.md) sets
+out official statistics on what migrants contribute - employment, the health
+workforce, public finances, Ukrainian arrivals at work, English ability, births -
+organised against each change in the Bill, with the counter-arguments and their
+context. All 53 figures are in `data/processed/contribution/contribution_evidence.csv`
+with sources; built by `scripts/42_*` and `scripts/43_*`.
+
 ## Baseline for the 2026 naturalisation law changes
 
 [`NATURALISATION_BASELINE.md`](NATURALISATION_BASELINE.md) sets out which data

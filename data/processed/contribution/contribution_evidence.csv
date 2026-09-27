@@ -1,0 +1,54 @@
+section,claim,value,unit,source,source_url,note
+Work,"Employment rate, aged 15+ - Irish citizens",56.9,%,CSO LFS QLF48,https://data.cso.ie/table/QLF48,"2021Q2; 15+ includes retirees, so an older population lowers the rate"
+Work,"Labour force participation, aged 15+ - Irish citizens",61.3,%,CSO LFS QLF48,https://data.cso.ie/table/QLF48,2021Q2
+Work,"Employment rate, aged 15+ - non-Irish citizens",68.4,%,CSO LFS QLF48,https://data.cso.ie/table/QLF48,"2021Q2; 15+ includes retirees, so an older population lowers the rate"
+Work,"Labour force participation, aged 15+ - non-Irish citizens",74.6,%,CSO LFS QLF48,https://data.cso.ie/table/QLF48,2021Q2
+Work,"Employment rate, aged 15+ - non-EU/non-UK citizens",67.2,%,CSO LFS QLF48,https://data.cso.ie/table/QLF48,"2021Q2; 15+ includes retirees, so an older population lowers the rate"
+Work,"Labour force participation, aged 15+ - non-EU/non-UK citizens",74.0,%,CSO LFS QLF48,https://data.cso.ie/table/QLF48,2021Q2
+Work,"Employment rate, aged 15+ - Irish citizens",60.0,%,CSO LFS QLF48,https://data.cso.ie/table/QLF48,"2026Q2; 15+ includes retirees, so an older population lowers the rate"
+Work,"Labour force participation, aged 15+ - Irish citizens",63.0,%,CSO LFS QLF48,https://data.cso.ie/table/QLF48,2026Q2
+Work,"Employment rate, aged 15+ - non-Irish citizens",74.4,%,CSO LFS QLF48,https://data.cso.ie/table/QLF48,"2026Q2; 15+ includes retirees, so an older population lowers the rate"
+Work,"Labour force participation, aged 15+ - non-Irish citizens",79.3,%,CSO LFS QLF48,https://data.cso.ie/table/QLF48,2026Q2
+Work,"Employment rate, aged 15+ - non-EU/non-UK citizens",73.7,%,CSO LFS QLF48,https://data.cso.ie/table/QLF48,"2026Q2; 15+ includes retirees, so an older population lowers the rate"
+Work,"Labour force participation, aged 15+ - non-EU/non-UK citizens",79.9,%,CSO LFS QLF48,https://data.cso.ie/table/QLF48,2026Q2
+Work,"Employment growth 2021Q2-2026Q2, all",457100,jobs,CSO LFS QLF59,https://data.cso.ie/table/QLF59,
+Work,Share of that growth taken by non-Irish citizens,47,%,CSO LFS QLF59,https://data.cso.ie/table/QLF59,"+215,900 of +457,100; naturalised migrants count as Irish, so this understates migrants"
+Work,Share of that growth taken by non-EU/non-UK citizens,35,%,CSO LFS QLF59,https://data.cso.ie/table/QLF59,
+Work,Non-Irish share of all employment,21.5,%,CSO LFS QLF59,https://data.cso.ie/table/QLF59,2026Q2; 16.6% in 2021Q2
+Work,Non-Irish share of employment - Human Health and Social Work Activities (R),25.0,%,CSO LFS QLF59,https://data.cso.ie/table/QLF59,"average of 4 quarters to 2026Q2; 97,175 people"
+Work,"Non-Irish share of employment - Information and Communication (J,K)",34.4,%,CSO LFS QLF59,https://data.cso.ie/table/QLF59,"average of 4 quarters to 2026Q2; 59,700 people"
+Work,Non-Irish share of employment - Accommodation and Food Service Activities (I),33.0,%,CSO LFS QLF59,https://data.cso.ie/table/QLF59,"average of 4 quarters to 2026Q2; 60,225 people"
+Work,Non-Irish share of employment - Industry (B-E),24.7,%,CSO LFS QLF59,https://data.cso.ie/table/QLF59,"average of 4 quarters to 2026Q2; 87,375 people"
+Work,Non-Irish share of employment - Construction (F),20.6,%,CSO LFS QLF59,https://data.cso.ie/table/QLF59,"average of 4 quarters to 2026Q2; 38,525 people"
+Health service,"Doctors whose basic medical qualification is from outside Ireland, the EU and the UK",27.8,%,"Medical Council, Workforce Intelligence Report 2024",https://www.medicalcouncil.ie/news-and-publications/reports/medical-workforce-intelligence-report-2024.pdf,"5,830 doctors; a further 13.8% qualified in the EU/UK"
+Health service,Doctors qualified outside Ireland (EU/UK + rest of world),41.6,%,"Medical Council, Workforce Intelligence Report 2024",https://www.medicalcouncil.ie/news-and-publications/reports/medical-workforce-intelligence-report-2024.pdf,
+Health service,Doctors in the General Division with non-EU/UK qualifications,58.7,%,"Medical Council, Workforce Intelligence Report 2024",https://www.medicalcouncil.ie/news-and-publications/reports/medical-workforce-intelligence-report-2024.pdf,
+Health service,Non-training-scheme junior hospital doctors (NCHDs) with non-EU/UK qualifications,66.6,%,"Medical Council, Workforce Intelligence Report 2024",https://www.medicalcouncil.ie/news-and-publications/reports/medical-workforce-intelligence-report-2024.pdf,"n = 3,174"
+Health service,"New nurse/midwife registrants educated outside the EU, 2024",5426,registrants,NMBI State of the Register 2024,https://www.nmbi.ie/NMBI/media/NMBI/NMBI-State-of-the-Register-2024.pdf?ext=.pdf,"76% of 7,120 new registrants; up from 3,021 in 2022"
+Health service,"New nurse/midwife registrants educated in Ireland, 2024",1569,registrants,NMBI State of the Register 2024,https://www.nmbi.ie/NMBI/media/NMBI/NMBI-State-of-the-Register-2024.pdf?ext=.pdf,
+Health service,Nurses and midwives on the Register educated outside Ireland,30146,people,NMBI State of the Register 2024,https://www.nmbi.ie/NMBI/media/NMBI/NMBI-State-of-the-Register-2024.pdf?ext=.pdf,"35.8% of 84,213; India 18,464, Philippines 7,040"
+Health service,"Critical Skills Employment Permits issued to nurses, 2024",5031,permits,"Dept of Enterprise, via PQ attachment",https://www.oireachtas.ie/en/debates/question/2025-03-26/56/,29.3% of all Critical Skills permits
+Skills and integration,"Third-level educated, aged 25-34 - foreign-born",70,%,ESRI Monitoring Report on Integration 2024,https://doi.org/10.26504/jr11,Irish-born: 58%; 2021-2023
+Skills and integration,Unemployment among migrants of African origin (down from persistently high 2009-2019),6,%,ESRI Monitoring Report on Integration 2024,https://doi.org/10.26504/jr11,
+Skills and integration,"Annual citizenship acquisition rate, non-EEA residents, since 2021",4,%,ESRI Monitoring Report on Integration 2024,https://doi.org/10.26504/jr11,
+Skills and integration,Share of non-EEA migrants (arrived since 2005) who have acquired Irish citizenship,30,%,ESRI Monitoring Report on Integration 2024,https://doi.org/10.26504/jr11,estimate
+Skills and integration,"Naturalisation refusals as a share of decisions, 2024",0.6,%,"Parliamentary answers (PQ 891, 16 Sep 2026; PQ 768, 12 Nov 2025)",https://www.oireachtas.ie/en/debates/question/2026-09-16/891/,"187 refusals against more than 31,000 decisions - applicants already meet the current criteria"
+Skills and integration,Speak English well or very well (speakers of another language at home) - All citizenships,87.3,%,CSO F5015 (Census 2022),https://data.cso.ie/table/F5015,the remainder speak it 'not well' or 'not at all'
+Skills and integration,Speak English well or very well (speakers of another language at home) - India,95.0,%,CSO F5015 (Census 2022),https://data.cso.ie/table/F5015,the remainder speak it 'not well' or 'not at all'
+Skills and integration,Speak English well or very well (speakers of another language at home) - Africa(1),92.6,%,CSO F5015 (Census 2022),https://data.cso.ie/table/F5015,the remainder speak it 'not well' or 'not at all'
+Welfare and public finances,"Immigrants had higher employment rates than the Irish-born, 2014-2024",yes,,ESRI RS229,https://doi.org/10.26504/rs229,
+Welfare and public finances,"Receiving an unemployment payment, 2014-2024 pooled - born in Asia",12,%,ESRI RS229,https://doi.org/10.26504/rs229,Irish-born 16%; EU West 13%; EU East and Africa 21%
+Welfare and public finances,"Immigrants' individual net fiscal contribution, Ireland, 2006-2018",1.57,% of GDP,"OECD International Migration Outlook 2021, as summarised by ESRI (2026)",https://doi.org/10.26504/sustat141,OECD finds migrants' fiscal impact neutral on average across countries
+Welfare and public finances,"The same, after charging immigrants their share of congestible public goods",0.62,% of GDP,"OECD International Migration Outlook 2021, as summarised by ESRI (2026)",https://doi.org/10.26504/sustat141,
+Welfare and public finances,Fiscal ratio: foreign-born residents contributed more than they received by,52,%,"OECD International Migration Outlook 2021, as summarised by ESRI (2026)",https://doi.org/10.26504/sustat141,Irish-born: 14%
+Ukrainian arrivals,Active jobs held by arrivals from Ukraine,12963,jobs,CSO UA29 (Revenue data),https://data.cso.ie/table/UA29,2023 May 15
+Ukrainian arrivals,Active jobs held by arrivals from Ukraine,32595,jobs,CSO UA29 (Revenue data),https://data.cso.ie/table/UA29,2026 August 10
+Ukrainian arrivals,Arrivals from Ukraine who have had a job in Ireland,45650,people,CSO UA29 (Revenue data),https://data.cso.ie/table/UA29,2026 August 10
+Ukrainian arrivals,Income support recipients among arrivals from Ukraine - peak,38763,people,CSO UA30,https://data.cso.ie/table/UA30,2024 February 01
+Ukrainian arrivals,Income support recipients among arrivals from Ukraine - latest,26888,people,CSO UA30,https://data.cso.ie/table/UA30,2026 August 27
+Births,"Births to Irish mothers, 2022 -> 2025","43,651 -> 37,982",births,CSO VSAS80,https://data.cso.ie/table/VSAS80,-13% change; 2025 provisional
+Births,"Births to mothers from outside the EU and UK, 2022 -> 2025","6,688 -> 10,030",births,CSO VSAS80,https://data.cso.ie/table/VSAS80,50% change; 2025 provisional
+Public opinion,Adults who feel positive about immigration,over 73,%,"ESRI, Attitudes towards immigration and refugees in Ireland (2024)",https://doi.org/10.26504/jr5,attitudes softened between June and November 2023
+Public opinion,Public's average guess of the share born abroad,28,%,ESRI RS225 (2026),https://doi.org/10.26504/rs225,official estimate 19-22%
+EU context,Germany lowered its naturalisation residence requirement from 8 to 5 years (2024),8 -> 5,years,European Parliament Research Service (2025),https://www.europarl.europa.eu/RegData/etudes/BRIE/2025/769502/EPRS_BRI%282025%29769502_EN.pdf,
+EU context,Minimum residence for ordinary naturalisation across the EU,3-10,years,European Parliament Research Service (2025),https://www.europarl.europa.eu/RegData/etudes/BRIE/2025/769502/EPRS_BRI%282025%29769502_EN.pdf,
