@@ -11,6 +11,33 @@ URL, retrieval time and SHA-256 are recorded in
 
 **Collected 12 September 2026.** 140 source files, 85.7 MB, no failed downloads.
 
+## Website
+
+The data catalogue is published as a website on GitHub Pages at
+<https://mhbvr.github.io/irish-migration-stats/>. It is built from this
+repository, so nothing lives anywhere else: it has every dataset grouped by
+topic, with downloads, columns and previews, plus the reports and a searchable
+list of the research literature.
+
+- `site/catalog.json`: the topics, and a title, description and source for each dataset
+- `site/assets/`: stylesheet and script
+- `scripts/50_build_site.py`: builds the site into `_site/`, working out rows, columns,
+  years and previews from the files themselves
+- `.github/workflows/pages.yml`: rebuilds and publishes the site on every push to `main`
+  (pull requests only build it, which checks it)
+
+To add a new data file, add an entry for it to `site/catalog.json`. The build
+fails with `--strict` if a CSV or JSON file in `data/processed/` or `literature/`
+is missing from the catalogue. To preview locally:
+
+```bash
+.venv/bin/pip install markdown
+.venv/bin/python scripts/50_build_site.py && python3 -m http.server -d _site 8000
+```
+
+One-time setup: in the repository's **Settings → Pages**, set **Source** to
+**GitHub Actions**.
+
 ## Sources
 
 Only official publishers: the Central Statistics Office, the Department of
