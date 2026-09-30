@@ -16,11 +16,14 @@ URL, retrieval time and SHA-256 are recorded in
 The data is published as a website on GitHub Pages at
 <https://mhbvr.github.io/irish-migration-stats/>, built from this repository.
 It has one tab per source (parliamentary questions, CSO, Department of Justice,
-DETE, Eurostat, research articles); each dataset has a page showing its rows,
-with a download link.
+DETE, Eurostat, research articles). Each dataset has a page with a viewer that
+loads the whole file in the browser, with search, a drop-down filter per column,
+sorting, paging and a download of the filtered rows. The parliamentary question
+index is split into subject groups (a `split` entry in the catalogue), and each
+answer that contains statistics has its own page.
 
 - `site/catalog.json`: the sources, and a title and description for each data file
-- `site/assets/`: stylesheet and script
+- `site/assets/`: stylesheet, `viewer.js` (the data viewer) and `site.js`
 - `scripts/50_build_site.py`: builds the site into `_site/`
 - `.github/workflows/pages.yml`: rebuilds and publishes the site on every push to `main`
 

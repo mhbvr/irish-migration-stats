@@ -32,19 +32,130 @@
       "url": "https://www.oireachtas.ie/en/debates/questions/",
       "summary": "Questions to Ministers and their answers, 2016–2026, and the statistics in the spreadsheets attached to them.",
       "datasets": [
-        {"path": "data/processed/oireachtas_pq_index.csv", "title": "All migration questions", "description": "25,016 migration-related parliamentary questions: date, topic, who asked, which department answered, and a link to each."},
-        {"path": "data/processed/pq_curated_series.csv", "title": "Annual figures stated in answers", "description": "Naturalisation, processing times, deportation orders, protection appeals and more, each value linked to the answer that gives it."},
-        {"path": "data/processed/naturalisation_by_nationality.csv", "title": "Naturalisation certificates by nationality", "description": "Certificates of naturalisation issued by nationality, 2016–2025, from spreadsheets attached to answers."},
-        {"path": "data/processed/naturalisation_by_route.csv", "title": "Naturalisation certificates by route", "description": "Certificates issued by route (standard adult, s.15 residency, protection, minors), 2016–2025."},
-        {"path": "data/processed/protection_and_enforcement_from_pq_attachments.csv", "title": "International protection decisions and enforcement", "description": "First-instance and appeal decisions, grant rates, deportations and removals, from documents attached to answers."},
-        {"path": "data/processed/employment_permits_by_type_annual.csv", "title": "Employment permits by permit type", "description": "Permits issued by type (Critical Skills, General and others), 2020–2025."},
-        {"path": "data/processed/employment_permits_by_type_nationality.csv", "title": "Employment permits by type and nationality", "description": "Permits issued by permit type, nationality and year."},
-        {"path": "data/processed/employment_permits_by_type_sector.csv", "title": "Employment permits by type and sector", "description": "Permits issued by permit type, economic sector and year."},
-        {"path": "data/processed/employment_permits_by_type_occupation.csv", "title": "Critical Skills permits by occupation, 2024", "description": "Critical Skills Employment Permits issued in 2024 by occupation."},
-        {"path": "data/processed/employment_permits_by_type_from_pq_text.csv", "title": "Permit figures stated in answers", "description": "Permit counts taken from the text of Ministers' answers."},
-        {"path": "data/processed/pq_extracted_tables.csv", "title": "Tables in answers", "description": "Year and value tables taken from the text of answers that contain statistics."},
-        {"path": "data/processed/pq_attachments_index.csv", "title": "Documents attached to answers", "description": "All 111 spreadsheets and documents attached to answers, with a summary and links."},
-        {"path": "data/processed/oireachtas_pq_statistical_answers.json", "title": "Full text of answers with statistics", "description": "400 questions and answers that contain statistics, in full."}
+        {
+          "path": "data/processed/oireachtas_pq_index.csv",
+          "title": "Questions: {group}",
+          "description": "Migration-related parliamentary questions on {group_lower}, 2016–2026, with who asked, which department answered and a link to each answer.",
+          "split": {
+            "column": "topic",
+            "groups": [
+              {
+                "title": "Deportation and removals",
+                "pattern": "deport|removal|repatriat"
+              },
+              {
+                "title": "Ukraine",
+                "pattern": "ukrain"
+              },
+              {
+                "title": "Emigrants and the Irish abroad",
+                "pattern": "emigra|undocumented irish|diaspora|foreign birth|irish abroad"
+              },
+              {
+                "title": "Citizenship and naturalisation",
+                "pattern": "citizenship|naturali[sz]|passport"
+              },
+              {
+                "title": "Visas",
+                "pattern": "visa"
+              },
+              {
+                "title": "Employment permits",
+                "pattern": "work permit|employment permit|critical skills"
+              },
+              {
+                "title": "International protection and asylum",
+                "pattern": "international protection|asylum|refugee|direct provision|ipas|reception|resettlement|unaccompanied|separated children"
+              },
+              {
+                "title": "Residence, immigration and family reunification",
+                "pattern": "residen|immigra|migra|family reunification|stamp|leave to remain"
+              },
+              {
+                "title": "Policing, courts and prisons",
+                "pattern": "garda|prison|court|crime|legal aid|violence|offence|sentenc|\\bpolicing\\b|security|trafficking|closed-circuit|cctv|family law|community safety|judicia"
+              },
+              {
+                "title": "Housing, schools and accommodation",
+                "pattern": "accommodation|housing|school|homeless"
+              },
+              {
+                "title": "Departmental administration",
+                "pattern": "department|cabinet|legislat|programme for government"
+              },
+              {
+                "title": "Other topics",
+                "pattern": ""
+              }
+            ]
+          }
+        },
+        {
+          "path": "data/processed/oireachtas_pq_index.csv",
+          "title": "All questions (full index)",
+          "description": "All 25,016 migration-related parliamentary questions in one file."
+        },
+        {
+          "path": "data/processed/pq_curated_series.csv",
+          "title": "Annual figures stated in answers",
+          "description": "Naturalisation, processing times, deportation orders, protection appeals and more, each value linked to the answer that gives it."
+        },
+        {
+          "path": "data/processed/naturalisation_by_nationality.csv",
+          "title": "Naturalisation certificates by nationality",
+          "description": "Certificates of naturalisation issued by nationality, 2016–2025, from spreadsheets attached to answers."
+        },
+        {
+          "path": "data/processed/naturalisation_by_route.csv",
+          "title": "Naturalisation certificates by route",
+          "description": "Certificates issued by route (standard adult, s.15 residency, protection, minors), 2016–2025."
+        },
+        {
+          "path": "data/processed/protection_and_enforcement_from_pq_attachments.csv",
+          "title": "International protection decisions and enforcement",
+          "description": "First-instance and appeal decisions, grant rates, deportations and removals, from documents attached to answers."
+        },
+        {
+          "path": "data/processed/employment_permits_by_type_annual.csv",
+          "title": "Employment permits by permit type",
+          "description": "Permits issued by type (Critical Skills, General and others), 2020–2025."
+        },
+        {
+          "path": "data/processed/employment_permits_by_type_nationality.csv",
+          "title": "Employment permits by type and nationality",
+          "description": "Permits issued by permit type, nationality and year."
+        },
+        {
+          "path": "data/processed/employment_permits_by_type_sector.csv",
+          "title": "Employment permits by type and sector",
+          "description": "Permits issued by permit type, economic sector and year."
+        },
+        {
+          "path": "data/processed/employment_permits_by_type_occupation.csv",
+          "title": "Critical Skills permits by occupation, 2024",
+          "description": "Critical Skills Employment Permits issued in 2024 by occupation."
+        },
+        {
+          "path": "data/processed/employment_permits_by_type_from_pq_text.csv",
+          "title": "Permit figures stated in answers",
+          "description": "Permit counts taken from the text of Ministers' answers."
+        },
+        {
+          "path": "data/processed/pq_extracted_tables.csv",
+          "title": "Tables in answers",
+          "description": "Year and value tables taken from the text of answers that contain statistics."
+        },
+        {
+          "path": "data/processed/pq_attachments_index.csv",
+          "title": "Documents attached to answers",
+          "description": "All 111 spreadsheets and documents attached to answers, with a summary and links."
+        },
+        {
+          "path": "data/processed/oireachtas_pq_statistical_answers.json",
+          "title": "Answers with statistics",
+          "description": "400 answers that contain statistics. Each has its own page with the question, the answer and any tables taken from it.",
+          "answer_pages": true
+        }
       ]
     },
     {
@@ -54,29 +165,165 @@
       "url": "https://data.cso.ie/",
       "summary": "Migration estimates, protection applicants, PPSN allocations, the labour force, Census 2022 and Ukrainian arrivals.",
       "datasets": [
-        {"path": "data/processed/cso_PEA03.csv", "title": "PEA03: Migration by age and sex", "description": "Immigrants and emigrants (thousands, year to April) by age group and sex, 1987–2026.", "source_url": "https://data.cso.ie/table/PEA03"},
-        {"path": "data/processed/cso_PEA18.csv", "title": "PEA18: Migration by country of origin and destination", "description": "Immigrants by origin and emigrants by destination (thousands), 1987–2026.", "source_url": "https://data.cso.ie/table/PEA18"},
-        {"path": "data/processed/cso_PEA24.csv", "title": "PEA24: Immigration by citizenship", "description": "Immigrants (thousands) by citizenship and sex, 1996–2026.", "source_url": "https://data.cso.ie/table/PEA24"},
-        {"path": "data/processed/cso_PEA23.csv", "title": "PEA23: Emigration by citizenship", "description": "Emigrants (thousands) by citizenship and sex, 2006–2026.", "source_url": "https://data.cso.ie/table/PEA23"},
-        {"path": "data/processed/cso_PEA27.csv", "title": "PEA27: Residents with non-EU/EFTA citizenship", "description": "Persons with citizenship outside the EU, EFTA and candidate countries, by age, sex and Human Development Index rating.", "source_url": "https://data.cso.ie/table/PEA27"},
-        {"path": "data/processed/cso_MEASQ01.csv", "title": "MEASQ01: Quarterly migration flows by age and nationality", "description": "Experimental estimates from administrative data, 2022Q3–2024Q2.", "source_url": "https://data.cso.ie/table/MEASQ01"},
-        {"path": "data/processed/cso_MEASQ02.csv", "title": "MEASQ02: Quarterly migration flows by sex and nationality", "description": "Experimental estimates from administrative data, 2022Q3–2024Q2.", "source_url": "https://data.cso.ie/table/MEASQ02"},
-        {"path": "data/processed/cso_MEASQ03.csv", "title": "MEASQ03: Quarterly migration flows by sex and age", "description": "Experimental estimates from administrative data, 2022Q3–2024Q2.", "source_url": "https://data.cso.ie/table/MEASQ03"},
-        {"path": "data/processed/cso_IAIP01.csv", "title": "IAIP01: Protection applicants by age and sex", "description": "International protection applicants in administrative data, by year, sex and age group.", "source_url": "https://data.cso.ie/table/IAIP01"},
-        {"path": "data/processed/cso_IAIP02.csv", "title": "IAIP02: Protection applicants by nationality", "description": "International protection applicants by nationality and year.", "source_url": "https://data.cso.ie/table/IAIP02"},
-        {"path": "data/processed/cso_IAIP11.csv", "title": "IAIP11: Protection applicants by nationality and sex", "description": "International protection applicants by nationality and sex, 2022 onward.", "source_url": "https://data.cso.ie/table/IAIP11"},
-        {"path": "data/processed/cso_IAIP12.csv", "title": "IAIP12: Protection applicants by nationality and age", "description": "International protection applicants by nationality and age group, 2022 onward.", "source_url": "https://data.cso.ie/table/IAIP12"},
-        {"path": "data/processed/cso_FNA06.csv", "title": "FNA06: PPSN allocations to foreign nationals by age", "description": "PPSNs issued to foreign nationals by age, nationality group and sex, 2002–2018.", "source_url": "https://data.cso.ie/table/FNA06"},
-        {"path": "data/processed/cso_FNA10.csv", "title": "FNA10: PPSN allocations to foreign nationals by country", "description": "PPSNs issued to foreign nationals by country, 2002–2018.", "source_url": "https://data.cso.ie/table/FNA10"},
-        {"path": "data/processed/contribution/cso_QLF48.csv", "title": "QLF48: Labour force status by citizenship", "description": "Persons aged 15+ by economic status and citizenship, quarterly.", "source_url": "https://data.cso.ie/table/QLF48"},
-        {"path": "data/processed/contribution/cso_QLF59.csv", "title": "QLF59: Employment by sector and citizenship", "description": "Persons in employment by economic sector and citizenship, quarterly.", "source_url": "https://data.cso.ie/table/QLF59"},
-        {"path": "data/processed/contribution/cso_UA29.csv", "title": "UA29: Employees from Ukraine by county", "description": "Weekly count of employees who arrived from Ukraine, by county.", "source_url": "https://data.cso.ie/table/UA29"},
-        {"path": "data/processed/contribution/cso_UA20.csv", "title": "UA20: Employments of arrivals from Ukraine by sector", "description": "Employments of arrivals from Ukraine, by economic sector.", "source_url": "https://data.cso.ie/table/UA20"},
-        {"path": "data/processed/contribution/cso_UA30.csv", "title": "UA30: Arrivals from Ukraine on social welfare", "description": "Beneficiaries of social welfare payments among arrivals from Ukraine, by payment type.", "source_url": "https://data.cso.ie/table/UA30"},
-        {"path": "data/processed/naturalisation_baseline/cso_F5065.csv", "title": "F5065: Non-Irish citizens by citizenship (Census 2022)", "description": "Non-Irish citizens usually resident and present in the State, by citizenship and sex.", "source_url": "https://data.cso.ie/table/F5065"},
-        {"path": "data/processed/naturalisation_baseline/cso_F5015.csv", "title": "F5015: English ability by citizenship (Census 2022)", "description": "Speakers of a language other than Irish or English at home, by English ability and citizenship.", "source_url": "https://data.cso.ie/table/F5015"},
-        {"path": "data/processed/naturalisation_baseline/cso_VSAS80.csv", "title": "VSAS80: Births by nationality of mother", "description": "Births registered, by the mother's nationality group.", "source_url": "https://data.cso.ie/table/VSAS80"},
-        {"path": "data/processed/cso_tables_index.csv", "title": "List of CSO tables used", "description": "Each CSO table collected, with period, last update and links."}
+        {
+          "path": "data/processed/cso_PEA03.csv",
+          "title": "PEA03: Migration by age and sex",
+          "description": "Immigrants and emigrants (thousands, year to April) by age group and sex, 1987–2026.",
+          "source_url": "https://ws.cso.ie/public/api.restful/PxStat.Data.Cube_API.ReadDataset/PEA03/CSV/1.0/en",
+          "source_label": "original data from the CSO API"
+        },
+        {
+          "path": "data/processed/cso_PEA18.csv",
+          "title": "PEA18: Migration by country of origin and destination",
+          "description": "Immigrants by origin and emigrants by destination (thousands), 1987–2026.",
+          "source_url": "https://ws.cso.ie/public/api.restful/PxStat.Data.Cube_API.ReadDataset/PEA18/CSV/1.0/en",
+          "source_label": "original data from the CSO API"
+        },
+        {
+          "path": "data/processed/cso_PEA24.csv",
+          "title": "PEA24: Immigration by citizenship",
+          "description": "Immigrants (thousands) by citizenship and sex, 1996–2026.",
+          "source_url": "https://ws.cso.ie/public/api.restful/PxStat.Data.Cube_API.ReadDataset/PEA24/CSV/1.0/en",
+          "source_label": "original data from the CSO API"
+        },
+        {
+          "path": "data/processed/cso_PEA23.csv",
+          "title": "PEA23: Emigration by citizenship",
+          "description": "Emigrants (thousands) by citizenship and sex, 2006–2026.",
+          "source_url": "https://ws.cso.ie/public/api.restful/PxStat.Data.Cube_API.ReadDataset/PEA23/CSV/1.0/en",
+          "source_label": "original data from the CSO API"
+        },
+        {
+          "path": "data/processed/cso_PEA27.csv",
+          "title": "PEA27: Residents with non-EU/EFTA citizenship",
+          "description": "Persons with citizenship outside the EU, EFTA and candidate countries, by age, sex and Human Development Index rating.",
+          "source_url": "https://ws.cso.ie/public/api.restful/PxStat.Data.Cube_API.ReadDataset/PEA27/CSV/1.0/en",
+          "source_label": "original data from the CSO API"
+        },
+        {
+          "path": "data/processed/cso_MEASQ01.csv",
+          "title": "MEASQ01: Quarterly migration flows by age and nationality",
+          "description": "Experimental estimates from administrative data, 2022Q3–2024Q2.",
+          "source_url": "https://ws.cso.ie/public/api.restful/PxStat.Data.Cube_API.ReadDataset/MEASQ01/CSV/1.0/en",
+          "source_label": "original data from the CSO API"
+        },
+        {
+          "path": "data/processed/cso_MEASQ02.csv",
+          "title": "MEASQ02: Quarterly migration flows by sex and nationality",
+          "description": "Experimental estimates from administrative data, 2022Q3–2024Q2.",
+          "source_url": "https://ws.cso.ie/public/api.restful/PxStat.Data.Cube_API.ReadDataset/MEASQ02/CSV/1.0/en",
+          "source_label": "original data from the CSO API"
+        },
+        {
+          "path": "data/processed/cso_MEASQ03.csv",
+          "title": "MEASQ03: Quarterly migration flows by sex and age",
+          "description": "Experimental estimates from administrative data, 2022Q3–2024Q2.",
+          "source_url": "https://ws.cso.ie/public/api.restful/PxStat.Data.Cube_API.ReadDataset/MEASQ03/CSV/1.0/en",
+          "source_label": "original data from the CSO API"
+        },
+        {
+          "path": "data/processed/cso_IAIP01.csv",
+          "title": "IAIP01: Protection applicants by age and sex",
+          "description": "International protection applicants in administrative data, by year, sex and age group.",
+          "source_url": "https://ws.cso.ie/public/api.restful/PxStat.Data.Cube_API.ReadDataset/IAIP01/CSV/1.0/en",
+          "source_label": "original data from the CSO API"
+        },
+        {
+          "path": "data/processed/cso_IAIP02.csv",
+          "title": "IAIP02: Protection applicants by nationality",
+          "description": "International protection applicants by nationality and year.",
+          "source_url": "https://ws.cso.ie/public/api.restful/PxStat.Data.Cube_API.ReadDataset/IAIP02/CSV/1.0/en",
+          "source_label": "original data from the CSO API"
+        },
+        {
+          "path": "data/processed/cso_IAIP11.csv",
+          "title": "IAIP11: Protection applicants by nationality and sex",
+          "description": "International protection applicants by nationality and sex, 2022 onward.",
+          "source_url": "https://ws.cso.ie/public/api.restful/PxStat.Data.Cube_API.ReadDataset/IAIP11/CSV/1.0/en",
+          "source_label": "original data from the CSO API"
+        },
+        {
+          "path": "data/processed/cso_IAIP12.csv",
+          "title": "IAIP12: Protection applicants by nationality and age",
+          "description": "International protection applicants by nationality and age group, 2022 onward.",
+          "source_url": "https://ws.cso.ie/public/api.restful/PxStat.Data.Cube_API.ReadDataset/IAIP12/CSV/1.0/en",
+          "source_label": "original data from the CSO API"
+        },
+        {
+          "path": "data/processed/cso_FNA06.csv",
+          "title": "FNA06: PPSN allocations to foreign nationals by age",
+          "description": "PPSNs issued to foreign nationals by age, nationality group and sex, 2002–2018.",
+          "source_url": "https://ws.cso.ie/public/api.restful/PxStat.Data.Cube_API.ReadDataset/FNA06/CSV/1.0/en",
+          "source_label": "original data from the CSO API"
+        },
+        {
+          "path": "data/processed/cso_FNA10.csv",
+          "title": "FNA10: PPSN allocations to foreign nationals by country",
+          "description": "PPSNs issued to foreign nationals by country, 2002–2018.",
+          "source_url": "https://ws.cso.ie/public/api.restful/PxStat.Data.Cube_API.ReadDataset/FNA10/CSV/1.0/en",
+          "source_label": "original data from the CSO API"
+        },
+        {
+          "path": "data/processed/contribution/cso_QLF48.csv",
+          "title": "QLF48: Labour force status by citizenship",
+          "description": "Persons aged 15+ by economic status and citizenship, quarterly.",
+          "source_url": "https://ws.cso.ie/public/api.restful/PxStat.Data.Cube_API.ReadDataset/QLF48/CSV/1.0/en",
+          "source_label": "original data from the CSO API"
+        },
+        {
+          "path": "data/processed/contribution/cso_QLF59.csv",
+          "title": "QLF59: Employment by sector and citizenship",
+          "description": "Persons in employment by economic sector and citizenship, quarterly.",
+          "source_url": "https://ws.cso.ie/public/api.restful/PxStat.Data.Cube_API.ReadDataset/QLF59/CSV/1.0/en",
+          "source_label": "original data from the CSO API"
+        },
+        {
+          "path": "data/processed/contribution/cso_UA29.csv",
+          "title": "UA29: Employees from Ukraine by county",
+          "description": "Weekly count of employees who arrived from Ukraine, by county.",
+          "source_url": "https://ws.cso.ie/public/api.restful/PxStat.Data.Cube_API.ReadDataset/UA29/CSV/1.0/en",
+          "source_label": "original data from the CSO API"
+        },
+        {
+          "path": "data/processed/contribution/cso_UA20.csv",
+          "title": "UA20: Employments of arrivals from Ukraine by sector",
+          "description": "Employments of arrivals from Ukraine, by economic sector.",
+          "source_url": "https://ws.cso.ie/public/api.restful/PxStat.Data.Cube_API.ReadDataset/UA20/CSV/1.0/en",
+          "source_label": "original data from the CSO API"
+        },
+        {
+          "path": "data/processed/contribution/cso_UA30.csv",
+          "title": "UA30: Arrivals from Ukraine on social welfare",
+          "description": "Beneficiaries of social welfare payments among arrivals from Ukraine, by payment type.",
+          "source_url": "https://ws.cso.ie/public/api.restful/PxStat.Data.Cube_API.ReadDataset/UA30/CSV/1.0/en",
+          "source_label": "original data from the CSO API"
+        },
+        {
+          "path": "data/processed/naturalisation_baseline/cso_F5065.csv",
+          "title": "F5065: Non-Irish citizens by citizenship (Census 2022)",
+          "description": "Non-Irish citizens usually resident and present in the State, by citizenship and sex.",
+          "source_url": "https://ws.cso.ie/public/api.restful/PxStat.Data.Cube_API.ReadDataset/F5065/CSV/1.0/en",
+          "source_label": "original data from the CSO API"
+        },
+        {
+          "path": "data/processed/naturalisation_baseline/cso_F5015.csv",
+          "title": "F5015: English ability by citizenship (Census 2022)",
+          "description": "Speakers of a language other than Irish or English at home, by English ability and citizenship.",
+          "source_url": "https://ws.cso.ie/public/api.restful/PxStat.Data.Cube_API.ReadDataset/F5015/CSV/1.0/en",
+          "source_label": "original data from the CSO API"
+        },
+        {
+          "path": "data/processed/naturalisation_baseline/cso_VSAS80.csv",
+          "title": "VSAS80: Births by nationality of mother",
+          "description": "Births registered, by the mother's nationality group.",
+          "source_url": "https://ws.cso.ie/public/api.restful/PxStat.Data.Cube_API.ReadDataset/VSAS80/CSV/1.0/en",
+          "source_label": "original data from the CSO API"
+        },
+        {
+          "path": "data/processed/cso_tables_index.csv",
+          "title": "List of CSO tables used",
+          "description": "Each CSO table collected, with period, last update and links."
+        }
       ]
     },
     {
@@ -86,10 +333,26 @@
       "url": "https://data.gov.ie/organization/department-of-justice",
       "summary": "Visas, domestic residence permissions, EU Treaty Rights and family reunification: applications and decisions.",
       "datasets": [
-        {"path": "data/processed/justice_annual_totals.csv", "title": "Applications and decisions by year", "description": "Received, granted and refused each year, 2017–2026."},
-        {"path": "data/processed/justice_by_year_month.csv", "title": "Applications and decisions by month", "description": "Received, granted and refused by year and month."},
-        {"path": "data/processed/justice_by_nationality_year.csv", "title": "Applications and decisions by nationality", "description": "Received, granted and refused by nationality and year; small counts that were suppressed are flagged."},
-        {"path": "data/processed/datagov_justice_index.json", "title": "List of datasets downloaded", "description": "The data.gov.ie datasets collected, with their portal pages and download links."}
+        {
+          "path": "data/processed/justice_annual_totals.csv",
+          "title": "Applications and decisions by year",
+          "description": "Received, granted and refused each year, 2017–2026."
+        },
+        {
+          "path": "data/processed/justice_by_year_month.csv",
+          "title": "Applications and decisions by month",
+          "description": "Received, granted and refused by year and month."
+        },
+        {
+          "path": "data/processed/justice_by_nationality_year.csv",
+          "title": "Applications and decisions by nationality",
+          "description": "Received, granted and refused by nationality and year; small counts that were suppressed are flagged."
+        },
+        {
+          "path": "data/processed/datagov_justice_index.json",
+          "title": "List of datasets downloaded",
+          "description": "The data.gov.ie datasets collected, with their portal pages and download links."
+        }
       ]
     },
     {
@@ -99,8 +362,16 @@
       "url": "https://enterprise.gov.ie/en/what-we-do/workplace-and-skills/employment-permits/statistics/",
       "summary": "Employment permits issued, refused and withdrawn, 2015–2026, from the Department's yearly spreadsheets.",
       "datasets": [
-        {"path": "data/processed/employment_permits_annual_totals.csv", "title": "Employment permits by year", "description": "Issued (new and renewal), refused and withdrawn, 2015–2026."},
-        {"path": "data/processed/employment_permits_by_nationality.csv", "title": "Employment permits by nationality", "description": "Issued, new, renewals, refused and withdrawn, by nationality and year, 2015–2026."}
+        {
+          "path": "data/processed/employment_permits_annual_totals.csv",
+          "title": "Employment permits by year",
+          "description": "Issued (new and renewal), refused and withdrawn, 2015–2026."
+        },
+        {
+          "path": "data/processed/employment_permits_by_nationality.csv",
+          "title": "Employment permits by nationality",
+          "description": "Issued, new, renewals, refused and withdrawn, by nationality and year, 2015–2026."
+        }
       ]
     },
     {
@@ -110,13 +381,48 @@
       "url": "https://ec.europa.eu/eurostat/web/migration-asylum",
       "summary": "Figures Ireland reports to the EU: citizenship acquisitions, asylum applicants and residence permits.",
       "datasets": [
-        {"path": "data/processed/eurostat_migr_acq_IE.csv", "title": "Acquisitions of Irish citizenship (migr_acq)", "description": "By previous citizenship, age and sex.", "source_url": "https://ec.europa.eu/eurostat/databrowser/view/migr_acq/default/table?lang=en"},
-        {"path": "data/processed/naturalisation_baseline/eurostat_migr_acqs_IE.csv", "title": "Naturalisation rate, Ireland (migr_acqs)", "description": "Acquisitions as a share of the resident foreign population.", "source_url": "https://ec.europa.eu/eurostat/databrowser/view/migr_acqs/default/table?lang=en"},
-        {"path": "data/processed/naturalisation_baseline/eurostat_migr_acqs_all.csv", "title": "Naturalisation rate, all countries (migr_acqs)", "description": "Acquisitions as a share of the resident foreign population, every reporting country.", "source_url": "https://ec.europa.eu/eurostat/databrowser/view/migr_acqs/default/table?lang=en"},
-        {"path": "data/processed/eurostat_migr_asyappctza_IE.csv", "title": "Asylum applicants (migr_asyappctza)", "description": "Asylum and first-time applicants by citizenship, sex and age.", "source_url": "https://ec.europa.eu/eurostat/databrowser/view/migr_asyappctza/default/table?lang=en"},
-        {"path": "data/processed/eurostat_migr_resfirst_IE.csv", "title": "First residence permits (migr_resfirst)", "description": "By reason, citizenship and duration.", "source_url": "https://ec.europa.eu/eurostat/databrowser/view/migr_resfirst/default/table?lang=en"},
-        {"path": "data/processed/naturalisation_baseline/eurostat_migr_resvalid_IE.csv", "title": "Valid residence permits (migr_resvalid)", "description": "All valid permits at year end, by reason, duration and citizenship.", "source_url": "https://ec.europa.eu/eurostat/databrowser/view/migr_resvalid/default/table?lang=en"},
-        {"path": "data/processed/naturalisation_baseline/eurostat_migr_reslong_IE.csv", "title": "Long-term residents (migr_reslong)", "description": "By legal framework and citizenship.", "source_url": "https://ec.europa.eu/eurostat/databrowser/view/migr_reslong/default/table?lang=en"}
+        {
+          "path": "data/processed/eurostat_migr_acq_IE.csv",
+          "title": "Acquisitions of Irish citizenship (migr_acq)",
+          "description": "By previous citizenship, age and sex.",
+          "source_url": "https://ec.europa.eu/eurostat/databrowser/view/migr_acq/default/table?lang=en"
+        },
+        {
+          "path": "data/processed/naturalisation_baseline/eurostat_migr_acqs_IE.csv",
+          "title": "Naturalisation rate, Ireland (migr_acqs)",
+          "description": "Acquisitions as a share of the resident foreign population.",
+          "source_url": "https://ec.europa.eu/eurostat/databrowser/view/migr_acqs/default/table?lang=en"
+        },
+        {
+          "path": "data/processed/naturalisation_baseline/eurostat_migr_acqs_all.csv",
+          "title": "Naturalisation rate, all countries (migr_acqs)",
+          "description": "Acquisitions as a share of the resident foreign population, every reporting country.",
+          "source_url": "https://ec.europa.eu/eurostat/databrowser/view/migr_acqs/default/table?lang=en"
+        },
+        {
+          "path": "data/processed/eurostat_migr_asyappctza_IE.csv",
+          "title": "Asylum applicants (migr_asyappctza)",
+          "description": "Asylum and first-time applicants by citizenship, sex and age.",
+          "source_url": "https://ec.europa.eu/eurostat/databrowser/view/migr_asyappctza/default/table?lang=en"
+        },
+        {
+          "path": "data/processed/eurostat_migr_resfirst_IE.csv",
+          "title": "First residence permits (migr_resfirst)",
+          "description": "By reason, citizenship and duration.",
+          "source_url": "https://ec.europa.eu/eurostat/databrowser/view/migr_resfirst/default/table?lang=en"
+        },
+        {
+          "path": "data/processed/naturalisation_baseline/eurostat_migr_resvalid_IE.csv",
+          "title": "Valid residence permits (migr_resvalid)",
+          "description": "All valid permits at year end, by reason, duration and citizenship.",
+          "source_url": "https://ec.europa.eu/eurostat/databrowser/view/migr_resvalid/default/table?lang=en"
+        },
+        {
+          "path": "data/processed/naturalisation_baseline/eurostat_migr_reslong_IE.csv",
+          "title": "Long-term residents (migr_reslong)",
+          "description": "By legal framework and citizenship.",
+          "source_url": "https://ec.europa.eu/eurostat/databrowser/view/migr_reslong/default/table?lang=en"
+        }
       ]
     },
     {
@@ -127,11 +433,31 @@
       "summary": "296 academic and research-institute publications on migration in Ireland, 2023–2026.",
       "publications": "literature/catalogue.csv",
       "datasets": [
-        {"path": "literature/catalogue.csv", "title": "Publications, 2023–2026", "description": "The 296 publications with theme, evidence type, DOI, link and abstract."},
-        {"path": "literature/historical_appendix.csv", "title": "Publications about earlier periods", "description": "Publications found in the search that study earlier periods."},
-        {"path": "literature/esri/esri_screened.csv", "title": "ESRI publications screened", "description": "All ESRI publications checked, with whether each was included and why."},
-        {"path": "literature/broad/broad_screened.csv", "title": "Other publications screened", "description": "All records from the wider search, with whether each was included and why."},
-        {"path": "literature/manual_decisions.csv", "title": "Screening decisions", "description": "Each include or exclude decision made by hand, with its reason."}
+        {
+          "path": "literature/catalogue.csv",
+          "title": "Publications, 2023–2026",
+          "description": "The 296 publications with theme, evidence type, DOI, link and abstract."
+        },
+        {
+          "path": "literature/historical_appendix.csv",
+          "title": "Publications about earlier periods",
+          "description": "Publications found in the search that study earlier periods."
+        },
+        {
+          "path": "literature/esri/esri_screened.csv",
+          "title": "ESRI publications screened",
+          "description": "All ESRI publications checked, with whether each was included and why."
+        },
+        {
+          "path": "literature/broad/broad_screened.csv",
+          "title": "Other publications screened",
+          "description": "All records from the wider search, with whether each was included and why."
+        },
+        {
+          "path": "literature/manual_decisions.csv",
+          "title": "Screening decisions",
+          "description": "Each include or exclude decision made by hand, with its reason."
+        }
       ]
     }
   ]

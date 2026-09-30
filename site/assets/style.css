@@ -106,4 +106,22 @@ tbody tr:last-child > * { border-bottom: 0; }
 td.num { font-variant-numeric: tabular-nums; white-space: nowrap; }
 table.datasets td { padding: 10px; }
 .table-scroll.data { max-height: 75vh; }
-#data td { white-space: nowrap; max-width: 32em; overflow: hidden; text-overflow: ellipsis; font-variant-numeric: tabular-nums; }
+
+.v-controls { display: grid; grid-template-columns: repeat(auto-fill, minmax(190px, 1fr)); gap: 10px; margin: 16px 0 8px; }
+.v-controls label { display: flex; flex-direction: column; gap: 4px; font-size: 0.82rem; color: var(--muted); min-width: 0; }
+.v-controls .v-search { grid-column: 1 / -1; max-width: 28em; }
+.v-controls input, .v-controls select { width: 100%; font: inherit; font-size: 0.92rem; color: var(--text); background: var(--surface); border: 1px solid var(--line); border-radius: 8px; padding: 8px 10px; }
+.v-controls input:focus, .v-controls select:focus { outline: 2px solid var(--accent); outline-offset: 1px; }
+.v-fixed { color: var(--muted); }
+.v-fixed span { white-space: normal; }
+.v-bar { display: flex; flex-wrap: wrap; align-items: center; justify-content: space-between; gap: 8px; margin: 8px 0; }
+.v-pager { display: flex; flex-wrap: wrap; gap: 6px; }
+.v-pager button { font: inherit; font-size: 0.88rem; padding: 5px 12px; border-radius: 8px; border: 1px solid var(--line); background: var(--surface); color: var(--text); cursor: pointer; }
+.v-pager button:hover:not(:disabled) { border-color: var(--accent); color: var(--accent); }
+.v-pager button:disabled { opacity: 0.45; cursor: default; }
+#viewer th button { all: unset; cursor: pointer; font-weight: 600; white-space: nowrap; }
+#viewer th button:hover { color: var(--accent); }
+#viewer td { white-space: nowrap; max-width: 32em; overflow: hidden; text-overflow: ellipsis; }
+#viewer td.num, #viewer th.num { text-align: right; font-variant-numeric: tabular-nums; }
+.qa { white-space: pre-line; max-width: 46em; }
+#viewer td.long { white-space: normal; min-width: 24em; max-width: 40em; }

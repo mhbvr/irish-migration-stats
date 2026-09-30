@@ -28,9 +28,10 @@ OUT = ROOT / "_site"
 csv.field_size_limit(sys.maxsize)
 
 # Files larger than this are downloaded from GitHub instead of being copied into the site.
-COPY_LIMIT = 20 * 1024 * 1024
-# Rows shown on a dataset page; the full file is one click away.
-SHOW_ROWS = 500
+COPY_LIMIT = 60 * 1024 * 1024
+# Rows read for the page itself; the viewer then loads the whole file in the browser.
+SHOW_ROWS = 100
+FALLBACK_ROWS = 100
 # Folders whose data files must all be in the catalogue or its not_catalogued list (--strict).
 CATALOGUED_DIRS = ["data/processed", "literature"]
 YEAR_COL = re.compile(r"year|^time$|^quarter$|^date$|^week$|^day$|pq_date", re.I)
@@ -198,29 +199,109 @@ def build_publications(path):
 
 
 def build_dataset(site, src, ds, header, rows):
-    link = f' · <a href="{esc(ds["source_url"])}">original table</a>' if ds.get("source_url") else ""
+    link = ""
+    if ds.get("source_url"):
+        link = f' · <a href="{esc(ds["source_url"])}">{esc(ds.get("source_label", "original table"))}</a>'
     facts = " · ".join(
         x for x in [years_text(ds["years"]), f'{ds["rows"]:,} rows', f'{len(header)} columns'] if x
     )
-    note = (
-        f"Showing the first {len(rows):,} of {ds['rows']:,} rows. Download the file for all of them."
-        if len(rows) < ds["rows"] else ""
-    )
+    extra = ""
+    if ds.get("extra_download"):
+        label, href = ds["extra_download"]
+        extra = f'<a class="button secondary" href="{esc(href)}" download>{esc(label)}</a>'
     thead = "".join(f"<th>{esc(h)}</th>" for h in header)
     tbody = "".join(
-        "<tr>" + "".join(f"<td>{esc(v[:300])}</td>" for v in r) + "</tr>" for r in rows
+        "<tr>" + "".join(f"<td>{esc(v[:300])}</td>" for v in r) + "</tr>" for r in rows[:FALLBACK_ROWS]
     )
     body = f"""<p class="crumbs"><a href="../sources/{src['id']}.html">{esc(src['title'])}</a></p>
 <h1>{esc(ds['title'])}</h1>
 <p class="lede">{esc(ds['description'])}</p>
-<p class="small muted">{facts} · <code>{esc(ds['path'])}</code>{link}</p>
-<p class="actions"><a class="button" href="{esc(ds['href'])}" download>Download {ds['ext'].upper()} ({human_size(ds['bytes'])})</a>
-<a class="button secondary" href="{esc(site.gh_blob(ds['path']))}">View on GitHub</a></p>
-<label class="search"><span class="sr-only">Filter rows</span>
-<input id="rowq" type="search" placeholder="Filter rows, e.g. India or 2024" autocomplete="off"></label>
-<p class="small muted"><span id="rowcount"></span> {note}</p>
-<div class="table-scroll data"><table id="data"><thead><tr>{thead}</tr></thead><tbody>{tbody}</tbody></table></div>"""
+<p class="small muted">{facts} · from <a href="{esc(site.gh_blob(ds['path']))}"><code>{esc(ds['path'])}</code></a>{link}</p>
+<p class="actions"><a class="button" href="{esc(ds['href'])}" download>Download {ds['ext'].upper()} ({human_size(ds['bytes'])})</a>{extra}</p>
+<div id="viewer" data-src="{esc(ds['href'])}" data-format="{ds['ext']}" data-size="{human_size(ds['bytes'])}">
+<p id="v-status" class="small muted">Showing the first {min(len(rows), FALLBACK_ROWS):,} of {ds['rows']:,} rows.</p>
+<div class="table-scroll data"><table><thead><tr>{thead}</tr></thead><tbody>{tbody}</tbody></table></div>
+</div>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/PapaParse/5.4.1/papaparse.min.js"></script>
+<script src="../assets/viewer.js"></script>"""
     site.page(ds["page"], f"{ds['title']} · {site.cat['title']}", body, src["id"])
+
+
+def write_csv(dest, header, rows):
+    dest.parent.mkdir(parents=True, exist_ok=True)
+    with open(dest, "w", newline="", encoding="utf-8") as f:
+        w = csv.writer(f)
+        w.writerow(header)
+        w.writerows(rows)
+
+
+def expand_split(ds):
+    """One catalogue entry with a "split" becomes one dataset per group of rows."""
+    spec = ds["split"]
+    with open(ROOT / ds["path"], newline="", encoding="utf-8-sig") as f:
+        reader = csv.reader(f)
+        header = next(reader)
+        rows = list(reader)
+    col = header.index(spec["column"])
+    groups = [(g, re.compile(g["pattern"], re.I) if g["pattern"] else None) for g in spec["groups"]]
+    buckets = {g["title"]: [] for g, _ in groups}
+    for r in rows:
+        for g, rx in groups:
+            if rx is None or rx.search(r[col]):
+                buckets[g["title"]].append(r)
+                break
+    out = []
+    for g, _ in groups:
+        name = g["title"]
+        rel = f"generated/{slugify(Path(ds['path']).stem)}/{slugify(name)}.csv"
+        write_csv(OUT / "files" / rel, header, buckets[name])
+        part = dict(ds, title=ds["title"].format(group=name),
+                    description=ds["description"].format(group=name, group_lower=name.lower()),
+                    served=OUT / "files" / rel, href="../files/" + rel, slug=slugify(name))
+        part.pop("split")
+        out.append(part)
+    return out
+
+
+def build_answer_pages(site, src, ds):
+    """A page per parliamentary answer, and a CSV listing them that links to each page."""
+    answers = json.loads((ROOT / ds["path"]).read_text(encoding="utf-8"))
+    tables = {}
+    tables_path = ROOT / "data/processed/pq_extracted_tables.csv"
+    if tables_path.exists():
+        for r in csv.DictReader(open(tables_path, encoding="utf-8")):
+            tables.setdefault((r["pq_date"], r["pq_number"]), []).append(r)
+    listing = []
+    for a in sorted(answers, key=lambda a: (a["date"], int(a["question_number"])), reverse=True):
+        key = (a["date"], str(a["question_number"]))
+        rel = f"data/pq/{a['date']}-{a['question_number']}.html"
+        listing.append([a["date"], a["question_number"], a["topic"], a["asked_by"], a["answered_by"],
+                        a["question"], "../" + rel, a["url"]])
+        tbl = ""
+        if key in tables:
+            rows = "".join(
+                f"<tr><td>{esc(t['caption_before_table'][-90:])}</td><td class=num>{esc(t['year'])}</td>"
+                f"<td class=num>{esc(t['value'])}</td></tr>" for t in tables[key]
+            )
+            tbl = f"""<h2>Figures taken from this answer</h2>
+<div class="table-scroll"><table><thead><tr><th>Text before the table</th><th>Year</th><th>Value</th></tr></thead>
+<tbody>{rows}</tbody></table></div>"""
+        body = f"""<p class="crumbs"><a href="../../sources/{src['id']}.html">{esc(src['title'])}</a> ›
+<a href="../../{ds['page']}">{esc(ds['title'])}</a></p>
+<h1>Question {esc(a['question_number'])}, {esc(a['date'])}: {esc(a['topic'])}</h1>
+<p class="small muted">Asked by {esc(a['asked_by'])} · answered by the Minister for {esc(a['answered_by'])} ·
+{esc(a['chamber'])} · <a href="{esc(a['url'])}">official record</a> (tables are laid out properly there)</p>
+<h2>Question</h2>
+<p class="qa">{esc(a['question'])}</p>
+<h2>Answer</h2>
+<p class="qa">{esc(a['answer'])}</p>
+{tbl}"""
+        site.page(rel, f"Question {a['question_number']}, {a['date']} · {site.cat['title']}", body, src["id"])
+    rel = "generated/pq_statistical_answers.csv"
+    write_csv(OUT / "files" / rel,
+              ["date", "question_number", "topic", "asked_by", "answered_by", "question", "view", "url"], listing)
+    return dict(ds, served=OUT / "files" / rel, href="../files/" + rel,
+                extra_download=("Full text (JSON)", "../files/" + ds["path"]))
 
 
 def main():
@@ -242,25 +323,31 @@ def main():
 
     slugs = set()
     for src in catalog["sources"]:
+        expanded = []
         for ds in src["datasets"]:
+            expanded += expand_split(ds) if ds.get("split") else [ds]
+        src["datasets"] = expanded
+        for ds in expanded:
             path = ROOT / ds["path"]
-            slug = slugify(path.stem)
+            slug = ds.get("slug") or slugify(path.stem)
             if slug in slugs:
-                slug = slugify(ds["path"].rsplit(".", 1)[0])
+                slug = slugify(ds["path"].rsplit(".", 1)[0] + "-" + slug)
             slugs.add(slug)
             ds["page"] = f"data/{slug}.html"
-            ds["bytes"] = path.stat().st_size
-            ds["ext"] = path.suffix.lstrip(".")
-            if ds["bytes"] <= COPY_LIMIT:
-                dest = OUT / "files" / ds["path"]
+            # Copy the repository file into the site so the viewer can load it.
+            dest = OUT / "files" / ds["path"]
+            if not dest.exists() and path.stat().st_size <= COPY_LIMIT:
                 dest.parent.mkdir(parents=True, exist_ok=True)
                 shutil.copy2(path, dest)
-                ds["href"] = "../files/" + ds["path"]
-            else:
-                ds["href"] = site.gh_raw(ds["path"])
-            header, rows, ds["rows"], ds["years"] = read_table(path)
+            if ds.get("answer_pages"):
+                ds.update(build_answer_pages(site, src, ds))
+            served = ds.get("served") or path
+            ds.setdefault("href", "../files/" + ds["path"] if path.stat().st_size <= COPY_LIMIT else site.gh_raw(ds["path"]))
+            ds["bytes"] = served.stat().st_size
+            ds["ext"] = served.suffix.lstrip(".")
+            header, rows, ds["rows"], ds["years"] = read_table(served)
             build_dataset(site, src, ds, header, rows)
-            print(f"  {ds['path']}: {ds['rows']:,} rows {years_text(ds['years'])}")
+            print(f"  {ds['title']}: {ds['rows']:,} rows {years_text(ds['years'])}")
         build_source(site, src)
     build_home(site)
 

@@ -1,23 +1,5 @@
-// Row filter (dataset pages) and publication filters (research tab). No dependencies.
+// Publication filters on the research tab. No dependencies.
 (function () {
-  var rq = document.getElementById("rowq");
-  if (rq) {
-    var trs = Array.prototype.slice.call(document.querySelectorAll("#data tbody tr"));
-    var rc = document.getElementById("rowcount");
-    var texts = trs.map(function (tr) { return tr.textContent.toLowerCase(); });
-    var filter = function () {
-      var terms = rq.value.toLowerCase().split(/\s+/).filter(Boolean);
-      var shown = 0;
-      trs.forEach(function (tr, i) {
-        var ok = terms.every(function (t) { return texts[i].indexOf(t) !== -1; });
-        tr.hidden = !ok;
-        if (ok) shown++;
-      });
-      rc.textContent = terms.length ? shown + " matching rows shown." : "";
-    };
-    rq.addEventListener("input", filter);
-  }
-
   var dataEl = document.getElementById("lit-data");
   if (dataEl) {
     var recs = JSON.parse(dataEl.textContent);
