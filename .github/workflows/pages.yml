@@ -23,7 +23,6 @@ jobs:
       - uses: actions/setup-python@v5
         with:
           python-version: "3.12"
-      - run: pip install markdown
       - name: Build site
         run: python scripts/50_build_site.py --strict
       - if: github.event_name != 'pull_request'
