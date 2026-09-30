@@ -11,3 +11,6 @@ data/raw/dete_stats_page.html
 # Downloaded literature PDFs: re-fetchable, and each URL + SHA-256 is in data/raw/manifest.jsonl
 literature/esri/pdf/
 logs_*.txt
+
+# Built website (scripts/50_build_site.py); published by .github/workflows/pages.yml
+_site/
