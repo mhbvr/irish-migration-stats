@@ -1,25 +1,21 @@
-// Catalogue search (home page) and literature filters (research page). No dependencies.
+// Row filter (dataset pages) and publication filters (research tab). No dependencies.
 (function () {
-  var q = document.getElementById("q");
-  if (q) {
-    var cards = Array.prototype.slice.call(document.querySelectorAll(".card"));
-    var topics = Array.prototype.slice.call(document.querySelectorAll(".topic"));
-    var status = document.getElementById("q-status");
-    var run = function () {
-      var terms = q.value.toLowerCase().split(/\s+/).filter(Boolean);
+  var rq = document.getElementById("rowq");
+  if (rq) {
+    var trs = Array.prototype.slice.call(document.querySelectorAll("#data tbody tr"));
+    var rc = document.getElementById("rowcount");
+    var texts = trs.map(function (tr) { return tr.textContent.toLowerCase(); });
+    var filter = function () {
+      var terms = rq.value.toLowerCase().split(/\s+/).filter(Boolean);
       var shown = 0;
-      cards.forEach(function (c) {
-        var hay = c.getAttribute("data-search");
-        var ok = terms.every(function (t) { return hay.indexOf(t) !== -1; });
-        c.hidden = !ok;
+      trs.forEach(function (tr, i) {
+        var ok = terms.every(function (t) { return texts[i].indexOf(t) !== -1; });
+        tr.hidden = !ok;
         if (ok) shown++;
       });
-      topics.forEach(function (t) { t.hidden = !t.querySelector(".card:not([hidden])"); });
-      status.textContent = terms.length ? shown + " of " + cards.length + " datasets match" : "";
+      rc.textContent = terms.length ? shown + " matching rows shown." : "";
     };
-    q.addEventListener("input", run);
-    var params = new URLSearchParams(location.search);
-    if (params.get("q")) { q.value = params.get("q"); run(); }
+    rq.addEventListener("input", filter);
   }
 
   var dataEl = document.getElementById("lit-data");
